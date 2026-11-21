@@ -48,6 +48,21 @@ Start with route 1 if you want a tool that edits like AutoCut. Read route 2 if y
 | Tariq's flow | [`studio/edit_flow.py`][edit-flow], [`studio/edit_master.py`][edit-master], [`studio/edit_animations.py`][edit-anim], [`dajoshi/edit_plan.py`][edit-plan] |
 | Tariq's review screen | [`studio/web/edit-flow.js`][edit-flow-js] |
 
+## Getting it running
+
+Everything needed is in two public repositories, this one and [Josh OS][josh-os]. The editing app's Python helper loads the rendering engine from Josh OS, so you need both.
+
+1. **Get both repositories.** Clone this one, and clone Josh OS anywhere. The engine is its `dajoshi/` folder, and the helper also uses its `worker.py`.
+2. **Install Python 3.12** (what Josh runs) in its own virtual environment, then `pip install numpy scipy av opencv-python lxml faster-whisper playwright` and `playwright install chromium`.
+3. **Get FFmpeg** and the faster-whisper `medium.en` model, downloaded to a local folder.
+4. **Make the engine's settings.** Copy Josh OS's `settings.example.json` to `settings.json` and fill in the Python, FFmpeg and model paths.
+5. **Point Josh Cut Pro at it.** In `josh-cut-pro/config.json`, set `engine` to your Josh OS folder and `projects` to an empty folder for its working files. `Start Josh Cut Pro.bat` has the engine path written in, so change that too, or set `DAJOSHI_ENGINE`.
+6. **Install the Premiere panel.** Zip the contents of `josh-cut-pro/panel/` (not the folder itself, and without `preview.html`) and rename the zip to end in `.ccx`. Double-clicking it opens Adobe's installer. Change the `id` in `manifest.json` to your own first.
+7. **Start it** with `Start Josh Cut Pro.bat`. The app opens in an Edge window. Enter your Claude API key in its Settings, which saves it to `secrets.json` next to `config.json` and nowhere else.
+8. **Check Premiere.** Open a sequence with the camera on V1 and the mic on A1, then run Settings > Check Premiere in the app before your first cut.
+
+The helper refuses media work while OBS is open, because Josh records with it. The check is `guard_recording` in Josh OS's `worker.py`, and you can remove it if you don't use OBS.
+
 ## Running it without Premiere
 
 `tests/ppro-stub.js` is a fake `ppro` module that models Josh's Premiere. Trims that reach before the media start fail, and clip objects go stale after every edit, the same as the real thing. `panel/preview.html` runs the panel in a normal browser against it. `tests/mock_claude.py` stands in for the Claude API (set `DAJOSHI_CLAUDE_URL`). `tests/ui-inplace.py` drives the app and the stubbed panel through a whole edit with Playwright, and checks the mic stays in sync.
