@@ -1,0 +1,658 @@
+[
+  {
+    "source_start_s": 19.330000000000002,
+    "source_end_s": 19.89,
+    "duration_s": 0.56,
+    "threshold_dbfs": -50,
+    "left_words": "question and you don't have the answer,",
+    "right_words": "it's a make or break moment. And I see"
+  },
+  {
+    "source_start_s": 54.82,
+    "source_end_s": 55.300000000000004,
+    "duration_s": 0.48,
+    "threshold_dbfs": -50,
+    "left_words": "doubt everything else that they say.",
+    "right_words": "get more critical of their work, and"
+  },
+  {
+    "source_start_s": 87.75,
+    "source_end_s": 88.09,
+    "duration_s": 0.34,
+    "threshold_dbfs": -50,
+    "left_words": "say when the moment comes, and to",
+    "right_words": "find a way to still add something when you"
+  },
+  {
+    "source_start_s": 92.57000000000001,
+    "source_end_s": 92.87,
+    "duration_s": 0.3,
+    "threshold_dbfs": -50,
+    "left_words": "answer. Then listen carefully, because",
+    "right_words": "this will completely change how you approach"
+  },
+  {
+    "source_start_s": 95.93,
+    "source_end_s": 96.25,
+    "duration_s": 0.32,
+    "threshold_dbfs": -50,
+    "left_words": "how you approach these situations.",
+    "right_words": "Because in this video, I'll show you how to"
+  },
+  {
+    "source_start_s": 98.59,
+    "source_end_s": 98.91,
+    "duration_s": 0.32,
+    "threshold_dbfs": -50,
+    "left_words": "in this video, I'll show you how to handle",
+    "right_words": "even the toughest executive questions"
+  },
+  {
+    "source_start_s": 100.91,
+    "source_end_s": 101.26,
+    "duration_s": 0.35000000000000003,
+    "threshold_dbfs": -50,
+    "left_words": "even the toughest executive questions",
+    "right_words": "from the most critical executives."
+  },
+  {
+    "source_start_s": 103.55,
+    "source_end_s": 103.85000000000001,
+    "duration_s": 0.3,
+    "threshold_dbfs": -50,
+    "left_words": "most critical executives.",
+    "right_words": "Even if you don't actually know the answer to the"
+  },
+  {
+    "source_start_s": 110.92,
+    "source_end_s": 111.28,
+    "duration_s": 0.36,
+    "threshold_dbfs": -50,
+    "left_words": "more credibility than you went in with.",
+    "right_words": "Now,  the saddest part about this"
+  },
+  {
+    "source_start_s": 111.58,
+    "source_end_s": 111.99000000000001,
+    "duration_s": 0.41000000000000003,
+    "threshold_dbfs": -50,
+    "left_words": "than you went in with.  Now,",
+    "right_words": "the saddest part about this situation is"
+  },
+  {
+    "source_start_s": 116.64,
+    "source_end_s": 117.03,
+    "duration_s": 0.39,
+    "threshold_dbfs": -50,
+    "left_words": "it hits the smartest people the hardest",
+    "right_words": "because you know, your subject better than anyone"
+  },
+  {
+    "source_start_s": 130.85,
+    "source_end_s": 131.21,
+    "duration_s": 0.36,
+    "threshold_dbfs": -50,
+    "left_words": "give them exactly what they asked for.",
+    "right_words": "So when you con, you feel like"
+  },
+  {
+    "source_start_s": 136.86,
+    "source_end_s": 137.16,
+    "duration_s": 0.3,
+    "threshold_dbfs": -50,
+    "left_words": "means your knowledge is invisible.",
+    "right_words": "And that's what makes it such a critical"
+  },
+  {
+    "source_start_s": 151.53,
+    "source_end_s": 151.95000000000002,
+    "duration_s": 0.42,
+    "threshold_dbfs": -50,
+    "left_words": "important skill to have in the workplace.",
+    "right_words": "So let's break down what's going on"
+  },
+  {
+    "source_start_s": 155.6,
+    "source_end_s": 156.06,
+    "duration_s": 0.46,
+    "threshold_dbfs": -50,
+    "left_words": "on and what you should do instead.",
+    "right_words": "Now the first part is"
+  },
+  {
+    "source_start_s": 156.29,
+    "source_end_s": 156.64000000000001,
+    "duration_s": 0.35000000000000003,
+    "threshold_dbfs": -50,
+    "left_words": "what you should do instead.  Now",
+    "right_words": "the first part is when you don't"
+  },
+  {
+    "source_start_s": 157.63,
+    "source_end_s": 158.02,
+    "duration_s": 0.39,
+    "threshold_dbfs": -50,
+    "left_words": "Now the first part is",
+    "right_words": "when you don't know the answer,  and"
+  },
+  {
+    "source_start_s": 159.32,
+    "source_end_s": 159.71,
+    "duration_s": 0.39,
+    "threshold_dbfs": -50,
+    "left_words": "is when you don't know the answer,",
+    "right_words": "and when you don't know the answer, you"
+  },
+  {
+    "source_start_s": 163.36,
+    "source_end_s": 163.96,
+    "duration_s": 0.6,
+    "threshold_dbfs": -50,
+    "left_words": "you assume that you've got nothing to add.",
+    "right_words": "Which I think is wrong because  you"
+  },
+  {
+    "source_start_s": 165.24,
+    "source_end_s": 165.70000000000002,
+    "duration_s": 0.46,
+    "threshold_dbfs": -50,
+    "left_words": "add.  Which I think is wrong because",
+    "right_words": "you know this topic better than almost"
+  },
+  {
+    "source_start_s": 171.93,
+    "source_end_s": 172.38,
+    "duration_s": 0.45,
+    "threshold_dbfs": -50,
+    "left_words": "you can add to this conversation.",
+    "right_words": "You just need a way to get from that"
+  },
+  {
+    "source_start_s": 175.03,
+    "source_end_s": 175.4,
+    "duration_s": 0.37,
+    "threshold_dbfs": -50,
+    "left_words": "way to get from that question",
+    "right_words": "to the part of the conversation where you"
+  },
+  {
+    "source_start_s": 178.72,
+    "source_end_s": 179.04,
+    "duration_s": 0.32,
+    "threshold_dbfs": -50,
+    "left_words": "where you can add your value,",
+    "right_words": "and the way you do that is with a question."
+  },
+  {
+    "source_start_s": 181.27,
+    "source_end_s": 181.69,
+    "duration_s": 0.42,
+    "threshold_dbfs": -50,
+    "left_words": "way you do that is with a question.",
+    "right_words": "But it does have to be a"
+  },
+  {
+    "source_start_s": 181.97,
+    "source_end_s": 182.3,
+    "duration_s": 0.33,
+    "threshold_dbfs": -50,
+    "left_words": "that is with a question.  But",
+    "right_words": "it does have to be a specific"
+  },
+  {
+    "source_start_s": 185.58,
+    "source_end_s": 186.15,
+    "duration_s": 0.5700000000000001,
+    "threshold_dbfs": -50,
+    "left_words": "specific type of question, because",
+    "right_words": "if you just fire any question back"
+  },
+  {
+    "source_start_s": 188.45000000000002,
+    "source_end_s": 188.86,
+    "duration_s": 0.41000000000000003,
+    "threshold_dbfs": -50,
+    "left_words": "just fire any question back then,",
+    "right_words": "it sounds like you're trying to avoid"
+  },
+  {
+    "source_start_s": 194.97,
+    "source_end_s": 195.38,
+    "duration_s": 0.41000000000000003,
+    "threshold_dbfs": -50,
+    "left_words": "worse than not having the answer at all.",
+    "right_words": "So say you're presenting a new"
+  },
+  {
+    "source_start_s": 199.26,
+    "source_end_s": 199.6,
+    "duration_s": 0.34,
+    "threshold_dbfs": -50,
+    "left_words": "onboarding plan to the leadership team.",
+    "right_words": "of the stuff I know,  I"
+  },
+  {
+    "source_start_s": 239.43,
+    "source_end_s": 239.93,
+    "duration_s": 0.5,
+    "threshold_dbfs": -50,
+    "left_words": "on slide three and the CEO asks,",
+    "right_words": "hey,  could you just tell me what's"
+  },
+  {
+    "source_start_s": 240.1,
+    "source_end_s": 240.6,
+    "duration_s": 0.5,
+    "threshold_dbfs": -50,
+    "left_words": "and the CEO asks,  hey,",
+    "right_words": "could you just tell me what's the 90 day"
+  },
+  {
+    "source_start_s": 259.31,
+    "source_end_s": 259.95,
+    "duration_s": 0.64,
+    "threshold_dbfs": -50,
+    "left_words": "And then it's like,",
+    "right_words": "oh because  you've only got the"
+  },
+  {
+    "source_start_s": 264.85,
+    "source_end_s": 265.31,
+    "duration_s": 0.46,
+    "threshold_dbfs": -50,
+    "left_words": "business. You never split it by site.",
+    "right_words": "So you have to say, well"
+  },
+  {
+    "source_start_s": 266.33,
+    "source_end_s": 266.74,
+    "duration_s": 0.41000000000000003,
+    "threshold_dbfs": -50,
+    "left_words": "by site.  So you have to say,",
+    "right_words": "well  I don't actually have that but"
+  },
+  {
+    "source_start_s": 269.77,
+    "source_end_s": 270.28000000000003,
+    "duration_s": 0.51,
+    "threshold_dbfs": -50,
+    "left_words": "actually have that but I'll look it up for you.",
+    "right_words": "Then what do most people do in that situation."
+  },
+  {
+    "source_start_s": 274.68,
+    "source_end_s": 275.09000000000003,
+    "duration_s": 0.41000000000000003,
+    "threshold_dbfs": -50,
+    "left_words": "I see them do this all the time because",
+    "right_words": "they feel like they have to add some value."
+  },
+  {
+    "source_start_s": 277.26,
+    "source_end_s": 277.62,
+    "duration_s": 0.36,
+    "threshold_dbfs": -50,
+    "left_words": "feel like they have to add some value.",
+    "right_words": "So they try and remember the number"
+  },
+  {
+    "source_start_s": 285.96,
+    "source_end_s": 286.27,
+    "duration_s": 0.31,
+    "threshold_dbfs": -50,
+    "left_words": "Now  don't do that because",
+    "right_words": "now the executive is sat there thinking,"
+  },
+  {
+    "source_start_s": 288.43,
+    "source_end_s": 288.79,
+    "duration_s": 0.36,
+    "threshold_dbfs": -50,
+    "left_words": "the executive is sat there thinking,",
+    "right_words": "who is this guy? He doesn't know what he's"
+  },
+  {
+    "source_start_s": 289.61,
+    "source_end_s": 289.92,
+    "duration_s": 0.31,
+    "threshold_dbfs": -50,
+    "left_words": "sat there thinking, who is this guy?",
+    "right_words": "doesn't know what he's talking about. And"
+  },
+  {
+    "source_start_s": 295.85,
+    "source_end_s": 296.19,
+    "duration_s": 0.34,
+    "threshold_dbfs": -50,
+    "left_words": "now doubting everything else.",
+    "right_words": "And this happens because your instinct"
+  },
+  {
+    "source_start_s": 301.90000000000003,
+    "source_end_s": 302.23,
+    "duration_s": 0.33,
+    "threshold_dbfs": -50,
+    "left_words": "you can't just say you don't know.",
+    "right_words": "So let me show you how to add that value."
+  },
+  {
+    "source_start_s": 310.8,
+    "source_end_s": 311.13,
+    "duration_s": 0.33,
+    "threshold_dbfs": -50,
+    "left_words": "is deal with the question they asked you.",
+    "right_words": "So you say  I don't have it"
+  },
+  {
+    "source_start_s": 311.94,
+    "source_end_s": 312.49,
+    "duration_s": 0.55,
+    "threshold_dbfs": -50,
+    "left_words": "question they asked you.  So you say",
+    "right_words": "don't have it split by sight in front of me."
+  },
+  {
+    "source_start_s": 317.07,
+    "source_end_s": 317.54,
+    "duration_s": 0.47000000000000003,
+    "threshold_dbfs": -50,
+    "left_words": "pull that together for you by tomorrow.",
+    "right_words": "Now done. So their questions"
+  },
+  {
+    "source_start_s": 328.71,
+    "source_end_s": 329.28000000000003,
+    "duration_s": 0.5700000000000001,
+    "threshold_dbfs": -50,
+    "left_words": "conversation where you can add value again.",
+    "right_words": "You say  to make sure that I bring you"
+  },
+  {
+    "source_start_s": 329.68,
+    "source_end_s": 330.1,
+    "duration_s": 0.42,
+    "threshold_dbfs": -50,
+    "left_words": "can add value again.  You say",
+    "right_words": "to make sure that I bring you everything you need."
+  },
+  {
+    "source_start_s": 334.40000000000003,
+    "source_end_s": 335.08,
+    "duration_s": 0.68,
+    "threshold_dbfs": -50,
+    "left_words": "just ask, what are you hoping to see from it?",
+    "right_words": "And now they get to explain"
+  },
+  {
+    "source_start_s": 338.42,
+    "source_end_s": 338.75,
+    "duration_s": 0.33,
+    "threshold_dbfs": -50,
+    "left_words": "explain what they actually wanted.",
+    "right_words": "So they might say,  oh, well, I was just"
+  },
+  {
+    "source_start_s": 339.45,
+    "source_end_s": 339.77,
+    "duration_s": 0.32,
+    "threshold_dbfs": -50,
+    "left_words": "they actually wanted. So they might say,",
+    "right_words": "oh, well, I was just wondering whether we should"
+  },
+  {
+    "source_start_s": 349.54,
+    "source_end_s": 349.88,
+    "duration_s": 0.34,
+    "threshold_dbfs": -50,
+    "left_words": "Because you know the answer to that.",
+    "right_words": "It's half the reason you built this plan."
+  },
+  {
+    "source_start_s": 360.29,
+    "source_end_s": 360.75,
+    "duration_s": 0.46,
+    "threshold_dbfs": -50,
+    "left_words": "And you've probably sketched a plan for it.",
+    "right_words": "So this is where you get to contribute. You can"
+  },
+  {
+    "source_start_s": 382.29,
+    "source_end_s": 382.72,
+    "duration_s": 0.43,
+    "threshold_dbfs": -50,
+    "left_words": "probably won't happen in the meeting, but",
+    "right_words": "it is building your credibility because"
+  },
+  {
+    "source_start_s": 396.59000000000003,
+    "source_end_s": 396.90000000000003,
+    "duration_s": 0.31,
+    "threshold_dbfs": -50,
+    "left_words": "they asked for, like a transaction,",
+    "right_words": "you gave them the thing they actually wanted."
+  },
+  {
+    "source_start_s": 399.12,
+    "source_end_s": 399.5,
+    "duration_s": 0.38,
+    "threshold_dbfs": -50,
+    "left_words": "gave them the thing they actually wanted.",
+    "right_words": "So the second thing in this situation"
+  },
+  {
+    "source_start_s": 409.71000000000004,
+    "source_end_s": 410.02,
+    "duration_s": 0.31,
+    "threshold_dbfs": -50,
+    "left_words": "many spot for us,  because",
+    "right_words": "what happens to so many smart professionals"
+  },
+  {
+    "source_start_s": 412.33,
+    "source_end_s": 412.78000000000003,
+    "duration_s": 0.45,
+    "threshold_dbfs": -50,
+    "left_words": "happens to so many smart professionals is",
+    "right_words": "you create this cognitive block"
+  },
+  {
+    "source_start_s": 416.73,
+    "source_end_s": 417.09000000000003,
+    "duration_s": 0.36,
+    "threshold_dbfs": -50,
+    "left_words": "in your head straight away,",
+    "right_words": "right? The executive asked for one"
+  },
+  {
+    "source_start_s": 422.85,
+    "source_end_s": 423.15000000000003,
+    "duration_s": 0.3,
+    "threshold_dbfs": -50,
+    "left_words": "And you don't have that thing.",
+    "right_words": "So you think you're done.  And"
+  },
+  {
+    "source_start_s": 426.13,
+    "source_end_s": 426.46000000000004,
+    "duration_s": 0.33,
+    "threshold_dbfs": -50,
+    "left_words": "done.  And this needs to stop. Because",
+    "right_words": "thing is, executives very"
+  },
+  {
+    "source_start_s": 427.0,
+    "source_end_s": 427.34000000000003,
+    "duration_s": 0.34,
+    "threshold_dbfs": -50,
+    "left_words": "this needs to stop. Because the thing is,",
+    "right_words": "executives very rarely ask for"
+  },
+  {
+    "source_start_s": 437.33,
+    "source_end_s": 437.86,
+    "duration_s": 0.53,
+    "threshold_dbfs": -50,
+    "left_words": "I really hope someone has that number today.",
+    "right_words": "They're asking for the number for a"
+  },
+  {
+    "source_start_s": 440.23,
+    "source_end_s": 440.57,
+    "duration_s": 0.34,
+    "threshold_dbfs": -50,
+    "left_words": "asking for the number for a reason.",
+    "right_words": "There's something else they're trying to work"
+  },
+  {
+    "source_start_s": 451.99,
+    "source_end_s": 452.39,
+    "duration_s": 0.4,
+    "threshold_dbfs": -50,
+    "left_words": "is just the first rule they could think of.",
+    "right_words": "So when you assume the thing they ask"
+  },
+  {
+    "source_start_s": 455.98,
+    "source_end_s": 456.44,
+    "duration_s": 0.46,
+    "threshold_dbfs": -50,
+    "left_words": "they ask for is the thing they want,",
+    "right_words": "then you're stuck. Because if you don't have it,"
+  },
+  {
+    "source_start_s": 464.36,
+    "source_end_s": 464.68,
+    "duration_s": 0.32,
+    "threshold_dbfs": -50,
+    "left_words": "you ask what they want to know out of it,",
+    "right_words": "question opens up a whole"
+  },
+  {
+    "source_start_s": 468.05,
+    "source_end_s": 468.45,
+    "duration_s": 0.4,
+    "threshold_dbfs": -50,
+    "left_words": "a whole new angle on the subject.",
+    "right_words": "It opens up a space for your"
+  },
+  {
+    "source_start_s": 469.69,
+    "source_end_s": 469.99,
+    "duration_s": 0.3,
+    "threshold_dbfs": -50,
+    "left_words": "subject.  It opens up a space",
+    "right_words": "your knowledge to be visible  a"
+  },
+  {
+    "source_start_s": 476.92,
+    "source_end_s": 477.22,
+    "duration_s": 0.3,
+    "threshold_dbfs": -50,
+    "left_words": "is something you will already know.",
+    "right_words": "And in my experience, once you've"
+  },
+  {
+    "source_start_s": 478.35,
+    "source_end_s": 478.68,
+    "duration_s": 0.33,
+    "threshold_dbfs": -50,
+    "left_words": "know.  And in my experience,",
+    "right_words": "once you've told them what they actually"
+  },
+  {
+    "source_start_s": 481.32,
+    "source_end_s": 481.62,
+    "duration_s": 0.3,
+    "threshold_dbfs": -50,
+    "left_words": "them what they actually wanted to know,",
+    "right_words": "then they no longer even want the number they asked"
+  },
+  {
+    "source_start_s": 497.01,
+    "source_end_s": 497.38,
+    "duration_s": 0.37,
+    "threshold_dbfs": -50,
+    "left_words": "look more prepared as well.",
+    "right_words": "It's actually better than if you had"
+  },
+  {
+    "source_start_s": 500.32,
+    "source_end_s": 500.63,
+    "duration_s": 0.31,
+    "threshold_dbfs": -50,
+    "left_words": "than if you had the number the whole time,",
+    "right_words": "because if the executive said,"
+  },
+  {
+    "source_start_s": 500.91,
+    "source_end_s": 501.22,
+    "duration_s": 0.31,
+    "threshold_dbfs": -50,
+    "left_words": "you had the number the whole time, because",
+    "right_words": "if the executive said, what's the"
+  },
+  {
+    "source_start_s": 502.28000000000003,
+    "source_end_s": 502.63,
+    "duration_s": 0.35000000000000003,
+    "threshold_dbfs": -50,
+    "left_words": "because if the executive said,",
+    "right_words": "what's the turnover in the site? And you just"
+  },
+  {
+    "source_start_s": 506.11,
+    "source_end_s": 506.51,
+    "duration_s": 0.4,
+    "threshold_dbfs": -50,
+    "left_words": "And you just said, oh, it's 20%",
+    "right_words": "because you had the number, then you've just"
+  },
+  {
+    "source_start_s": 513.95,
+    "source_end_s": 514.33,
+    "duration_s": 0.38,
+    "threshold_dbfs": -50,
+    "left_words": "you're viewed as support",
+    "right_words": "that doesn't demonstrate your knowledge or"
+  },
+  {
+    "source_start_s": 516.77,
+    "source_end_s": 517.17,
+    "duration_s": 0.4,
+    "threshold_dbfs": -50,
+    "left_words": "demonstrate your knowledge or expertise.",
+    "right_words": "You are just the person who can bring"
+  },
+  {
+    "source_start_s": 519.52,
+    "source_end_s": 519.84,
+    "duration_s": 0.32,
+    "threshold_dbfs": -50,
+    "left_words": "just the person who can bring numbers",
+    "right_words": "other people to make decisions"
+  },
+  {
+    "source_start_s": 532.91,
+    "source_end_s": 533.24,
+    "duration_s": 0.33,
+    "threshold_dbfs": -50,
+    "left_words": "have the number, you should still ask the question.",
+    "right_words": "So you say, oh, it's 20%. I've"
+  },
+  {
+    "source_start_s": 538.36,
+    "source_end_s": 538.8100000000001,
+    "duration_s": 0.45,
+    "threshold_dbfs": -50,
+    "left_words": "around that number. What was it you wanted to know?",
+    "right_words": "This opens up an angle on that question"
+  },
+  {
+    "source_start_s": 542.55,
+    "source_end_s": 542.97,
+    "duration_s": 0.42,
+    "threshold_dbfs": -50,
+    "left_words": "question to put your knowledge on display.",
+    "right_words": "And if you want to learn more about communicating"
+  }
+]

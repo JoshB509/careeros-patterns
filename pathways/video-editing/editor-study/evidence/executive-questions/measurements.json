@@ -1,0 +1,39 @@
+{
+  "source": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+  "final": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\export.mp4",
+  "project": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\Answering-Exec-Questions-Animation-Edit-v03.prproj",
+  "source_duration_s": 553.6463333333334,
+  "decoded_final_duration_s": 408.704,
+  "timeline_end_s": 408.7329246096545,
+  "sample_rate": 48000,
+  "ticks_per_second": 254016000000,
+  "clips": 15,
+  "internal_cuts": 14,
+  "trim_start_s": 15.433317900364544,
+  "trim_end_s": 5.14688182037753,
+  "kept_duration_s": 408.73292460965445,
+  "internal_removed_s": 124.33320900293683,
+  "source_words": 1603,
+  "mapped_words": 1389,
+  "db_rms_quantiles": {
+    "1": -92.51243264538475,
+    "5": -90.24612146080388,
+    "10": -87.61289648406476,
+    "25": -60.60778766798645,
+    "50": -37.09032849883873,
+    "75": -27.486884217130687,
+    "90": -23.01175888675346,
+    "95": -21.00305447717307,
+    "99": -17.649663417190656
+  },
+  "minimum_correlation": 0.9517459560375953,
+  "lag_ms_range": [
+    21.302142672681157,
+    21.372856605893276
+  ],
+  "sha256": {
+    "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav": "f227708cc96ca9bf08e0810390f5a64461d0bb786cb7864af5e7c779cc77b7ff",
+    "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\Answering-Exec-Questions-Animation-Edit-v03.prproj": "5c54cc4df2477d12c6697c9133689c06deb6cb7e0b7e5d3c36503f110ba39dda"
+  },
+  "method": "Every internal source discontinuity from final Premiere A1. RMS 10ms native microphone PCM. 45 acoustic validation windows (3 per clip). No perceptual listening or cough labels implied."
+}

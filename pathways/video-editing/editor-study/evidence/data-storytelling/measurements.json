@@ -1,0 +1,160 @@
+{
+  "source": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\Recorded\\Input\\00108_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+  "final": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\video\\Data Storytelling - Animation Edit v01.mp4",
+  "base_project": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\video\\Data storytelling.prproj",
+  "final_project": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\video\\Animation-Edit-v01-20261102\\Data-Storytelling-Animation-Edit-v01.prproj",
+  "sample_rate": 48000,
+  "channels": 1,
+  "source_duration_s": 1204.5126666666667,
+  "export_decoded_audio_duration_s": 987.4133333333333,
+  "base_duration_s": 1014.665652023967,
+  "final_duration_s": 987.4323459233237,
+  "base_narration_clips": 39,
+  "final_narration_clips": 44,
+  "room_tone_inserts": 6,
+  "room_tone_duration_s": 4.499995500106195,
+  "base_internal_removals": 38,
+  "final_internal_removals": 38,
+  "base_narration_duration_s": 1014.6656520239673,
+  "final_narration_duration_s": 982.9323504232176,
+  "extra_narration_removed_s": 31.733301600749684,
+  "extra_narration_restored_s": 0,
+  "retained_pauses_count": 210,
+  "retained_pauses_at_least_450ms": 73,
+  "retained_pauses_at_least_700ms": 3,
+  "longest_retained_pauses": [
+    {
+      "source_start_s": 309.35,
+      "source_end_s": 310.16,
+      "duration_s": 0.81,
+      "final_start_s": 255.05005429871738,
+      "threshold_dbfs": -50,
+      "left_words": "goes, so which of these are my men to care about?",
+      "right_words": "That's why the first letter C is known as clear."
+    },
+    {
+      "source_start_s": 937.8100000000001,
+      "source_end_s": 938.59,
+      "duration_s": 0.78,
+      "final_start_s": 779.1434919962522,
+      "threshold_dbfs": -50,
+      "left_words": "itself, with a few well-chosen numbers.",
+      "right_words": "So think about what an executive is going"
+    },
+    {
+      "source_start_s": 475.69,
+      "source_end_s": 476.45,
+      "duration_s": 0.76,
+      "final_start_s": 379.8234291977356,
+      "threshold_dbfs": -50,
+      "left_words": "was left was just the one number that mattered.",
+      "right_words": "I hated this. It looked empty. It made it"
+    },
+    {
+      "source_start_s": 540.14,
+      "source_end_s": 540.82,
+      "duration_s": 0.68,
+      "final_start_s": 437.57343589757727,
+      "threshold_dbfs": -50,
+      "left_words": "story, do we need to show every single department?",
+      "right_words": "Well not really. We can just"
+    },
+    {
+      "source_start_s": 631.45,
+      "source_end_s": 632.12,
+      "duration_s": 0.67,
+      "final_start_s": 522.3167757974222,
+      "threshold_dbfs": -50,
+      "left_words": "small marker in March where the line starts to climb.",
+      "right_words": "If we put those two regions next to each other, you'll see it straight"
+    },
+    {
+      "source_start_s": 445.58,
+      "source_end_s": 446.23,
+      "duration_s": 0.65,
+      "final_start_s": 359.34675289796314,
+      "threshold_dbfs": -50,
+      "left_words": "to agree. Once they understood all of the data.",
+      "right_words": "this never worked."
+    },
+    {
+      "source_start_s": 427.36,
+      "source_end_s": 428.0,
+      "duration_s": 0.64,
+      "final_start_s": 341.1267528979631,
+      "threshold_dbfs": -50,
+      "left_words": "those numbers were true. And then they'd say, yeah,",
+      "right_words": "but anyway. And then they do something else. So"
+    },
+    {
+      "source_start_s": 202.0,
+      "source_end_s": 202.63,
+      "duration_s": 0.63,
+      "final_start_s": 181.13335419950707,
+      "threshold_dbfs": -50,
+      "left_words": "what it means, then they're simply not going to act on it.",
+      "right_words": "Now, adding that layer is a lot easier than it"
+    },
+    {
+      "source_start_s": 428.62,
+      "source_end_s": 429.25,
+      "duration_s": 0.63,
+      "final_start_s": 342.3867528979631,
+      "threshold_dbfs": -50,
+      "left_words": "And then they'd say, yeah, but anyway.",
+      "right_words": "And then they do something else. So I did what felt"
+    },
+    {
+      "source_start_s": 1065.04,
+      "source_end_s": 1065.67,
+      "duration_s": 0.63,
+      "final_start_s": 871.773526595435,
+      "threshold_dbfs": -50,
+      "left_words": "the old shift pattern with one warehouse team next month.",
+      "right_words": "So as they read down the page, they go from what"
+    },
+    {
+      "source_start_s": 266.19,
+      "source_end_s": 266.81,
+      "duration_s": 0.62,
+      "final_start_s": 218.39004779887097,
+      "threshold_dbfs": -50,
+      "left_words": "asking questions and poking holes in the chart",
+      "right_words": "demonstrate these changes. Let's make them on a real chart."
+    },
+    {
+      "source_start_s": 814.25,
+      "source_end_s": 814.87,
+      "duration_s": 0.62,
+      "final_start_s": 669.0834784965709,
+      "threshold_dbfs": -50,
+      "left_words": "so instead we're just going to tell them the key message.",
+      "right_words": "So we say warehouse turnover has doubled since"
+    }
+  ],
+  "candidate_events": 13,
+  "candidate_states": {
+    "kept": 7,
+    "removed": 6,
+    "partly_removed": 0
+  },
+  "correlation_min": 0.9586006076821433,
+  "correlation_median": 0.9926569590786982,
+  "correlation_windows": 132,
+  "lag_ms_range": [
+    21.302776371726395,
+    21.381692460352042
+  ],
+  "source_rms_dbfs_quantiles": {
+    "1": -91.10081115967061,
+    "5": -86.03069059167265,
+    "10": -78.70844219804741,
+    "25": -55.62710904909796,
+    "50": -35.28584405055133,
+    "75": -27.384718369023368,
+    "90": -23.464018636421894,
+    "95": -21.610319493899688,
+    "99": -18.445734928908287
+  },
+  "method": "All timeline source ranges examined; 10 ms native PCM RMS. Energy-defined pauses and ASR-gap event candidates are NOT verified intentional pauses or coughs. No perceptual listening pass. Room-tone inserts excluded from narration source deletion math."
+}

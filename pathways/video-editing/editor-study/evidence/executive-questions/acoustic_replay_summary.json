@@ -1,0 +1,191 @@
+{
+  "method": "Current cleancut acoustic_keeps on 16kHz resample of native mic. Geometric interval disagreement with editor reference, not semantic error. Pause=450ms. No word-removal stage.",
+  "duration_s": 553.6463333333334,
+  "floor_db": -87.92709655761719,
+  "speech_db": -20.9964412689209,
+  "auto_db": -65.0,
+  "human_kept_s": 408.73292460965445,
+  "human_removed_s": 144.9134087236789,
+  "variants": [
+    {
+      "threshold_db": -65.0,
+      "settings": {
+        "max_pause": 0.45,
+        "pad_before": 0.08,
+        "pad_after": 0.1,
+        "cut_sounds": true
+      },
+      "kept_ranges": 23,
+      "internal_cuts": 22,
+      "head_trim_s": 15.38,
+      "tail_trim_s": 5.296333333333337,
+      "sounds_counter": 10,
+      "predicted_kept_s": 472.40000000000003,
+      "predicted_removed_s": 81.24633333333333,
+      "human_kept_removed_s": 1.2158795185932831,
+      "human_removed_kept_s": 64.88295490893887,
+      "cuts_entirely_inside_human_kept": 1,
+      "seconds_removed_by_those_cuts": 0.37000000000000455
+    },
+    {
+      "threshold_db": -65.0,
+      "settings": {
+        "max_pause": 0.45,
+        "pad_before": 0.1,
+        "pad_after": 0.15,
+        "cut_sounds": true
+      },
+      "kept_ranges": 23,
+      "internal_cuts": 22,
+      "head_trim_s": 15.360000000000001,
+      "tail_trim_s": 5.246333333333382,
+      "sounds_counter": 10,
+      "predicted_kept_s": 474.0099999999999,
+      "predicted_removed_s": 79.63633333333348,
+      "human_kept_removed_s": 0.9187209302131123,
+      "human_removed_kept_s": 66.19579632055854,
+      "cuts_entirely_inside_human_kept": 1,
+      "seconds_removed_by_those_cuts": 0.30000000000001137
+    },
+    {
+      "threshold_db": -65.0,
+      "settings": {
+        "max_pause": 0.45,
+        "pad_before": 0.1,
+        "pad_after": 0.19,
+        "cut_sounds": true
+      },
+      "kept_ranges": 23,
+      "internal_cuts": 22,
+      "head_trim_s": 15.360000000000001,
+      "tail_trim_s": 5.206333333333305,
+      "sounds_counter": 10,
+      "predicted_kept_s": 474.9300000000002,
+      "predicted_removed_s": 78.71633333333318,
+      "human_kept_removed_s": 0.7423998220504586,
+      "human_removed_kept_s": 66.93947521239619,
+      "cuts_entirely_inside_human_kept": 1,
+      "seconds_removed_by_those_cuts": 0.2599999999999909
+    },
+    {
+      "threshold_db": -50,
+      "settings": {
+        "max_pause": 0.45,
+        "pad_before": 0.08,
+        "pad_after": 0.1,
+        "cut_sounds": true
+      },
+      "kept_ranges": 41,
+      "internal_cuts": 40,
+      "head_trim_s": 15.39,
+      "tail_trim_s": 5.3863333333333685,
+      "sounds_counter": 4,
+      "predicted_kept_s": 462.1900000000004,
+      "predicted_removed_s": 91.45633333333296,
+      "human_kept_removed_s": 6.179979400486502,
+      "human_removed_kept_s": 59.63705479083245,
+      "cuts_entirely_inside_human_kept": 14,
+      "seconds_removed_by_those_cuts": 4.8399999999998755
+    },
+    {
+      "threshold_db": -50,
+      "settings": {
+        "max_pause": 0.45,
+        "pad_before": 0.1,
+        "pad_after": 0.15,
+        "cut_sounds": true
+      },
+      "kept_ranges": 41,
+      "internal_cuts": 40,
+      "head_trim_s": 15.370000000000001,
+      "tail_trim_s": 5.336333333333414,
+      "sounds_counter": 4,
+      "predicted_kept_s": 465.0600000000001,
+      "predicted_removed_s": 88.58633333333324,
+      "human_kept_removed_s": 4.86486524255173,
+      "human_removed_kept_s": 61.1919406328974,
+      "cuts_entirely_inside_human_kept": 14,
+      "seconds_removed_by_those_cuts": 3.859999999999957
+    },
+    {
+      "threshold_db": -50,
+      "settings": {
+        "max_pause": 0.45,
+        "pad_before": 0.1,
+        "pad_after": 0.19,
+        "cut_sounds": true
+      },
+      "kept_ranges": 41,
+      "internal_cuts": 40,
+      "head_trim_s": 15.370000000000001,
+      "tail_trim_s": 5.296333333333337,
+      "sounds_counter": 4,
+      "predicted_kept_s": 466.70000000000067,
+      "predicted_removed_s": 86.94633333333269,
+      "human_kept_removed_s": 4.104865242551398,
+      "human_removed_kept_s": 62.07194063289762,
+      "cuts_entirely_inside_human_kept": 14,
+      "seconds_removed_by_those_cuts": 3.299999999999823
+    },
+    {
+      "threshold_db": -45,
+      "settings": {
+        "max_pause": 0.45,
+        "pad_before": 0.08,
+        "pad_after": 0.1,
+        "cut_sounds": true
+      },
+      "kept_ranges": 50,
+      "internal_cuts": 49,
+      "head_trim_s": 15.39,
+      "tail_trim_s": 5.40633333333335,
+      "sounds_counter": 4,
+      "predicted_kept_s": 458.6500000000005,
+      "predicted_removed_s": 94.99633333333287,
+      "human_kept_removed_s": 9.106587001881621,
+      "human_removed_kept_s": 59.02366239222766,
+      "cuts_entirely_inside_human_kept": 22,
+      "seconds_removed_by_those_cuts": 7.5199999999998255
+    },
+    {
+      "threshold_db": -45,
+      "settings": {
+        "max_pause": 0.45,
+        "pad_before": 0.1,
+        "pad_after": 0.15,
+        "cut_sounds": true
+      },
+      "kept_ranges": 50,
+      "internal_cuts": 49,
+      "head_trim_s": 15.370000000000001,
+      "tail_trim_s": 5.356333333333396,
+      "sounds_counter": 4,
+      "predicted_kept_s": 462.1500000000001,
+      "predicted_removed_s": 91.49633333333327,
+      "human_kept_removed_s": 7.13146974402008,
+      "human_removed_kept_s": 60.548545134365725,
+      "cuts_entirely_inside_human_kept": 22,
+      "seconds_removed_by_those_cuts": 5.979999999999933
+    },
+    {
+      "threshold_db": -45,
+      "settings": {
+        "max_pause": 0.45,
+        "pad_before": 0.1,
+        "pad_after": 0.19,
+        "cut_sounds": true
+      },
+      "kept_ranges": 50,
+      "internal_cuts": 49,
+      "head_trim_s": 15.370000000000001,
+      "tail_trim_s": 5.3163333333333185,
+      "sounds_counter": 4,
+      "predicted_kept_s": 464.1500000000008,
+      "predicted_removed_s": 89.49633333333259,
+      "human_kept_removed_s": 6.0114697440197915,
+      "human_removed_kept_s": 61.42854513436612,
+      "cuts_entirely_inside_human_kept": 22,
+      "seconds_removed_by_those_cuts": 5.099999999999749
+    }
+  ]
+}

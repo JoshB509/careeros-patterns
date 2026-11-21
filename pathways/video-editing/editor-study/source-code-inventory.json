@@ -1,0 +1,230 @@
+[
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\CLAUDE.md",
+    "exists": true,
+    "bytes": 14622,
+    "sha256": "ad56cb700b4fc766f41532cced1e9af30bcdebebb938913f296a2df7da6b36f3"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\README.md",
+    "exists": true,
+    "bytes": 3798,
+    "sha256": "cb4721bd6d5fa118e553ab3b4da3e96830bc72a3aa75674328ace5ce75929691"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\ROADMAP.md",
+    "exists": true,
+    "bytes": 33265,
+    "sha256": "dd57c3d8d7ecca1be5a44612195739d5b0cffe62c8e12f4e79394f674a5174fa"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\helper\\dajoshi_cut.py",
+    "exists": true,
+    "bytes": 86840,
+    "sha256": "dfed6ef243e232d5715dadbbe76d4cc0045244273e5704fe32eb082e984a5aad"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\helper\\transcribe_worker.py",
+    "exists": true,
+    "bytes": 1776,
+    "sha256": "b73f037bee8fffb8d4c5ec23bc0be4cc1589eefcf9f0ccb71b33f6c9d976646a"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\helper\\cleancut.py",
+    "exists": true,
+    "bytes": 8600,
+    "sha256": "222a698893d97344a0b0aa2300cfd2971ea9fbe896b9205d2dea88d8bb88db79"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\helper\\layers.py",
+    "exists": true,
+    "bytes": 7357,
+    "sha256": "19bf7bcb3be87bdd9aeb82b5a67e46eb1457e40b7514caf3e0fbc644152d28f7"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\helper\\deck.py",
+    "exists": true,
+    "bytes": 6383,
+    "sha256": "150df3e5080a65afdd4de0caaacec83c0b2890596b74550e55d7d40ead426ad0"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\helper\\render.py",
+    "exists": true,
+    "bytes": 5679,
+    "sha256": "3c924c79107f34c5f3d8421d1f050fca18e3e64ddd53881403a5f04257bd3761"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\helper\\style.py",
+    "exists": true,
+    "bytes": 13970,
+    "sha256": "eda0f019cf53850343e2853fdbf5746343d949bf341d6f1c716ba0dca9347378"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\helper\\pip.py",
+    "exists": true,
+    "bytes": 6203,
+    "sha256": "52ccbd4c5c6ecb1f8bc955a3f9d7b13ee52de9a041de2d171295324560e22863"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\helper\\prompts.py",
+    "exists": true,
+    "bytes": 15882,
+    "sha256": "ba05c2d2333aa87824856be3e793505407a566c81d70028fa8fe1189cde87143"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\app\\app.js",
+    "exists": true,
+    "bytes": 60358,
+    "sha256": "3a10f8852777bca079c77969b28f92c374846d327d4b65f5e9bfa55272556bae"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\app\\index.html",
+    "exists": true,
+    "bytes": 2288,
+    "sha256": "73cb19c22eec485dc8a5529fdbcbc21fab956862826e711c062aabe86dfcb162"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\app\\app.css",
+    "exists": true,
+    "bytes": 24381,
+    "sha256": "9783c5cfea33955dde1d4d79f9c203a3586187e09f6785879de694d51b95b9f7"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\panel\\index.js",
+    "exists": true,
+    "bytes": 48172,
+    "sha256": "bcb552b08bafc069f23fc3f3754e586e37cc3d579b698e30ed687001b3497ae8"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\panel\\manifest.json",
+    "exists": true,
+    "bytes": 1462,
+    "sha256": "1a26e667eeade6704350f8a75b2b9f6624fba0efb62f950c3172a2e34fc36a77"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\tests\\replay-cut.py",
+    "exists": true,
+    "bytes": 2101,
+    "sha256": "a018f01b0278aeeb35f3f749582ef18446e3f043aaaed421365214ddfe0fa3ac"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\tests\\replay-orders.py",
+    "exists": true,
+    "bytes": 3690,
+    "sha256": "e405bcc35276e621bc8a153bc2f42a319ca6e543566ea1fd925d2b8bf74dce50"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\tests\\layers-flow.py",
+    "exists": true,
+    "bytes": 6914,
+    "sha256": "d9e0dec06752de4f58fdc5aac9015a9d80fd9c24f5bc2428711481cc11f79092"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiCut\\tests\\ui-inplace.py",
+    "exists": true,
+    "bytes": 10364,
+    "sha256": "30a7391eba9ae146689138d2717167dab600cc8a90370ba9eabfe98d9e3b05d8"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiResolve\\README.md",
+    "exists": true,
+    "bytes": 14178,
+    "sha256": "c4150fb852d42bf265da9903d16aa2fd5bf70dbd71fb2e6fa1aa86af9fb2ad84"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiResolve\\dajoshi\\clean_cut.py",
+    "exists": true,
+    "bytes": 5471,
+    "sha256": "d6ae9474d5d74148dd7d49ca1adfcee82c71f886bfabd2c7a7804ce5646761f3"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiResolve\\dajoshi\\staged_cut.py",
+    "exists": true,
+    "bytes": 12264,
+    "sha256": "e1850f1aadb4051af8baa41d88daa8cfdf8854a7b6ced35ba1cd297f003f2b87"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiResolve\\dajoshi\\timing.py",
+    "exists": true,
+    "bytes": 3534,
+    "sha256": "8164167c7abea8ed703a3eb14f4563426f8deb4093263e39c9d5df2f51df8c12"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiResolve\\dajoshi\\export.py",
+    "exists": true,
+    "bytes": 13677,
+    "sha256": "b4c8f90dbcff0e08f22bd6b95ab10f73de43444ed1e7c20105b0b1ce70926577"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiResolve\\dajoshi\\export_clock.py",
+    "exists": true,
+    "bytes": 4212,
+    "sha256": "02b203fc88d4c2c5e1b720b76dddef5a8d9f041d9115319835d23828b4a4f759"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiResolve\\dajoshi\\animation.py",
+    "exists": true,
+    "bytes": 10110,
+    "sha256": "c18cfc09eadedde8644100435bc7e2501bc6845e97e018d9637e6cbaf5c36162"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiResolve\\studio\\workflow.py",
+    "exists": true,
+    "bytes": 21381,
+    "sha256": "331d407c077040713260dddda0e24b2d7ed34f19dddfd757969b1d32c7800023"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiResolve\\studio\\jobs.py",
+    "exists": true,
+    "bytes": 8280,
+    "sha256": "64a6417222887cc48a3bc37945b86a34409c06e3ada347ecc37b0c12ccee1e8c"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiResolve\\studio\\server.py",
+    "exists": true,
+    "bytes": 40711,
+    "sha256": "be7a52d622db89fa511d6060b45d9b710f047af16a142727f2a112baf727e793"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiResolve\\studio\\edit_review.py",
+    "exists": true,
+    "bytes": 13685,
+    "sha256": "4e0a7f6bd1687438d3489f3b0d4f9b194a82bcb9f6ddf5f74eed900b9a3124cb"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiResolve\\studio\\render_edit_review.py",
+    "exists": true,
+    "bytes": 3691,
+    "sha256": "8f9e1cbf6497f1599ed3e761208352fc78674c15ba885cd73fa12a3ac4905f20"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiResolve\\studio\\discord_bridge.py",
+    "exists": true,
+    "bytes": 9953,
+    "sha256": "b78c79f78402cabfd0b9d16f07dfb4d527deab2a66b237a798ba98449ef714df"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiResolve\\studio\\web\\workflow.js",
+    "exists": true,
+    "bytes": 20427,
+    "sha256": "c28f0b4cb2dcdbdb4865cd7b7bb22159f571cffa818c5449aad06369cbe5a443"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiResolve\\specs\\CORE_EDITING_CAPABILITIES.txt",
+    "exists": true,
+    "bytes": 5417,
+    "sha256": "dd95203e87f1b598a0213e843d1987883d564350c6a64825196b887b16019590"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiResolve\\studio\\agent.py",
+    "exists": true,
+    "bytes": 114312,
+    "sha256": "ea0b651401c6451dc44a45e89876eb6d4aec65fc1a47439b0ba789f4b7fdd948"
+  },
+  {
+    "path": "E:\\Videos\\DaJoshiResolve\\studio\\web\\edit-review.js",
+    "exists": true,
+    "bytes": 12103,
+    "sha256": "f9314667868fa8115a900c012915895937296a6b60c695beddd5fd8cdc300ba4"
+  }
+]

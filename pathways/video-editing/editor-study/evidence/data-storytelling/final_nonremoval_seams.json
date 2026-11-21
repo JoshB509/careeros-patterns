@@ -1,0 +1,27 @@
+[
+  {
+    "final_s": 336.7996632079554,
+    "source_gap_s": 0.0,
+    "timeline_gap_s": 0.0
+  },
+  {
+    "final_s": 454.23287911072924,
+    "source_gap_s": 0.0,
+    "timeline_gap_s": 0.7666659000180971
+  },
+  {
+    "final_s": 630.1660365148849,
+    "source_gap_s": 0.0,
+    "timeline_gap_s": 0.7666659000180971
+  },
+  {
+    "final_s": 716.4659502169234,
+    "source_gap_s": 0.0,
+    "timeline_gap_s": 1.0333323000244263
+  },
+  {
+    "final_s": 749.7992502177107,
+    "source_gap_s": 0.0,
+    "timeline_gap_s": 0.7333326000173201
+  }
+]

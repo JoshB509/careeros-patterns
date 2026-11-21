@@ -1,0 +1,13 @@
+Please implement the Tariq editing workflow described in this folder:
+C:\Users\you\Desktop\Tariq-Editing-Handover-2026-11-10
+
+Start with START-HERE.md, then read all numbered documents, the study evidence and the current code in E:\Videos\DaJoshiResolve and E:\Videos\DaJoshiCut. Build the complete staged workflow in JoshOS, reusing existing tools.
+
+The output must be an editable native Premiere timeline using Ultra Key, a reusable uncut keyed master, synchronized good microphone audio, and an independently adjustable soft shadow. Local tools handle transcription, waveform analysis, previews, timeline construction and rendering. AI handles editorial/creative decisions. The shadow may use a rough independent key.
+
+Josh must be able to review the entire transcript, including proposed removals, retained pauses and uncertain cough/retake events. Supply short context/join previews for uncertain decisions, allow restoring/removing/adjusting text and boundaries, and apply only the approved revision. Then accept animation notes, generate/review the storyboard, assemble and render locally after the relevant approval. Preserve an editable project for microadjustments.
+
+Treat the studies as measured development evidence, not a perfect trained classifier. Room-tone additions in Data Storytelling are separate from cuts. Preserve originals, manual edits, source maps, approval revisions and last-good outputs. Do not give agents broad PC access or silently use cloud processing.
+
+Implement in stages with real verification. Use a separate test project for native Premiere changes, prove save/reopen and that master-key changes propagate to all cut pieces, and report what passed, what remains and any exact blocker. Do not claim completion from mocks alone. Do not publish or upload to a new destination without authorization.
+

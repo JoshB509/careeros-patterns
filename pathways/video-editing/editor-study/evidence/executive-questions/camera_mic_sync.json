@@ -1,0 +1,44 @@
+{
+  "project_offset_s": 3.699996300087396,
+  "method": "10-second 5ms RMS amplitude envelopes smoothed 25ms, six speech windows, +/-300ms search about project offset; not lip-sync validation.",
+  "checks": [
+    {
+      "mic_start_s": 20,
+      "camera_start_s": 16.295,
+      "mic_minus_camera_s": 3.7049999999999983,
+      "envelope_correlation": 0.8856351175952
+    },
+    {
+      "mic_start_s": 100,
+      "camera_start_s": 96.295,
+      "mic_minus_camera_s": 3.7049999999999983,
+      "envelope_correlation": 0.8480866864163797
+    },
+    {
+      "mic_start_s": 200,
+      "camera_start_s": 196.29,
+      "mic_minus_camera_s": 3.710000000000008,
+      "envelope_correlation": 0.8504050940548521
+    },
+    {
+      "mic_start_s": 300,
+      "camera_start_s": 296.29,
+      "mic_minus_camera_s": 3.7099999999999795,
+      "envelope_correlation": 0.829790916630049
+    },
+    {
+      "mic_start_s": 400,
+      "camera_start_s": 396.29,
+      "mic_minus_camera_s": 3.7099999999999795,
+      "envelope_correlation": 0.8361862437438317
+    },
+    {
+      "mic_start_s": 500,
+      "camera_start_s": 496.29,
+      "mic_minus_camera_s": 3.7099999999999795,
+      "envelope_correlation": 0.886455795865523
+    }
+  ],
+  "offset_resolution_ms": 5,
+  "comment": "Different processing creates acoustic timing ambiguity. Do not infer drift or retime from this small envelope difference without additional anchors."
+}

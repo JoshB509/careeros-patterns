@@ -49,6 +49,23 @@ Start with route 1 if you want a tool that edits like AutoCut. Read route 2 if y
 | Rendering engine | [`dajoshi/`][engine] in Josh OS |
 | Tariq's flow | [`studio/edit_flow.py`][edit-flow], [`studio/edit_master.py`][edit-master], [`studio/edit_animations.py`][edit-anim], [`dajoshi/edit_plan.py`][edit-plan] |
 | Tariq's review screen | [`studio/web/edit-flow.js`][edit-flow-js] |
+| How a human editor cut two of Josh's videos, and the spec built from it | [`editor-study/`](editor-study/START-HERE.md) |
+| Real files the tools wrote | [`examples/`](examples/) |
+
+## The editor study
+
+[`editor-study/`](editor-study/START-HERE.md) is where the cut rules came from. Two of Josh's videos that a human editor had already cut (Data Storytelling and Executive Questions) were measured against the raw recordings: every cut, every kept pause, the handles either side of each join, coughs and breaths, and retakes. The numbered documents turn that into the spec for the AI editor, from the workflow through the cut decision engine and the Premiere green screen pass to the data contracts and pseudocode. `08-Source-Conversation.md` has Josh's own words on what he wanted. The `evidence/` folders hold the transcripts, cut lists, measurements and the scripts that produced them. The review audio clips, waveform plots and Premiere projects are left out.
+
+## Examples of what the tools write
+
+- [`look.json`](examples/look.json) holds Josh's green screen look as read from his reference Premiere project, with the Ultra Key, the shadow copy and the background settings.
+- [`premiere-probe.json`](examples/premiere-probe.json) is what the panel's probe found about his Premiere 25.6.6.
+- [`last-cut.json`](examples/last-cut.json) is every clip on a real sequence after a Clean cut, which the panel writes to check for gaps and overlaps.
+- [`2026-10_executive-communication-program_vsl_shot-list_v01.md`](examples/2026-10_executive-communication-program_vsl_shot-list_v01.md) is the shot list that goes with the reference deck the animation skill copies from. That deck is public in Josh OS at [`reference_sources/animation-prep-20261015/`][ref-deck].
+
+## Paths in these files
+
+The docs and code mention Josh's folders, like `E:\Videos\DaJoshiResolve` (Josh OS), `E:\Videos\DaJoshiCut` (Josh Cut Pro, which is `josh-cut-pro/` here) and `E:\CareerOS\10_Sales\VSL` (where his scripts and decks are saved). The study's own paths have the Windows user name replaced with `you`. Anything else they name is something the tools write while they run, like `project.json`, `flubs.json` and `shotlist.json`, or something private, like `secrets.json` and the recordings.
 
 ## Running Josh's copy (optional)
 
@@ -93,4 +110,5 @@ The tests expect a five-minute sample recording (`sample-5min.mp4` and `sample-5
 [edit-master]: https://github.com/JoshB509/josh-os/blob/de176f7b4586674292505d93721add5da78feafd/studio/edit_master.py
 [edit-anim]: https://github.com/JoshB509/josh-os/blob/de176f7b4586674292505d93721add5da78feafd/studio/edit_animations.py
 [edit-plan]: https://github.com/JoshB509/josh-os/blob/de176f7b4586674292505d93721add5da78feafd/dajoshi/edit_plan.py
+[ref-deck]: https://github.com/JoshB509/josh-os/tree/de176f7b4586674292505d93721add5da78feafd/reference_sources/animation-prep-20261015
 [edit-flow-js]: https://github.com/JoshB509/josh-os/blob/de176f7b4586674292505d93721add5da78feafd/studio/web/edit-flow.js

@@ -1,0 +1,341 @@
+[
+  {
+    "cut": 1,
+    "side": "lead",
+    "source_boundary_s": 86.1665805020353,
+    "final_s": 68.16659850161014,
+    "rms45_padding_ms": 73.419,
+    "crossing_asr_words": [
+      {
+        "word": "And",
+        "start": 86.13,
+        "end": 86.55
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 4,
+    "side": "lead",
+    "source_boundary_s": 229.46643720542014,
+    "final_s": 202.6331307047863,
+    "rms45_padding_ms": 63.563,
+    "crossing_asr_words": [
+      {
+        "word": "When",
+        "start": 229.41,
+        "end": 229.71
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 5,
+    "side": "lead",
+    "source_boundary_s": 259.0997409061201,
+    "final_s": 211.29978870499102,
+    "rms45_padding_ms": 60.259,
+    "crossing_asr_words": [
+      {
+        "word": "So",
+        "start": 259.05,
+        "end": 259.5
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 6,
+    "side": "tail",
+    "source_boundary_s": 295.8663708069885,
+    "final_s": 248.06641860585947,
+    "rms45_padding_ms": 36.371,
+    "crossing_asr_words": [],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 6,
+    "side": "lead",
+    "source_boundary_s": 302.3663643071421,
+    "final_s": 248.06641860585947,
+    "rms45_padding_ms": 63.636,
+    "crossing_asr_words": [
+      {
+        "word": "So",
+        "start": 302.31,
+        "end": 302.67
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 8,
+    "side": "lead",
+    "source_boundary_s": 367.3662993086774,
+    "final_s": 304.79969520719953,
+    "rms45_padding_ms": 83.701,
+    "crossing_asr_words": [
+      {
+        "word": "because",
+        "start": 367.32,
+        "end": 367.83
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 9,
+    "side": "lead",
+    "source_boundary_s": 396.39960360936317,
+    "final_s": 311.86635480736646,
+    "rms45_padding_ms": 40.396,
+    "crossing_asr_words": [
+      {
+        "word": "Now,",
+        "start": 396.33,
+        "end": 396.78
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 11,
+    "side": "lead",
+    "source_boundary_s": 457.0662096107962,
+    "final_s": 361.19963880853174,
+    "rms45_padding_ms": 53.79,
+    "crossing_asr_words": [
+      {
+        "word": "Then",
+        "start": 457.05,
+        "end": 457.56
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 12,
+    "side": "lead",
+    "source_boundary_s": 487.59951241151737,
+    "final_s": 388.43294490917503,
+    "rms45_padding_ms": 60.488,
+    "crossing_asr_words": [
+      {
+        "word": "I",
+        "start": 487.56,
+        "end": 487.74
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 15,
+    "side": "lead",
+    "source_boundary_s": 553.7661129130803,
+    "final_s": 444.399555610497,
+    "rms45_padding_ms": 63.887,
+    "crossing_asr_words": [
+      {
+        "word": "Now,",
+        "start": 553.71,
+        "end": 554.07
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 18,
+    "side": "lead",
+    "source_boundary_s": 685.632647716195,
+    "final_s": 562.7661039132929,
+    "rms45_padding_ms": 67.352,
+    "crossing_asr_words": [
+      {
+        "word": "And",
+        "start": 685.62,
+        "end": 686.01
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 21,
+    "side": "lead",
+    "source_boundary_s": 737.6325957174233,
+    "final_s": 603.032730314244,
+    "rms45_padding_ms": 17.404,
+    "crossing_asr_words": [
+      {
+        "word": "so",
+        "start": 737.55,
+        "end": 738.0
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 22,
+    "side": "lead",
+    "source_boundary_s": 747.1325862176477,
+    "final_s": 610.3660563144172,
+    "rms45_padding_ms": 57.414,
+    "crossing_asr_words": [
+      {
+        "word": "so",
+        "start": 747.09,
+        "end": 747.36
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 25,
+    "side": "lead",
+    "source_boundary_s": 811.2325221191618,
+    "final_s": 666.0660006157328,
+    "rms45_padding_ms": 57.478,
+    "crossing_asr_words": [
+      {
+        "word": "so",
+        "start": 811.2,
+        "end": 811.5
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 28,
+    "side": "lead",
+    "source_boundary_s": 890.8657758210428,
+    "final_s": 731.9992680172902,
+    "rms45_padding_ms": 104.224,
+    "crossing_asr_words": [
+      {
+        "word": "and",
+        "start": 890.85,
+        "end": 891.12
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 30,
+    "side": "tail",
+    "source_boundary_s": 953.0323803225111,
+    "final_s": 794.3658723187634,
+    "rms45_padding_ms": 72.38,
+    "crossing_asr_words": [
+      {
+        "word": "like",
+        "start": 953.01,
+        "end": 953.52
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 30,
+    "side": "lead",
+    "source_boundary_s": 958.9657077226514,
+    "final_s": 794.3658723187634,
+    "rms45_padding_ms": 64.292,
+    "crossing_asr_words": [
+      {
+        "word": "like",
+        "start": 958.92,
+        "end": 959.3399999999999
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 31,
+    "side": "lead",
+    "source_boundary_s": 966.1323672228206,
+    "final_s": 798.5992014188633,
+    "rms45_padding_ms": 0,
+    "crossing_asr_words": [
+      {
+        "word": "Or",
+        "start": 965.85,
+        "end": 966.1800000000001
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 32,
+    "side": "lead",
+    "source_boundary_s": 1011.8323215239001,
+    "final_s": 828.8658378195782,
+    "rms45_padding_ms": 37.678,
+    "crossing_asr_words": [
+      {
+        "word": "Now,",
+        "start": 1011.75,
+        "end": 1012.23
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 35,
+    "side": "lead",
+    "source_boundary_s": 1119.2655474264377,
+    "final_s": 917.9324154216821,
+    "rms45_padding_ms": 94.453,
+    "crossing_asr_words": [
+      {
+        "word": "took",
+        "start": 1119.24,
+        "end": 1119.51
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 36,
+    "side": "tail",
+    "source_boundary_s": 1156.1655105273094,
+    "final_s": 954.8323785225537,
+    "rms45_padding_ms": 75.511,
+    "crossing_asr_words": [
+      {
+        "word": "And",
+        "start": 1156.14,
+        "end": 1156.38
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 36,
+    "side": "lead",
+    "source_boundary_s": 1160.265506427406,
+    "final_s": 954.8323785225537,
+    "rms45_padding_ms": 64.494,
+    "crossing_asr_words": [
+      {
+        "word": "and",
+        "start": 1160.22,
+        "end": 1160.58
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  },
+  {
+    "cut": 37,
+    "side": "lead",
+    "source_boundary_s": 1176.132157227781,
+    "final_s": 966.4990335228292,
+    "rms45_padding_ms": 77.843,
+    "crossing_asr_words": [
+      {
+        "word": "so",
+        "start": 1176.09,
+        "end": 1176.4499999999998
+      }
+    ],
+    "status": "unreviewed_boundary_candidate_not_confirmed_clipping"
+  }
+]

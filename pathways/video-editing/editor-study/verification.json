@@ -1,0 +1,11 @@
+{
+  "verified_utc": "2026-11-10T10:12:27.239485+00:00",
+  "payload_files": 231,
+  "payload_bytes": 86624407,
+  "copied_files": 216,
+  "copy_hashes_and_current_source_hashes_match": true,
+  "reference_project_hashes_match_original_study": true,
+  "all_referenced_inputs_present": true,
+  "package_manifest_sha256": "d3908ac2be2327c89486130b30cdece4109b7c486726f96e47e77488899bba57",
+  "scope": "Handover authoring and copy integrity only. No workflow implementation, production changes, native project reopen or new perceptual listening."
+}

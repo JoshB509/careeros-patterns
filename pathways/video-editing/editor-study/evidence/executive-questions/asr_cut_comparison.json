@@ -1,0 +1,305 @@
+{
+  "model": "faster-whisper medium.en local cached",
+  "settings": {
+    "device": "cpu",
+    "compute_type": "int8",
+    "cpu_threads": 4,
+    "beam_size": 1,
+    "language": "en",
+    "word_timestamps": true,
+    "vad_filter": true,
+    "condition_on_previous_text": false
+  },
+  "elapsed_original_s": 173,
+  "elapsed_final_s": 150,
+  "original_words": 1508,
+  "final_words": 1331,
+  "warning": "Independent ASR output is not ground truth. Midpoint-selected words can cross edited boundaries. No cough class is confirmed and no perceptual listening is claimed.",
+  "cuts": [
+    {
+      "cut": 1,
+      "source_out_s": 23.79997620056217,
+      "source_in_s": 49.733283601174726,
+      "final_s": 8.366658300197626,
+      "removed_s": 25.933307400612556,
+      "provisional_category": "abandoned take or verbal restart",
+      "source_asr_removed": "It makes them look unprepared and from then on executives doubt everything else that they It makes",
+      "source_words_crossing_boundary": [
+        {
+          "start": 49.32,
+          "end": 50.12,
+          "word": " makes",
+          "probability": 0.994057297706604
+        }
+      ],
+      "final_asr_left": "and I see a lot of professionals get it wrong.",
+      "final_asr_right": "It makes them look unprepared. And from then on, executives",
+      "premiere_asr_removed": "It makes them look unprepared. And from then on,  executives doubt everything else that they."
+    },
+    {
+      "cut": 2,
+      "source_out_s": 62.16660450146841,
+      "source_in_s": 82.59991740195106,
+      "final_s": 20.799979200491308,
+      "removed_s": 20.433312900482647,
+      "provisional_category": "abandoned take or verbal restart",
+      "source_asr_removed": "And if you've been there and you struggle, and if you've been there and you struggle to one, and if you've been there and you struggle to know what to say the moment the question comes, and if",
+      "source_words_crossing_boundary": [
+        {
+          "start": 61.82,
+          "end": 62.24,
+          "word": " it.",
+          "probability": 0.9969590902328491
+        },
+        {
+          "start": 82.12,
+          "end": 83.22,
+          "word": " you've",
+          "probability": 0.9980750977993011
+        }
+      ],
+      "final_asr_left": "even if it's better for the business to follow it.",
+      "final_asr_right": "And if you've been there, you struggle to one, know",
+      "premiere_asr_removed": "And if you've been there and you struggle,  and if you've been there and you struggle to one.  And if you've been there and you struggle to know what to say. The moment the question comes  and  I'm."
+    },
+    {
+      "cut": 3,
+      "source_out_s": 120.06654660283604,
+      "source_in_s": 122.266544402888,
+      "final_s": 58.26660840137629,
+      "removed_s": 2.1999978000519604,
+      "provisional_category": "abandoned take or verbal restart",
+      "source_asr_removed": "You've been... And",
+      "source_words_crossing_boundary": [
+        {
+          "start": 121.6,
+          "end": 122.52,
+          "word": " And",
+          "probability": 0.5177984833717346
+        }
+      ],
+      "final_asr_left": "you know your subject better than anyone in that meeting.",
+      "final_asr_right": "And you're being considerate because an executive asked you a",
+      "premiere_asr_removed": "You've been  on"
+    },
+    {
+      "cut": 4,
+      "source_out_s": 206.23312710487136,
+      "source_in_s": 236.63309670558942,
+      "final_s": 142.23319110335964,
+      "removed_s": 30.399969600718066,
+      "provisional_category": "abandoned take or verbal restart",
+      "source_asr_removed": "Anyway, you're on slide three and the CEO asks, Hey, could you tell me what the 90-day churn rate is for the warehouse team? Anyway, you run slide three and the CEO asks, can you just... Anyway, you're on slide three. Anyway, you're on slide three.",
+      "source_words_crossing_boundary": [
+        {
+          "start": 236.46,
+          "end": 237.0,
+          "word": " Anyway,",
+          "probability": 0.9495694041252136
+        }
+      ],
+      "final_asr_left": "more exciting than mine because mine's all spreadsheets and stuff.",
+      "final_asr_right": "Anyway, you're on slide three and the COO asks, hey,",
+      "premiere_asr_removed": "Anyway.  You on slide three and the CEO asks,  hey, could you tell me what the 90 day churn rate is for the warehouse team?  Anyway, you on slide three and the CEO asks, can you just.  Anyway, you're on slide three.  Anyway, you're on slide three.  Now."
+    },
+    {
+      "cut": 5,
+      "source_out_s": 246.36642030581933,
+      "source_in_s": 258.69974130611064,
+      "final_s": 151.96651470358952,
+      "removed_s": 12.333321000291306,
+      "provisional_category": "untranscribed gap or boundary-ambiguous sound",
+      "source_asr_removed": "And",
+      "source_words_crossing_boundary": [
+        {
+          "start": 258.34,
+          "end": 258.82,
+          "word": " And",
+          "probability": 0.37557822465896606
+        }
+      ],
+      "final_asr_left": "turnover at the warehouse sites compared to the offices? And",
+      "final_asr_right": "then it's like, oh, because you've only got the turnover",
+      "premiere_asr_removed": ""
+    },
+    {
+      "cut": 6,
+      "source_out_s": 304.46636220719165,
+      "source_in_s": 307.5663591072649,
+      "final_s": 197.73313560467057,
+      "removed_s": 3.099996900073222,
+      "provisional_category": "abandoned take or verbal restart",
+      "source_asr_removed": "So first,",
+      "source_words_crossing_boundary": [
+        {
+          "start": 307.5,
+          "end": 307.76,
+          "word": " so",
+          "probability": 0.846936821937561
+        }
+      ],
+      "final_asr_left": "So let me show you how to add that value.",
+      "final_asr_right": "So the first thing you have to do is deal",
+      "premiere_asr_removed": "So first"
+    },
+    {
+      "cut": 7,
+      "source_out_s": 345.56632110816247,
+      "source_in_s": 345.9663207081719,
+      "final_s": 235.73309760556816,
+      "removed_s": 0.399999600009437,
+      "provisional_category": "untranscribed gap or boundary-ambiguous sound",
+      "source_asr_removed": "",
+      "source_words_crossing_boundary": [],
+      "final_asr_left": "that's where we keep losing people in the first month.",
+      "final_asr_right": "And now you're back in right? Because you know the",
+      "premiere_asr_removed": ""
+    },
+    {
+      "cut": 8,
+      "source_out_s": 372.06629460878844,
+      "source_in_s": 376.49962350889314,
+      "final_s": 261.83307150618464,
+      "removed_s": 4.433328900104698,
+      "provisional_category": "abandoned take or verbal restart",
+      "source_asr_removed": "And then the CEO goes, oh, brilliant, you're promoted.\" Well,",
+      "source_words_crossing_boundary": [
+        {
+          "start": 371.98,
+          "end": 372.4,
+          "word": " And",
+          "probability": 0.9951772689819336
+        }
+      ],
+      "final_asr_left": "the value and knowledge that you have on this topic.",
+      "final_asr_right": "And then the CEO goes, brilliant, you're promoted. Well, okay,",
+      "premiere_asr_removed": "And then the CEO goes, oh, brilliant. You're promoted. Well,"
+    },
+    {
+      "cut": 9,
+      "source_out_s": 389.29961070919546,
+      "source_in_s": 392.9996070092829,
+      "final_s": 274.633058706487,
+      "removed_s": 3.6999963000874345,
+      "provisional_category": "abandoned take or verbal restart",
+      "source_asr_removed": "Instead of handing over a number, they asked for,",
+      "source_words_crossing_boundary": [
+        {
+          "start": 392.92,
+          "end": 393.34,
+          "word": " instead",
+          "probability": 0.9737756848335266
+        }
+      ],
+      "final_asr_left": "see you as someone competent who's operating at their altitude.",
+      "final_asr_right": "Instead of handing over the number they asked for, like",
+      "premiere_asr_removed": "Instead of handing over a number  they asked for,"
+    },
+    {
+      "cut": 10,
+      "source_out_s": 405.69959430958284,
+      "source_in_s": 409.33292400966866,
+      "final_s": 287.33304600678696,
+      "removed_s": 3.633329700085824,
+      "provisional_category": "abandoned take or verbal restart",
+      "source_asr_removed": "Because what happens to so many smart professionals?",
+      "source_words_crossing_boundary": [
+        {
+          "start": 409.08,
+          "end": 409.66,
+          "word": " Because",
+          "probability": 0.7282708883285522
+        }
+      ],
+      "final_asr_left": "what keeps your expertise and contribution invisible to senior leaders?",
+      "final_asr_right": "Because what happens to so many smart professionals is you",
+      "premiere_asr_removed": "Because  what happens to so many spot for us,"
+    },
+    {
+      "cut": 11,
+      "source_out_s": 430.96623571017966,
+      "source_in_s": 433.732899610245,
+      "final_s": 308.96635770729796,
+      "removed_s": 2.766663900065339,
+      "provisional_category": "abandoned take or verbal restart",
+      "source_asr_removed": "They're not sat there thinking, gosh, I really, some,",
+      "source_words_crossing_boundary": [
+        {
+          "start": 430.9,
+          "end": 431.26,
+          "word": " They're",
+          "probability": 0.7833317220211029
+        }
+      ],
+      "final_asr_left": "executives very rarely ask for something just to have it,",
+      "final_asr_right": "they're not sat there thinking, gosh, I really hope someone",
+      "premiere_asr_removed": "They're not sat there thinking, gosh, I really am."
+    },
+    {
+      "cut": 12,
+      "source_out_s": 442.9662237104631,
+      "source_in_s": 448.8662178106025,
+      "final_s": 318.1996818075161,
+      "removed_s": 5.899994100139395,
+      "provisional_category": "abandoned take or verbal restart",
+      "source_asr_removed": "And the number they asked for is just the first route they could think of to ask for",
+      "source_words_crossing_boundary": [
+        {
+          "start": 442.92,
+          "end": 443.36,
+          "word": " And",
+          "probability": 0.9881389737129211
+        },
+        {
+          "start": 448.68,
+          "end": 449.12,
+          "word": " and",
+          "probability": 0.01583353988826275
+        }
+      ],
+      "final_asr_left": "a reason. There's something else they're trying to work out.",
+      "final_asr_right": "And the thing they ask for is just the first",
+      "premiere_asr_removed": "and the number they asked for is just the first rule. They could think of to ask for."
+    },
+    {
+      "cut": 13,
+      "source_out_s": 484.6328487114473,
+      "source_in_s": 485.9995140114796,
+      "final_s": 353.9663127083609,
+      "removed_s": 1.3666653000323095,
+      "provisional_category": "untranscribed gap or boundary-ambiguous sound",
+      "source_asr_removed": "",
+      "source_words_crossing_boundary": [
+        {
+          "start": 485.8,
+          "end": 486.32,
+          "word": " And",
+          "probability": 0.7199677228927612
+        }
+      ],
+      "final_asr_left": "no longer even want the number they asked for anyway.",
+      "final_asr_right": "And here's why asking them a question to open up",
+      "premiere_asr_removed": ""
+    },
+    {
+      "cut": 14,
+      "source_out_s": 522.3661443123386,
+      "source_in_s": 530.0994699125213,
+      "final_s": 390.3329430092199,
+      "removed_s": 7.7333256001826385,
+      "provisional_category": "abandoned take or verbal restart",
+      "source_asr_removed": "But even if you have the number and you say, but even if you have the number, say 20%, but",
+      "source_words_crossing_boundary": [
+        {
+          "start": 529.66,
+          "end": 530.34,
+          "word": " but",
+          "probability": 0.9522051215171814
+        }
+      ],
+      "final_asr_left": "can bring numbers for other people to make decisions with.",
+      "final_asr_right": "but even if you have the number, you should still",
+      "premiere_asr_removed": "But  even if you have the number and you say,  but even if you have the number, say 20%,"
+    }
+  ]
+}

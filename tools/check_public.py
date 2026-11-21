@@ -22,7 +22,7 @@ SECRET = re.compile(r'(sk-ant-[A-Za-z0-9_-]{10,}|sk-[A-Za-z0-9]{20,}|gh[pousr]_[
                     r'|(?:client_secret|refresh_token|api_key|password|token)["\']?\s*[:=]\s*["\'][^"\']{8,})', re.I)
 EMAIL = re.compile(r'[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}')
 ALLOWED_EMAIL = re.compile(r'@(example\.(com|org|net|test)|test|localhost|users\.noreply\.github\.com)$', re.I)
-PATHS = re.compile(r'([A-Za-z]:\\\\?Users\\|/home/(?!claude/)[a-z]|/Users/[A-Za-z])')
+PATHS = re.compile(r'([A-Za-z]:\\\\?Users\\(?!\\?you\\)|/home/(?!claude/)[a-z]|/Users/[A-Za-z])')
 
 
 def files():

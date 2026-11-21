@@ -1,0 +1,307 @@
+{
+  "when": "2026-10-23T14:41:47.443Z",
+  "premiere": "25.6.6",
+  "tests": {
+    "clone_sequence": {
+      "name": "Josh Cut Pro check"
+    },
+    "copy_clip": {
+      "landed": true,
+      "audio_copied_too": 0,
+      "changes": {
+        "added": [
+          {
+            "kind": "v",
+            "track": 0,
+            "start": 797.399202618835,
+            "end": 1572.398427637141,
+            "in": 0
+          }
+        ],
+        "removed": []
+      }
+    },
+    "set_in_later": {
+      "was": {
+        "kind": "v",
+        "track": 0,
+        "start": 1592.3984076376134,
+        "end": 2367.397632655919,
+        "in": 0
+      },
+      "added": [
+        {
+          "kind": "v",
+          "track": 0,
+          "start": 1593.3984076376134,
+          "end": 2367.397632655919,
+          "in": 1
+        }
+      ],
+      "removed": [
+        {
+          "kind": "v",
+          "track": 0,
+          "start": 1592.3984076376134,
+          "end": 2367.397632655919,
+          "in": 0
+        }
+      ]
+    },
+    "set_out_earlier": {
+      "was": {
+        "kind": "v",
+        "track": 0,
+        "start": 2387.3976126563916,
+        "end": 3162.3968376746975,
+        "in": 0
+      },
+      "added": [
+        {
+          "kind": "v",
+          "track": 0,
+          "start": 2387.3976126563916,
+          "end": 3161.3968376746975,
+          "in": 0
+        }
+      ],
+      "removed": [
+        {
+          "kind": "v",
+          "track": 0,
+          "start": 2387.3976126563916,
+          "end": 3162.3968376746975,
+          "in": 0
+        }
+      ]
+    },
+    "set_start_later": {
+      "was": {
+        "kind": "v",
+        "track": 0,
+        "start": 3182.39681767517,
+        "end": 3957.396042693476,
+        "in": 0
+      },
+      "added": [
+        {
+          "kind": "v",
+          "track": 0,
+          "start": 3183.39681767517,
+          "end": 3957.396042693476,
+          "in": 1
+        }
+      ],
+      "removed": [
+        {
+          "kind": "v",
+          "track": 0,
+          "start": 3182.39681767517,
+          "end": 3957.396042693476,
+          "in": 0
+        }
+      ]
+    },
+    "set_end_earlier": {
+      "was": {
+        "kind": "v",
+        "track": 0,
+        "start": 3977.3960226939485,
+        "end": 4752.395247712255,
+        "in": 0
+      },
+      "added": [
+        {
+          "kind": "v",
+          "track": 0,
+          "start": 3977.3960226939485,
+          "end": 4751.395247712255,
+          "in": 0
+        }
+      ],
+      "removed": [
+        {
+          "kind": "v",
+          "track": 0,
+          "start": 3977.3960226939485,
+          "end": 4752.395247712255,
+          "in": 0
+        }
+      ]
+    },
+    "move_later": {
+      "was": {
+        "kind": "v",
+        "track": 0,
+        "start": 4772.395227712726,
+        "end": 5547.394452731032,
+        "in": 0
+      },
+      "added": [
+        {
+          "kind": "v",
+          "track": 0,
+          "start": 4773.395227712726,
+          "end": 5548.394452731032,
+          "in": 0
+        }
+      ],
+      "removed": [
+        {
+          "kind": "v",
+          "track": 0,
+          "start": 4772.395227712726,
+          "end": 5547.394452731032,
+          "in": 0
+        }
+      ]
+    },
+    "move_earlier": {
+      "was": {
+        "kind": "v",
+        "track": 0,
+        "start": 5567.394432731505,
+        "end": 6342.393657749811,
+        "in": 0
+      },
+      "added": [
+        {
+          "kind": "v",
+          "track": 0,
+          "start": 5566.394432731505,
+          "end": 6341.393657749811,
+          "in": 0
+        }
+      ],
+      "removed": [
+        {
+          "kind": "v",
+          "track": 0,
+          "start": 5567.394432731505,
+          "end": 6342.393657749811,
+          "in": 0
+        }
+      ]
+    },
+    "copy_earlier": {
+      "was": {
+        "kind": "v",
+        "track": 0,
+        "start": 6362.393637750283,
+        "end": 7137.392862768589,
+        "in": 0
+      },
+      "added": [
+        {
+          "kind": "v",
+          "track": 0,
+          "start": 6359.393640750212,
+          "end": 7134.392865768518,
+          "in": 0
+        },
+        {
+          "kind": "v",
+          "track": 0,
+          "start": 7134.392865768518,
+          "end": 7137.392862768589,
+          "in": 771.999228018235
+        }
+      ],
+      "removed": [
+        {
+          "kind": "v",
+          "track": 0,
+          "start": 6362.393637750283,
+          "end": 7137.392862768589,
+          "in": 0
+        }
+      ]
+    },
+    "recipe": {
+      "exact": true,
+      "got": {
+        "kind": "v",
+        "track": 0,
+        "start": 7152.392847768943,
+        "end": 7154.392845768991,
+        "in": 1.999998000047241
+      },
+      "want": {
+        "kind": "v",
+        "track": 0,
+        "start": 7152.392847768943,
+        "end": 7154.392845768991,
+        "in": 1.999998000047241
+      }
+    },
+    "links": {
+      "audio_moves_with_video": 0,
+      "audio_trims_with_video": 0,
+      "moved": [],
+      "trimmed": []
+    },
+    "remove_video": {
+      "added": [],
+      "removed": [
+        {
+          "kind": "v",
+          "track": 0,
+          "start": 797.399202618835,
+          "end": 1572.398427637141,
+          "in": 0
+        }
+      ]
+    },
+    "position": {
+      "default": [
+        0.5,
+        0.5
+      ],
+      "after_setting_quarter": [
+        0.25,
+        0.25
+      ]
+    }
+  },
+  "notes": [],
+  "constants": [
+    "MediaType",
+    "ContentType",
+    "ProjectItemColorLabel",
+    "TransitionPosition",
+    "TrackItemType",
+    "ProjectEvent",
+    "InterpolationMode",
+    "SequenceOperation",
+    "PropertyType",
+    "SequenceEvent",
+    "VideoTrackEvent",
+    "AudioTrackEvent",
+    "EncoderEvent",
+    "ScratchDiskFolderType",
+    "ScratchDiskFolder",
+    "MetadataType",
+    "ExportType",
+    "PreferenceKey",
+    "SnapEvent",
+    "OperationCompleteEvent",
+    "OperationCompleteState",
+    "PixelAspectRatio",
+    "VideoFieldType",
+    "VideoDisplayFormatType",
+    "AudioChannelType",
+    "AudioDisplayFormatType",
+    "MarkerColor"
+  ],
+  "project_item_type": null,
+  "frame_ticks": "8467191533",
+  "cleaned_up": true,
+  "strategy": {
+    "recipe": "shrink-slide",
+    "slide": "move",
+    "out_adjust": "0",
+    "linked_follow": false,
+    "linked_ok": true
+  },
+  "ok": true
+}

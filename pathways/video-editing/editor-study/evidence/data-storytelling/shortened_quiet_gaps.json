@@ -1,0 +1,62 @@
+[
+  {
+    "cut": 10,
+    "final_s": 326.5330068077129,
+    "source_gap_start": 410.92,
+    "source_gap_end": 412.86,
+    "original_quiet_s": 1.9399999999999977,
+    "removed_s": 1.6999983000401357,
+    "remaining_source_quiet_s": 0.24000169995986198,
+    "added_timeline_gap_s": 0.0,
+    "left_words": "work. But let me tell you why that's wrong.",
+    "right_words": "Because early in my career, I was the person who was"
+  },
+  {
+    "cut": 16,
+    "final_s": 498.0661686117646,
+    "source_gap_start": 606.3100000000001,
+    "source_gap_end": 607.57,
+    "original_quiet_s": 1.259999999999991,
+    "removed_s": 0.5333328000126585,
+    "remaining_source_quiet_s": 0.7266671999873324,
+    "added_timeline_gap_s": 0.0,
+    "left_words": "them. But nobody's. I will stop on them.",
+    "right_words": "This creates a hierarchy and tells people"
+  },
+  {
+    "cut": 20,
+    "final_s": 578.0994219136551,
+    "source_gap_start": 704.35,
+    "source_gap_end": 706.82,
+    "original_quiet_s": 2.4700000000000273,
+    "removed_s": 1.9666647000464081,
+    "remaining_source_quiet_s": 0.5033352999536191,
+    "added_timeline_gap_s": 0.6666660000157663,
+    "left_words": "prompt is free in the description. If you want this for yourself.",
+    "right_words": "Right. So the chart shows the right thing"
+  },
+  {
+    "cut": 23,
+    "final_s": 654.132679215451,
+    "source_gap_start": 789.77,
+    "source_gap_end": 791.14,
+    "original_quiet_s": 1.3700000000000045,
+    "removed_s": 0.6666660000157663,
+    "remaining_source_quiet_s": 0.7033339999842383,
+    "added_timeline_gap_s": 0.0,
+    "left_words": "for why you think that is the correct decision.",
+    "right_words": "And the way we do it is with the title. So"
+  },
+  {
+    "cut": 29,
+    "final_s": 746.1992538176256,
+    "source_gap_start": 904.6800000000001,
+    "source_gap_end": 905.96,
+    "original_quiet_s": 1.2799999999999727,
+    "removed_s": 0.5333328000125448,
+    "remaining_source_quiet_s": 0.7466671999874279,
+    "added_timeline_gap_s": 0.0,
+    "left_words": "has to ask why. The line suddenly went up.",
+    "right_words": "And now the last C is context,"
+  }
+]

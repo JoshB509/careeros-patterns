@@ -1,0 +1,259 @@
+{
+  "removed_after_base": [
+    {
+      "source_start": 240.89975910569018,
+      "source_end": 252.63308070596733,
+      "duration_s": 11.73332160027715,
+      "words": "So now I'll show you the five C's. So your next chart tells a compelling data story that shows executives that you're operating at their altitude because your explanations are going to lead them into action.",
+      "base_before_words": "So now I'll show you the five C's. Your net.",
+      "base_after_words": "So the first C is going to stop executives",
+      "final_join_context": [
+        {
+          "cut": 5,
+          "final_s": 211.29978870499102,
+          "before": "your view instead of another cut of the data.",
+          "after": "So the first C is going to stop executives going"
+        }
+      ]
+    },
+    {
+      "source_start": 295.8663708069885,
+      "source_end": 302.3663643071421,
+      "duration_s": 6.4999935001535505,
+      "words": "After this video, you'll know the problems that this chart and exactly what to do to transform them into a compelling data story.",
+      "base_before_words": "yet it doesn't actually say anything.",
+      "base_after_words": "So the problem with a channel like this is the executive",
+      "final_join_context": [
+        {
+          "cut": 6,
+          "final_s": 248.06641860585947,
+          "before": "yet it doesn't actually say anything.",
+          "after": "So the problem with a channel like this is the executive"
+        }
+      ]
+    },
+    {
+      "source_start": 411.06625560970963,
+      "source_end": 411.23292210971357,
+      "duration_s": 0.16666650000394156,
+      "words": "",
+      "base_before_words": "work. But let me tell you why that's wrong.",
+      "base_after_words": "Because early in my career,",
+      "final_join_context": [
+        {
+          "cut": 10,
+          "final_s": 326.5330068077129,
+          "before": "work. But let me tell you why that's wrong.",
+          "after": "Because early in my career, I was the person who was"
+        }
+      ]
+    },
+    {
+      "source_start": 412.4995875097435,
+      "source_end": 412.76625390974976,
+      "duration_s": 0.2666664000062724,
+      "words": "",
+      "base_before_words": "tell you why that's wrong.",
+      "base_after_words": "Because early in my career, I was the person who was",
+      "final_join_context": [
+        {
+          "cut": 10,
+          "final_s": 326.5330068077129,
+          "before": "work. But let me tell you why that's wrong.",
+          "after": "Because early in my career, I was the person who was"
+        }
+      ]
+    },
+    {
+      "source_start": 451.1662155106568,
+      "source_end": 452.1995478106812,
+      "duration_s": 1.0333323000244263,
+      "words": "",
+      "base_before_words": "",
+      "base_after_words": "",
+      "final_join_context": [
+        {
+          "cut": 11,
+          "final_s": 361.19963880853174,
+          "before": "all of the data. But this never worked.",
+          "after": "Then I noticed everyone was arguing about"
+        }
+      ]
+    },
+    {
+      "source_start": 456.7662099107891,
+      "source_end": 457.0662096107962,
+      "duration_s": 0.2999997000071062,
+      "words": "",
+      "base_before_words": "",
+      "base_after_words": "Then I noticed everyone was arguing about",
+      "final_join_context": [
+        {
+          "cut": 11,
+          "final_s": 361.19963880853174,
+          "before": "all of the data. But this never worked.",
+          "after": "Then I noticed everyone was arguing about"
+        }
+      ]
+    },
+    {
+      "source_start": 484.2995157114394,
+      "source_end": 487.59951241151737,
+      "duration_s": 3.2999967000779407,
+      "words": "Because all I was showing was a couple of numbers.",
+      "base_before_words": "analysis at all. So how were they going to trust this?",
+      "base_after_words": "I was sure someone would point at it and say, well, where's",
+      "final_join_context": [
+        {
+          "cut": 12,
+          "final_s": 388.43294490917503,
+          "before": "analysis at all. So how were they going to trust this?",
+          "after": "I was sure someone would point at it and say, well, where's"
+        }
+      ]
+    },
+    {
+      "source_start": 799.8658668188933,
+      "source_end": 802.3325310189516,
+      "duration_s": 2.4666642000582897,
+      "words": "It means that they have to.",
+      "base_before_words": "is a description of the chart below.",
+      "base_after_words": "This is what makes the chart the entire message.",
+      "final_join_context": [
+        {
+          "cut": 24,
+          "final_s": 663.1993368156651,
+          "before": "is a description of the chart below.",
+          "after": "This is what makes the chart the entire message."
+        }
+      ]
+    },
+    {
+      "source_start": 1001.0323323236449,
+      "source_end": 1006.9989930237859,
+      "duration_s": 5.966660700141006,
+      "words": "And it's the reason that nobody went looking for the data that I stripped back on the chart all those years ago.",
+      "base_before_words": "went looking for the data.",
+      "base_after_words": "Then, just to be sure, nobody reads.",
+      "final_join_context": [
+        {
+          "cut": 32,
+          "final_s": 828.8658378195782,
+          "before": "now it's answered before anyone even has to ask.",
+          "after": "Now, just to be sure that nobody reads the"
+        }
+      ]
+    }
+  ],
+  "restored_after_base": [],
+  "room_tone_inserts": [
+    {
+      "item_id": "864",
+      "clip_id": "2648",
+      "subclip_id": "1646",
+      "name": "Chapter beat - original microphone room tone",
+      "start": 210.76645590497841,
+      "end": 211.29978870499102,
+      "inp": 257.5664091060839,
+      "out": 258.0997419060965,
+      "media": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\Recorded\\Input\\00108_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+      "nested_sequence": null,
+      "track": 1,
+      "room_tone": true,
+      "start_ticks": 53538052063159,
+      "end_ticks": 53673527127687,
+      "inp_ticks": 65425988975491,
+      "out_ticks": 65561464040019
+    },
+    {
+      "item_id": "830",
+      "clip_id": "2613",
+      "subclip_id": "1579",
+      "name": "Chapter beat - original microphone room tone",
+      "start": 453.46621321071115,
+      "end": 454.23287911072924,
+      "inp": 257.5664091060839,
+      "out": 258.333075006102,
+      "media": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\Recorded\\Input\\00108_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+      "nested_sequence": null,
+      "track": 0,
+      "room_tone": true,
+      "start_ticks": 115187673614932,
+      "end_ticks": 115382419020191,
+      "inp_ticks": 65425988975491,
+      "out_ticks": 65620734380750
+    },
+    {
+      "item_id": "836",
+      "clip_id": "2619",
+      "subclip_id": "1591",
+      "name": "Chapter beat - original microphone room tone",
+      "start": 577.4327559136393,
+      "end": 578.0994219136551,
+      "inp": 257.5664091060839,
+      "out": 258.2330751060996,
+      "media": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\Recorded\\Input\\00108_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+      "nested_sequence": null,
+      "track": 0,
+      "room_tone": true,
+      "start_ticks": 146677158926159,
+      "end_ticks": 146846502756819,
+      "inp_ticks": 65425988975491,
+      "out_ticks": 65595332806151
+    },
+    {
+      "item_id": "840",
+      "clip_id": "2623",
+      "subclip_id": "1599",
+      "name": "Chapter beat - original microphone room tone",
+      "start": 629.3993706148668,
+      "end": 630.1660365148849,
+      "inp": 257.5664091060839,
+      "out": 258.333075006102,
+      "media": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\Recorded\\Input\\00108_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+      "nested_sequence": null,
+      "track": 0,
+      "room_tone": true,
+      "start_ticks": 159877510526106,
+      "end_ticks": 160072255931365,
+      "inp_ticks": 65425988975491,
+      "out_ticks": 65620734380750
+    },
+    {
+      "item_id": "846",
+      "clip_id": "2629",
+      "subclip_id": "1611",
+      "name": "Chapter beat - original microphone room tone",
+      "start": 715.432617916899,
+      "end": 716.4659502169234,
+      "inp": 257.5664091060839,
+      "out": 258.59974140610825,
+      "media": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\Recorded\\Input\\00108_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+      "nested_sequence": null,
+      "track": 0,
+      "room_tone": true,
+      "start_ticks": 181731331872779,
+      "end_ticks": 181993814810302,
+      "inp_ticks": 65425988975491,
+      "out_ticks": 65688471913014
+    },
+    {
+      "item_id": "851",
+      "clip_id": "2634",
+      "subclip_id": "1621",
+      "name": "Chapter beat - original microphone room tone",
+      "start": 749.0659176176933,
+      "end": 749.7992502177107,
+      "inp": 257.5664091060839,
+      "out": 258.2997417061012,
+      "media": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\Recorded\\Input\\00108_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+      "nested_sequence": null,
+      "track": 0,
+      "room_tone": true,
+      "start_ticks": 190274728129576,
+      "end_ticks": 190461006343302,
+      "inp_ticks": 65425988975491,
+      "out_ticks": 65612267189217
+    }
+  ]
+}

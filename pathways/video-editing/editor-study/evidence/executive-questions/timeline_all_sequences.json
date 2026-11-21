@@ -1,0 +1,2073 @@
+[
+  {
+    "uid": "34bba2db-af11-4ee2-a418-1800e534d07b",
+    "name": "Answering Exec Questions - Animation Edit v03",
+    "tracks": [
+      {
+        "type": "VideoTrackGroup",
+        "index": 0,
+        "uid": "2bb126b4-9bf9-4e6e-9f5e-8bc99a30ef64",
+        "muted": "false",
+        "items": [
+          {
+            "item_id": "312",
+            "clip_id": "678",
+            "subclip_id": "448",
+            "name": "01 Answering Exec Questions - Full talking head - synchronized",
+            "start": 0,
+            "end": 2006724393321,
+            "inp": 0,
+            "out": 2006724393321,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          },
+          {
+            "item_id": "313",
+            "clip_id": "679",
+            "subclip_id": "450",
+            "name": "01 Answering Exec Questions - Full talking head - synchronized",
+            "start": 5291994708125,
+            "end": 8729674470523,
+            "inp": 5291994708125,
+            "out": 8729674470523,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          },
+          {
+            "item_id": "314",
+            "clip_id": "681",
+            "subclip_id": "452",
+            "name": "01 Answering Exec Questions - Full talking head - synchronized",
+            "start": 8729674470523,
+            "end": 12565312234972,
+            "inp": 8729674470523,
+            "out": 12565312234972,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          },
+          {
+            "item_id": "315",
+            "clip_id": "682",
+            "subclip_id": "454",
+            "name": "01 Answering Exec Questions - Full talking head - synchronized",
+            "start": 12565312234972,
+            "end": 14800650799684,
+            "inp": 12565312234972,
+            "out": 14800650799684,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          },
+          {
+            "item_id": "316",
+            "clip_id": "683",
+            "subclip_id": "456",
+            "name": "01 Answering Exec Questions - Full talking head - synchronized",
+            "start": 14800650799684,
+            "end": 17044456555929,
+            "inp": 15359485440862,
+            "out": 17603291197107,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          },
+          {
+            "item_id": "317",
+            "clip_id": "684",
+            "subclip_id": "458",
+            "name": "01 Answering Exec Questions - Full talking head - synchronized",
+            "start": 18593952606468,
+            "end": 19220524779910,
+            "inp": 19152787247646,
+            "out": 19779359421088,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          },
+          {
+            "item_id": "318",
+            "clip_id": "685",
+            "subclip_id": "460",
+            "name": "01 Answering Exec Questions - Full talking head - synchronized",
+            "start": 20897028703444,
+            "end": 27391364609255,
+            "inp": 21455863344622,
+            "out": 27950199250433,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          },
+          {
+            "item_id": "319",
+            "clip_id": "686",
+            "subclip_id": "462",
+            "name": "01 Answering Exec Questions - Full talking head - synchronized",
+            "start": 29863784536891,
+            "end": 36264981335839,
+            "inp": 30422619178069,
+            "out": 36823815977017,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          },
+          {
+            "item_id": "320",
+            "clip_id": "687",
+            "subclip_id": "464",
+            "name": "01 Answering Exec Questions - Full talking head - synchronized",
+            "start": 38601926198947,
+            "end": 43817716183275,
+            "inp": 39507915692978,
+            "out": 44723705677306,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          },
+          {
+            "item_id": "321",
+            "clip_id": "688",
+            "subclip_id": "466",
+            "name": "01 Answering Exec Questions - Full talking head - synchronized",
+            "start": 44994655806362,
+            "end": 46222398578647,
+            "inp": 45900645300393,
+            "out": 47128388072678,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          },
+          {
+            "item_id": "322",
+            "clip_id": "689",
+            "subclip_id": "468",
+            "name": "01 Answering Exec Questions - Full talking head - synchronized",
+            "start": 48127516673572,
+            "end": 50108839492294,
+            "inp": 49033506167603,
+            "out": 51014828986325,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          },
+          {
+            "item_id": "323",
+            "clip_id": "690",
+            "subclip_id": "470",
+            "name": "01 Answering Exec Questions - Full talking head - synchronized",
+            "start": 66509789491715,
+            "end": 67779868221665,
+            "inp": 67415778985746,
+            "out": 68685857715696,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          },
+          {
+            "item_id": "324",
+            "clip_id": "691",
+            "subclip_id": "472",
+            "name": "01 Answering Exec Questions - Full talking head - synchronized",
+            "start": 71386891814723,
+            "end": 74934645067050,
+            "inp": 72292881308754,
+            "out": 75840634561081,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          },
+          {
+            "item_id": "325",
+            "clip_id": "692",
+            "subclip_id": "474",
+            "name": "01 Answering Exec Questions - Full talking head - synchronized",
+            "start": 76924435077305,
+            "end": 79506928494870,
+            "inp": 77830424571336,
+            "out": 80412917988901,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          },
+          {
+            "item_id": "326",
+            "clip_id": "693",
+            "subclip_id": "476",
+            "name": "01 Answering Exec Questions - Full talking head - synchronized",
+            "start": 81691463910384,
+            "end": 83943736858162,
+            "inp": 82597453404415,
+            "out": 84849726352193,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          },
+          {
+            "item_id": "327",
+            "clip_id": "694",
+            "subclip_id": "478",
+            "name": "01 Answering Exec Questions - Full talking head - synchronized",
+            "start": 88033390368601,
+            "end": 89913106888927,
+            "inp": 88939379862632,
+            "out": 90819096382958,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          },
+          {
+            "item_id": "328",
+            "clip_id": "695",
+            "subclip_id": "480",
+            "name": "01 Answering Exec Questions - Full talking head - synchronized",
+            "start": 89913106888927,
+            "end": 92775017627081,
+            "inp": 91039243362816,
+            "out": 93901154100970,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          }
+        ]
+      },
+      {
+        "type": "VideoTrackGroup",
+        "index": 1,
+        "uid": "dfb04695-be27-491f-b7e9-575bca344173",
+        "muted": "false",
+        "items": [
+          {
+            "item_id": "329",
+            "clip_id": "697",
+            "subclip_id": "482",
+            "name": "Animation-01-pip.mov",
+            "start": 2006724393321,
+            "end": 5291994708125,
+            "inp": 508032000000,
+            "out": 3793302314804,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-01-pip.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "330",
+            "clip_id": "699",
+            "subclip_id": "484",
+            "name": "Animation-02-half.mov",
+            "start": 8729674470523,
+            "end": 12565312234972,
+            "inp": 508032000000,
+            "out": 4343669764449,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-02-half.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "331",
+            "clip_id": "701",
+            "subclip_id": "486",
+            "name": "Animation-03-fs.mov",
+            "start": 17044456555929,
+            "end": 18593952606468,
+            "inp": 508032000000,
+            "out": 2057528050539,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-03-fs.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "332",
+            "clip_id": "703",
+            "subclip_id": "488",
+            "name": "Animation-04-pip-v02.mov",
+            "start": 19220524779910,
+            "end": 20897028703444,
+            "inp": 508032000000,
+            "out": 2184535923534,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-04-pip-v02.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "333",
+            "clip_id": "705",
+            "subclip_id": "490",
+            "name": "Animation-05-pip.mov",
+            "start": 27391364609255,
+            "end": 29863784536891,
+            "inp": 508032000000,
+            "out": 2980451927636,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-05-pip.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "334",
+            "clip_id": "707",
+            "subclip_id": "492",
+            "name": "Animation-06-fs.mov",
+            "start": 36264981335839,
+            "end": 38601926198947,
+            "inp": 508032000000,
+            "out": 2844976863108,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-06-fs.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "335",
+            "clip_id": "709",
+            "subclip_id": "494",
+            "name": "Animation-07-pip.mov",
+            "start": 43817716183275,
+            "end": 44994655806362,
+            "inp": 508032000000,
+            "out": 1684971623087,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-07-pip.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "336",
+            "clip_id": "711",
+            "subclip_id": "496",
+            "name": "Animation-07-pip.mov",
+            "start": 46222398578647,
+            "end": 47094519306546,
+            "inp": 2912716800000,
+            "out": 3784837527899,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-07-pip.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "337",
+            "clip_id": "713",
+            "subclip_id": "498",
+            "name": "Animation-08-fs.mov",
+            "start": 47094519306546,
+            "end": 48127516673572,
+            "inp": 508032000000,
+            "out": 1541029367026,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-08-fs.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "338",
+            "clip_id": "715",
+            "subclip_id": "500",
+            "name": "Animation-09-pip.mov",
+            "start": 50108839492294,
+            "end": 55925800075465,
+            "inp": 508032000000,
+            "out": 6324992583171,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-09-pip.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "339",
+            "clip_id": "717",
+            "subclip_id": "502",
+            "name": "Animation-10-fs.mov",
+            "start": 55925800075465,
+            "end": 57229747571547,
+            "inp": 508032000000,
+            "out": 1811979496082,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-10-fs.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "340",
+            "clip_id": "719",
+            "subclip_id": "504",
+            "name": "Animation-11-pip.mov",
+            "start": 57229747571547,
+            "end": 66509789491715,
+            "inp": 508032000000,
+            "out": 9788073920168,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-11-pip.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "341",
+            "clip_id": "721",
+            "subclip_id": "506",
+            "name": "Animation-12-pip-v02.mov",
+            "start": 67779868221665,
+            "end": 71386891814723,
+            "inp": 508032000000,
+            "out": 4115055593058,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-12-pip-v02.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "342",
+            "clip_id": "723",
+            "subclip_id": "508",
+            "name": "Animation-13-pip.mov",
+            "start": 74934645067050,
+            "end": 76924435077305,
+            "inp": 508032000000,
+            "out": 2497822010255,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-13-pip.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "343",
+            "clip_id": "725",
+            "subclip_id": "510",
+            "name": "Animation-14-fs.mov",
+            "start": 79506928494870,
+            "end": 81691463910384,
+            "inp": 508032000000,
+            "out": 2692567415514,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-14-fs.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "344",
+            "clip_id": "727",
+            "subclip_id": "512",
+            "name": "Animation-15-pip.mov",
+            "start": 83943736858162,
+            "end": 88033390368601,
+            "inp": 508032000000,
+            "out": 4597685510439,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-15-pip.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "345",
+            "clip_id": "729",
+            "subclip_id": "514",
+            "name": "Animation-16-fs.mov",
+            "start": 92775017627081,
+            "end": 93494728907386,
+            "inp": 508032000000,
+            "out": 1227743280305,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-16-fs.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "346",
+            "clip_id": "731",
+            "subclip_id": "516",
+            "name": "Animation-17-pip.mov",
+            "start": 93494728907386,
+            "end": 102275206527107,
+            "inp": 508032000000,
+            "out": 9288509619721,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-17-pip.mov",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "347",
+            "clip_id": "733",
+            "subclip_id": "518",
+            "name": "Animation-18-pip.mov",
+            "start": 102275206527107,
+            "end": 103824702577646,
+            "inp": 508032000000,
+            "out": 2057528050539,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\masters\\Animation-18-pip.mov",
+            "nested_sequence": null
+          }
+        ]
+      },
+      {
+        "type": "VideoTrackGroup",
+        "index": 2,
+        "uid": "49794a3c-d364-456f-bd2f-d3c13368e82a",
+        "muted": "false",
+        "items": [
+          {
+            "item_id": "348",
+            "clip_id": "736",
+            "subclip_id": "520",
+            "name": "02 Answering Exec Questions - Rounded gold PiP - synchronized",
+            "start": 2006724393321,
+            "end": 5291994708125,
+            "inp": 2006724393321,
+            "out": 5291994708125,
+            "media": null,
+            "nested_sequence": "0d081ac2-b62d-46da-8c2e-0c6e29b1028a"
+          },
+          {
+            "item_id": "349",
+            "clip_id": "739",
+            "subclip_id": "522",
+            "name": "02 Answering Exec Questions - Rounded gold PiP - synchronized",
+            "start": 19220524779910,
+            "end": 20897028703444,
+            "inp": 19779359421088,
+            "out": 21455863344622,
+            "media": null,
+            "nested_sequence": "0d081ac2-b62d-46da-8c2e-0c6e29b1028a"
+          },
+          {
+            "item_id": "350",
+            "clip_id": "742",
+            "subclip_id": "524",
+            "name": "02 Answering Exec Questions - Rounded gold PiP - synchronized",
+            "start": 27391364609255,
+            "end": 29863784536891,
+            "inp": 27950199250433,
+            "out": 30422619178069,
+            "media": null,
+            "nested_sequence": "0d081ac2-b62d-46da-8c2e-0c6e29b1028a"
+          },
+          {
+            "item_id": "351",
+            "clip_id": "745",
+            "subclip_id": "526",
+            "name": "02 Answering Exec Questions - Rounded gold PiP - synchronized",
+            "start": 43817716183275,
+            "end": 44994655806362,
+            "inp": 44723705677306,
+            "out": 45900645300393,
+            "media": null,
+            "nested_sequence": "0d081ac2-b62d-46da-8c2e-0c6e29b1028a"
+          },
+          {
+            "item_id": "352",
+            "clip_id": "748",
+            "subclip_id": "528",
+            "name": "02 Answering Exec Questions - Rounded gold PiP - synchronized",
+            "start": 46222398578647,
+            "end": 47094519306546,
+            "inp": 47128388072678,
+            "out": 48000508800577,
+            "media": null,
+            "nested_sequence": "0d081ac2-b62d-46da-8c2e-0c6e29b1028a"
+          },
+          {
+            "item_id": "353",
+            "clip_id": "751",
+            "subclip_id": "530",
+            "name": "02 Answering Exec Questions - Rounded gold PiP - synchronized",
+            "start": 50108839492294,
+            "end": 55925800075465,
+            "inp": 51014828986325,
+            "out": 56831789569496,
+            "media": null,
+            "nested_sequence": "0d081ac2-b62d-46da-8c2e-0c6e29b1028a"
+          },
+          {
+            "item_id": "354",
+            "clip_id": "754",
+            "subclip_id": "532",
+            "name": "02 Answering Exec Questions - Rounded gold PiP - synchronized",
+            "start": 57229747571547,
+            "end": 66509789491715,
+            "inp": 58135737065578,
+            "out": 67415778985746,
+            "media": null,
+            "nested_sequence": "0d081ac2-b62d-46da-8c2e-0c6e29b1028a"
+          },
+          {
+            "item_id": "355",
+            "clip_id": "757",
+            "subclip_id": "534",
+            "name": "02 Answering Exec Questions - Rounded gold PiP - synchronized",
+            "start": 67779868221665,
+            "end": 71386891814723,
+            "inp": 68685857715696,
+            "out": 72292881308754,
+            "media": null,
+            "nested_sequence": "0d081ac2-b62d-46da-8c2e-0c6e29b1028a"
+          },
+          {
+            "item_id": "356",
+            "clip_id": "760",
+            "subclip_id": "536",
+            "name": "02 Answering Exec Questions - Rounded gold PiP - synchronized",
+            "start": 74934645067050,
+            "end": 76924435077305,
+            "inp": 75840634561081,
+            "out": 77830424571336,
+            "media": null,
+            "nested_sequence": "0d081ac2-b62d-46da-8c2e-0c6e29b1028a"
+          },
+          {
+            "item_id": "357",
+            "clip_id": "763",
+            "subclip_id": "538",
+            "name": "02 Answering Exec Questions - Rounded gold PiP - synchronized",
+            "start": 83943736858162,
+            "end": 88033390368601,
+            "inp": 84849726352193,
+            "out": 88939379862632,
+            "media": null,
+            "nested_sequence": "0d081ac2-b62d-46da-8c2e-0c6e29b1028a"
+          },
+          {
+            "item_id": "358",
+            "clip_id": "766",
+            "subclip_id": "540",
+            "name": "02 Answering Exec Questions - Rounded gold PiP - synchronized",
+            "start": 93494728907386,
+            "end": 102275206527107,
+            "inp": 94620865381275,
+            "out": 103401343000996,
+            "media": null,
+            "nested_sequence": "0d081ac2-b62d-46da-8c2e-0c6e29b1028a"
+          },
+          {
+            "item_id": "359",
+            "clip_id": "769",
+            "subclip_id": "542",
+            "name": "02 Answering Exec Questions - Rounded gold PiP - synchronized",
+            "start": 102275206527107,
+            "end": 103824702577646,
+            "inp": 103401343000996,
+            "out": 104950839051535,
+            "media": null,
+            "nested_sequence": "0d081ac2-b62d-46da-8c2e-0c6e29b1028a"
+          }
+        ]
+      },
+      {
+        "type": "AudioTrackGroup",
+        "index": 0,
+        "uid": "4331ec40-140b-4856-9a79-095cc6c8b847",
+        "muted": "false",
+        "items": [
+          {
+            "item_id": "360",
+            "clip_id": "770",
+            "subclip_id": "544",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 0.0,
+            "end": 8.366658300197626,
+            "inp": 15.433317900364544,
+            "out": 23.79997620056217,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null,
+            "start_ticks": 0,
+            "end_ticks": 2125265074783,
+            "inp_ticks": 3920309679779,
+            "out_ticks": 6045574754562
+          },
+          {
+            "item_id": "361",
+            "clip_id": "771",
+            "subclip_id": "546",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 8.366658300197626,
+            "end": 20.799979200491308,
+            "inp": 49.733283601174726,
+            "out": 62.16660450146841,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null,
+            "start_ticks": 2125265074783,
+            "end_ticks": 5283527516592,
+            "inp_ticks": 12633049767236,
+            "out_ticks": 15791312209045
+          },
+          {
+            "item_id": "362",
+            "clip_id": "772",
+            "subclip_id": "548",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 20.799979200491308,
+            "end": 58.26660840137629,
+            "inp": 82.59991740195106,
+            "out": 120.06654660283604,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null,
+            "start_ticks": 5283527516592,
+            "end_ticks": 14800650799684,
+            "inp_ticks": 20981700618774,
+            "out_ticks": 30498823901866
+          },
+          {
+            "item_id": "363",
+            "clip_id": "773",
+            "subclip_id": "550",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 58.26660840137629,
+            "end": 142.23319110335964,
+            "inp": 122.266544402888,
+            "out": 206.23312710487136,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null,
+            "start_ticks": 14800650799684,
+            "end_ticks": 36129506271311,
+            "inp_ticks": 31057658543044,
+            "out_ticks": 52386514014671
+          },
+          {
+            "item_id": "364",
+            "clip_id": "774",
+            "subclip_id": "552",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 142.23319110335964,
+            "end": 151.96651470358952,
+            "inp": 236.63309670558942,
+            "out": 246.36642030581933,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null,
+            "start_ticks": 36129506271311,
+            "end_ticks": 38601926198947,
+            "inp_ticks": 60108592692767,
+            "out_ticks": 62581012620403
+          },
+          {
+            "item_id": "365",
+            "clip_id": "775",
+            "subclip_id": "554",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 151.96651470358952,
+            "end": 197.73313560467057,
+            "inp": 258.69974130611064,
+            "out": 304.46636220719165,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null,
+            "start_ticks": 38601926198947,
+            "end_ticks": 50227380173756,
+            "inp_ticks": 65713873487613,
+            "out_ticks": 77339327462422
+          },
+          {
+            "item_id": "366",
+            "clip_id": "776",
+            "subclip_id": "556",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 197.73313560467057,
+            "end": 235.73309760556816,
+            "inp": 307.5663591072649,
+            "out": 345.56632110816247,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null,
+            "start_ticks": 50227380173756,
+            "end_ticks": 59879978521376,
+            "inp_ticks": 78126776274991,
+            "out_ticks": 87779374622611
+          },
+          {
+            "item_id": "367",
+            "clip_id": "777",
+            "subclip_id": "558",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 235.73309760556816,
+            "end": 261.83307150618464,
+            "inp": 345.9663207081719,
+            "out": 372.06629460878844,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null,
+            "start_ticks": 59879978521376,
+            "end_ticks": 66509789491715,
+            "inp_ticks": 87880980921007,
+            "out_ticks": 94510791891346
+          },
+          {
+            "item_id": "368",
+            "clip_id": "778",
+            "subclip_id": "560",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 261.83307150618464,
+            "end": 274.633058706487,
+            "inp": 376.49962350889314,
+            "out": 389.29961070919546,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null,
+            "start_ticks": 66509789491715,
+            "end_ticks": 69761191040387,
+            "inp_ticks": 95636928365235,
+            "out_ticks": 98888329913907
+          },
+          {
+            "item_id": "369",
+            "clip_id": "779",
+            "subclip_id": "562",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 274.633058706487,
+            "end": 287.33304600678696,
+            "inp": 392.9996070092829,
+            "out": 405.69959430958284,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null,
+            "start_ticks": 69761191040387,
+            "end_ticks": 72987191014460,
+            "inp_ticks": 99828188174070,
+            "out_ticks": 103054188148143
+          },
+          {
+            "item_id": "370",
+            "clip_id": "780",
+            "subclip_id": "564",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 287.33304600678696,
+            "end": 308.96635770729796,
+            "inp": 409.33292400966866,
+            "out": 430.96623571017966,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null,
+            "start_ticks": 72987191014460,
+            "end_ticks": 78482398319377,
+            "inp_ticks": 103977112025240,
+            "out_ticks": 109472319330157
+          },
+          {
+            "item_id": "371",
+            "clip_id": "781",
+            "subclip_id": "566",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 308.96635770729796,
+            "end": 318.1996818075161,
+            "inp": 433.732899610245,
+            "out": 442.9662237104631,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null,
+            "start_ticks": 78482398319377,
+            "end_ticks": 80827810374018,
+            "inp_ticks": 110175096227396,
+            "out_ticks": 112520508282037
+          },
+          {
+            "item_id": "372",
+            "clip_id": "782",
+            "subclip_id": "568",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 318.1996818075161,
+            "end": 353.9663127083609,
+            "inp": 448.8662178106025,
+            "out": 484.6328487114473,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null,
+            "start_ticks": 80827810374018,
+            "end_ticks": 89913106888927,
+            "inp_ticks": 114019201183378,
+            "out_ticks": 123104497698287
+          },
+          {
+            "item_id": "373",
+            "clip_id": "783",
+            "subclip_id": "570",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 353.9663127083609,
+            "end": 390.3329430092199,
+            "inp": 485.9995140114796,
+            "out": 522.3661443123386,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null,
+            "start_ticks": 89913106888927,
+            "end_ticks": 99150812851430,
+            "inp_ticks": 123451652551140,
+            "out_ticks": 132689358513643
+          },
+          {
+            "item_id": "374",
+            "clip_id": "784",
+            "subclip_id": "572",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 390.3329430092199,
+            "end": 408.7329246096545,
+            "inp": 530.0994699125213,
+            "out": 548.4994515129558,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null,
+            "start_ticks": 99150812851430,
+            "end_ticks": 103824702577646,
+            "inp_ticks": 134653746949299,
+            "out_ticks": 139327636675515
+          }
+        ]
+      },
+      {
+        "type": "AudioTrackGroup",
+        "index": 1,
+        "uid": "61fdfbe0-9f04-4b40-ab8e-bfc84991a272",
+        "muted": "false",
+        "items": []
+      },
+      {
+        "type": "AudioTrackGroup",
+        "index": 2,
+        "uid": "c64c5c1e-e058-466b-85bf-d5559eb07938",
+        "muted": "false",
+        "items": []
+      }
+    ]
+  },
+  {
+    "uid": "cd724734-ce45-4562-b316-1a941c9a230c",
+    "name": "01 Answering Exec Questions - Full talking head - synchronized",
+    "tracks": [
+      {
+        "type": "VideoTrackGroup",
+        "index": 0,
+        "uid": "46e74437-12eb-48c0-9e4c-d53b6e581a99",
+        "muted": "false",
+        "items": [
+          {
+            "item_id": "390",
+            "clip_id": "859",
+            "subclip_id": "587",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 0,
+            "end": 2125265074783,
+            "inp": 762453663163584,
+            "out": 764578928238367,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "391",
+            "clip_id": "860",
+            "subclip_id": "589",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 2125265074783,
+            "end": 5283527516592,
+            "inp": 771166403251041,
+            "out": 774324665692850,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "392",
+            "clip_id": "861",
+            "subclip_id": "591",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 5283527516592,
+            "end": 36688340912489,
+            "inp": 779515054102579,
+            "out": 810919867498476,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "393",
+            "clip_id": "862",
+            "subclip_id": "593",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 36688340912489,
+            "end": 39160760840125,
+            "inp": 818641946176572,
+            "out": 821114366104208,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "394",
+            "clip_id": "863",
+            "subclip_id": "595",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 39160760840125,
+            "end": 51133369667787,
+            "inp": 823900072118565,
+            "out": 835872680946227,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "395",
+            "clip_id": "864",
+            "subclip_id": "597",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 51133369667787,
+            "end": 60785968015407,
+            "inp": 836660129758796,
+            "out": 846312728106416,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "396",
+            "clip_id": "865",
+            "subclip_id": "599",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 60785968015407,
+            "end": 67415778985746,
+            "inp": 846414334404812,
+            "out": 853044145375151,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "397",
+            "clip_id": "866",
+            "subclip_id": "601",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 67415778985746,
+            "end": 70667180534418,
+            "inp": 854170281849040,
+            "out": 857421683397712,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "398",
+            "clip_id": "867",
+            "subclip_id": "603",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 70667180534418,
+            "end": 73893180508491,
+            "inp": 858361541657875,
+            "out": 861587541631948,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "399",
+            "clip_id": "868",
+            "subclip_id": "605",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 73893180508491,
+            "end": 79388387813408,
+            "inp": 862510465509045,
+            "out": 868005672813962,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "400",
+            "clip_id": "869",
+            "subclip_id": "607",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 79388387813408,
+            "end": 81733799868049,
+            "inp": 868708449711201,
+            "out": 871053861765842,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "401",
+            "clip_id": "870",
+            "subclip_id": "609",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 81733799868049,
+            "end": 90819096382958,
+            "inp": 872552554667183,
+            "out": 881637851182092,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "402",
+            "clip_id": "871",
+            "subclip_id": "611",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 90819096382958,
+            "end": 100276949325319,
+            "inp": 881764859055087,
+            "out": 891222711997448,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "403",
+            "clip_id": "872",
+            "subclip_id": "613",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 100276949325319,
+            "end": 104950839051535,
+            "inp": 893187100433104,
+            "out": 897860990159320,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          }
+        ]
+      },
+      {
+        "type": "VideoTrackGroup",
+        "index": 1,
+        "uid": "302c16ed-54d8-421c-be66-6ce798e83722",
+        "muted": "false",
+        "items": [
+          {
+            "item_id": "404",
+            "clip_id": "876",
+            "subclip_id": "615",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 0,
+            "end": 2125265074783,
+            "inp": 2980451419616,
+            "out": 5105716494399,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "405",
+            "clip_id": "880",
+            "subclip_id": "617",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 2125265074783,
+            "end": 5283527516592,
+            "inp": 11693191507073,
+            "out": 14851453948882,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "406",
+            "clip_id": "884",
+            "subclip_id": "619",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 5283527516592,
+            "end": 36688340912489,
+            "inp": 20041842358611,
+            "out": 51446655754508,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "407",
+            "clip_id": "888",
+            "subclip_id": "621",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 36688340912489,
+            "end": 39160760840125,
+            "inp": 59168734432604,
+            "out": 61641154360240,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "408",
+            "clip_id": "892",
+            "subclip_id": "623",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 39160760840125,
+            "end": 51133369667787,
+            "inp": 64426860374597,
+            "out": 76399469202259,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "409",
+            "clip_id": "896",
+            "subclip_id": "625",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 51133369667787,
+            "end": 60785968015407,
+            "inp": 77186918014828,
+            "out": 86839516362448,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "410",
+            "clip_id": "900",
+            "subclip_id": "627",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 60785968015407,
+            "end": 67415778985746,
+            "inp": 86941122660844,
+            "out": 93570933631183,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "411",
+            "clip_id": "904",
+            "subclip_id": "629",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 67415778985746,
+            "end": 70667180534418,
+            "inp": 94697070105072,
+            "out": 97948471653744,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "412",
+            "clip_id": "908",
+            "subclip_id": "631",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 70667180534418,
+            "end": 73893180508491,
+            "inp": 98888329913907,
+            "out": 102114329887980,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "413",
+            "clip_id": "912",
+            "subclip_id": "633",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 73893180508491,
+            "end": 79388387813408,
+            "inp": 103037253765077,
+            "out": 108532461069994,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "414",
+            "clip_id": "916",
+            "subclip_id": "635",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 79388387813408,
+            "end": 81733799868049,
+            "inp": 109235237967233,
+            "out": 111580650021874,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "415",
+            "clip_id": "920",
+            "subclip_id": "637",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 81733799868049,
+            "end": 90819096382958,
+            "inp": 113079342923215,
+            "out": 122164639438124,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "416",
+            "clip_id": "924",
+            "subclip_id": "639",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 90819096382958,
+            "end": 100276949325319,
+            "inp": 122291647311119,
+            "out": 131749500253480,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "417",
+            "clip_id": "928",
+            "subclip_id": "641",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 100276949325319,
+            "end": 104950839051535,
+            "inp": 133713888689136,
+            "out": 138387778415352,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          }
+        ]
+      },
+      {
+        "type": "VideoTrackGroup",
+        "index": 2,
+        "uid": "dfb13b90-5bcc-4976-8aed-11e419684244",
+        "muted": "false",
+        "items": []
+      },
+      {
+        "type": "AudioTrackGroup",
+        "index": 0,
+        "uid": "c5b969e7-13ba-4d26-9039-6a1e016dc192",
+        "muted": "false",
+        "items": []
+      },
+      {
+        "type": "AudioTrackGroup",
+        "index": 1,
+        "uid": "aa35e7d1-25b6-4706-9265-19f5fe745426",
+        "muted": "false",
+        "items": []
+      },
+      {
+        "type": "AudioTrackGroup",
+        "index": 2,
+        "uid": "bbd4608a-4d03-4edf-b25d-433b10431cc7",
+        "muted": "false",
+        "items": []
+      }
+    ]
+  },
+  {
+    "uid": "0d081ac2-b62d-46da-8c2e-0c6e29b1028a",
+    "name": "02 Answering Exec Questions - Rounded gold PiP - synchronized",
+    "tracks": [
+      {
+        "type": "VideoTrackGroup",
+        "index": 0,
+        "uid": "bbb5731a-8d9c-4857-b276-2d16f9abfda4",
+        "muted": "false",
+        "items": [
+          {
+            "item_id": "427",
+            "clip_id": "939",
+            "subclip_id": "654",
+            "name": "Current picture - PiP content centered",
+            "start": 0,
+            "end": 104950839051535,
+            "inp": 0,
+            "out": 104950839051535,
+            "media": null,
+            "nested_sequence": "15bc1576-c234-4533-8480-404512ade431"
+          }
+        ]
+      },
+      {
+        "type": "VideoTrackGroup",
+        "index": 1,
+        "uid": "a53d12bb-b7d3-407b-a18c-4892d4eea783",
+        "muted": "false",
+        "items": [
+          {
+            "item_id": "428",
+            "clip_id": "941",
+            "subclip_id": "656",
+            "name": "Graphic",
+            "start": 0,
+            "end": 104950839051535,
+            "inp": 914457600000000,
+            "out": 1019408439051535,
+            "media": "1196574294",
+            "nested_sequence": null
+          }
+        ]
+      },
+      {
+        "type": "VideoTrackGroup",
+        "index": 2,
+        "uid": "834b2889-5584-49f1-8ea2-9386b3cffea7",
+        "muted": "false",
+        "items": [
+          {
+            "item_id": "429",
+            "clip_id": "943",
+            "subclip_id": "658",
+            "name": "Graphic",
+            "start": 0,
+            "end": 104950839051535,
+            "inp": 914457600000000,
+            "out": 1019408439051535,
+            "media": "1196574294",
+            "nested_sequence": null
+          }
+        ]
+      },
+      {
+        "type": "AudioTrackGroup",
+        "index": 0,
+        "uid": "8e92db1b-a6c9-42c4-8122-81cdbfb8f28d",
+        "muted": "false",
+        "items": []
+      }
+    ]
+  },
+  {
+    "uid": "15bc1576-c234-4533-8480-404512ade431",
+    "name": "02a Answering Exec Questions - PiP face centering",
+    "tracks": [
+      {
+        "type": "VideoTrackGroup",
+        "index": 0,
+        "uid": "0d332c4b-6ecc-447b-b7bb-3d2d42968c49",
+        "muted": "false",
+        "items": [
+          {
+            "item_id": "435",
+            "clip_id": "949",
+            "subclip_id": "665",
+            "name": "Original edited picture - preserved native composite",
+            "start": 0,
+            "end": 104950839051535,
+            "inp": 0,
+            "out": 104950839051535,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          }
+        ]
+      },
+      {
+        "type": "AudioTrackGroup",
+        "index": 0,
+        "uid": "2ce65315-c24f-4173-b0c4-4cfaea815d76",
+        "muted": "false",
+        "items": []
+      }
+    ]
+  },
+  {
+    "uid": "2afdb2ff-a9bc-48eb-8166-ce77fbff7323",
+    "name": "03 Answering Exec Questions - Right half - synchronized",
+    "tracks": [
+      {
+        "type": "VideoTrackGroup",
+        "index": 0,
+        "uid": "5369954d-e10c-4d59-9e66-de0053f57f60",
+        "muted": "false",
+        "items": [
+          {
+            "item_id": "441",
+            "clip_id": "955",
+            "subclip_id": "672",
+            "name": "Original edited picture - preserved native composite",
+            "start": 0,
+            "end": 104950839051535,
+            "inp": 0,
+            "out": 104950839051535,
+            "media": null,
+            "nested_sequence": "cd724734-ce45-4562-b316-1a941c9a230c"
+          }
+        ]
+      },
+      {
+        "type": "AudioTrackGroup",
+        "index": 0,
+        "uid": "fb697cd2-51cd-4c38-9027-7bf9d9a8d7d9",
+        "muted": "false",
+        "items": []
+      }
+    ]
+  },
+  {
+    "uid": "c787229c-5612-4082-8581-0042ecbe8897",
+    "name": "AutoCut-Backup<||>2026-11-05_answering-exec-questions_recording_v02<||>Thursday, November 05 2026 17:34:41",
+    "tracks": [
+      {
+        "type": "VideoTrackGroup",
+        "index": 0,
+        "uid": "0f2eb1b9-9933-4d4a-b8f3-d64c9a9241fa",
+        "muted": "false",
+        "items": [
+          {
+            "item_id": "793",
+            "clip_id": "2194",
+            "subclip_id": "1400",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 1278545921483,
+            "end": 140631584171597,
+            "inp": 759811899405288,
+            "out": 899164937655402,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          }
+        ]
+      },
+      {
+        "type": "VideoTrackGroup",
+        "index": 1,
+        "uid": "4978182f-e5de-4a62-91b4-8288c7ad9083",
+        "muted": "false",
+        "items": [
+          {
+            "item_id": "794",
+            "clip_id": "2198",
+            "subclip_id": "1402",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 939858260163,
+            "end": 140292896510277,
+            "inp": 0,
+            "out": 139353038250114,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          }
+        ]
+      },
+      {
+        "type": "VideoTrackGroup",
+        "index": 2,
+        "uid": "9acff531-d41d-4f3e-b6cd-3a4df9c2ab2e",
+        "muted": "false",
+        "items": []
+      },
+      {
+        "type": "AudioTrackGroup",
+        "index": 0,
+        "uid": "0edd6686-715a-461b-8715-db1107a57ed7",
+        "muted": "false",
+        "items": [
+          {
+            "item_id": "795",
+            "clip_id": "2199",
+            "subclip_id": "1404",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 0,
+            "end": 140631584171597,
+            "inp": 0,
+            "out": 140631584171597,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null
+          }
+        ]
+      },
+      {
+        "type": "AudioTrackGroup",
+        "index": 1,
+        "uid": "20bf87b8-64ee-4298-9d03-641c99d424a1",
+        "muted": "false",
+        "items": []
+      },
+      {
+        "type": "AudioTrackGroup",
+        "index": 2,
+        "uid": "8e555fec-a5a6-400b-9207-45eb823e8757",
+        "muted": "false",
+        "items": []
+      }
+    ]
+  },
+  {
+    "uid": "c387bfce-e1e3-4226-93b2-1053d92bc574",
+    "name": "AutoCut-Backup<||>2026-11-05_answering-exec-questions_recording_v02<||>Thursday, November 05 2026 17:36:05",
+    "tracks": [
+      {
+        "type": "VideoTrackGroup",
+        "index": 0,
+        "uid": "b3f50e67-2b66-4b8c-8a1c-d912f4a8dce2",
+        "muted": "false",
+        "items": [
+          {
+            "item_id": "805",
+            "clip_id": "2208",
+            "subclip_id": "1417",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 0,
+            "end": 3962645637444,
+            "inp": 762377458439787,
+            "out": 766340104077231,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "806",
+            "clip_id": "2209",
+            "subclip_id": "1419",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 3962645637444,
+            "end": 7798283401893,
+            "inp": 771098665718777,
+            "out": 774934303483226,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "807",
+            "clip_id": "2210",
+            "subclip_id": "1421",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 7798283401893,
+            "end": 8501060299132,
+            "inp": 775086712930820,
+            "out": 775789489828059,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "808",
+            "clip_id": "2211",
+            "subclip_id": "1423",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 8501060299132,
+            "end": 10101359498869,
+            "inp": 777694607922984,
+            "out": 779294907122721,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "809",
+            "clip_id": "2212",
+            "subclip_id": "1425",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 10101359498869,
+            "end": 43800781800209,
+            "inp": 779447316570315,
+            "out": 813146738871655,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "810",
+            "clip_id": "2213",
+            "subclip_id": "1427",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 43800781800209,
+            "end": 44884582316433,
+            "inp": 813942654875757,
+            "out": 815026455391981,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "811",
+            "clip_id": "2214",
+            "subclip_id": "1429",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 44884582316433,
+            "end": 45536556064474,
+            "inp": 815737699480753,
+            "out": 816389673228794,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "812",
+            "clip_id": "2215",
+            "subclip_id": "1431",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 45536556064474,
+            "end": 46129259471784,
+            "inp": 816711426507048,
+            "out": 817304129914358,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "813",
+            "clip_id": "2216",
+            "subclip_id": "1433",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 46129259471784,
+            "end": 46408676792373,
+            "inp": 818108513109993,
+            "out": 818387930430582,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "814",
+            "clip_id": "2217",
+            "subclip_id": "1435",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 46408676792373,
+            "end": 48948834252273,
+            "inp": 818574208644308,
+            "out": 821114366104208,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "815",
+            "clip_id": "2218",
+            "subclip_id": "1437",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 48948834252273,
+            "end": 60989180612199,
+            "inp": 823900072118565,
+            "out": 835940418478491,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "816",
+            "clip_id": "2219",
+            "subclip_id": "1439",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 60989180612199,
+            "end": 71226015175596,
+            "inp": 836075893543019,
+            "out": 846312728106416,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "817",
+            "clip_id": "2220",
+            "subclip_id": "1441",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 71226015175596,
+            "end": 97101752500444,
+            "inp": 846414334404812,
+            "out": 872290071729660,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "818",
+            "clip_id": "2221",
+            "subclip_id": "1443",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 97101752500444,
+            "end": 106254786547617,
+            "inp": 872484817134919,
+            "out": 881637851182092,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "819",
+            "clip_id": "2222",
+            "subclip_id": "1445",
+            "name": "Josh-Video-Background-Office-4K.png",
+            "start": 106254786547617,
+            "end": 122350917651850,
+            "inp": 881764859055087,
+            "out": 897860990159320,
+            "media": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+            "nested_sequence": null
+          }
+        ]
+      },
+      {
+        "type": "VideoTrackGroup",
+        "index": 1,
+        "uid": "2c88acf9-cb24-4482-832f-38d2ba603575",
+        "muted": "false",
+        "items": [
+          {
+            "item_id": "820",
+            "clip_id": "2226",
+            "subclip_id": "1447",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 0,
+            "end": 3962645637444,
+            "inp": 2904246695819,
+            "out": 6866892333263,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "821",
+            "clip_id": "2230",
+            "subclip_id": "1449",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 3962645637444,
+            "end": 7798283401893,
+            "inp": 11625453974809,
+            "out": 15461091739258,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "822",
+            "clip_id": "2234",
+            "subclip_id": "1451",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 7798283401893,
+            "end": 8501060299132,
+            "inp": 15613501186852,
+            "out": 16316278084091,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "823",
+            "clip_id": "2238",
+            "subclip_id": "1453",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 8501060299132,
+            "end": 10101359498869,
+            "inp": 18221396179016,
+            "out": 19821695378753,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "824",
+            "clip_id": "2242",
+            "subclip_id": "1455",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 10101359498869,
+            "end": 43800781800209,
+            "inp": 19974104826347,
+            "out": 53673527127687,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "825",
+            "clip_id": "2246",
+            "subclip_id": "1457",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 43800781800209,
+            "end": 44884582316433,
+            "inp": 54469443131789,
+            "out": 55553243648013,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "826",
+            "clip_id": "2250",
+            "subclip_id": "1459",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 44884582316433,
+            "end": 45536556064474,
+            "inp": 56264487736785,
+            "out": 56916461484826,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "827",
+            "clip_id": "2254",
+            "subclip_id": "1461",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 45536556064474,
+            "end": 46129259471784,
+            "inp": 57238214763080,
+            "out": 57830918170390,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "828",
+            "clip_id": "2258",
+            "subclip_id": "1463",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 46129259471784,
+            "end": 46408676792373,
+            "inp": 58635301366025,
+            "out": 58914718686614,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "829",
+            "clip_id": "2262",
+            "subclip_id": "1465",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 46408676792373,
+            "end": 48948834252273,
+            "inp": 59100996900340,
+            "out": 61641154360240,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "830",
+            "clip_id": "2266",
+            "subclip_id": "1467",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 48948834252273,
+            "end": 60989180612199,
+            "inp": 64426860374597,
+            "out": 76467206734523,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "831",
+            "clip_id": "2270",
+            "subclip_id": "1469",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 60989180612199,
+            "end": 71226015175596,
+            "inp": 76602681799051,
+            "out": 86839516362448,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "832",
+            "clip_id": "2274",
+            "subclip_id": "1471",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 71226015175596,
+            "end": 97101752500444,
+            "inp": 86941122660844,
+            "out": 112816859985692,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "833",
+            "clip_id": "2278",
+            "subclip_id": "1473",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 97101752500444,
+            "end": 106254786547617,
+            "inp": 113011605390951,
+            "out": 122164639438124,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "834",
+            "clip_id": "2282",
+            "subclip_id": "1475",
+            "name": "2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "start": 106254786547617,
+            "end": 122350917651850,
+            "inp": 122291647311119,
+            "out": 138387778415352,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+            "nested_sequence": null
+          }
+        ]
+      },
+      {
+        "type": "VideoTrackGroup",
+        "index": 2,
+        "uid": "9c21b2fa-53b1-46ed-8c1d-23239a87336b",
+        "muted": "false",
+        "items": []
+      },
+      {
+        "type": "AudioTrackGroup",
+        "index": 0,
+        "uid": "79484ec4-d18b-47ac-ac34-04fd9d1ba5f2",
+        "muted": "false",
+        "items": [
+          {
+            "item_id": "835",
+            "clip_id": "2283",
+            "subclip_id": "1477",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 0,
+            "end": 3962645637444,
+            "inp": 3844104955982,
+            "out": 7806750593426,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "836",
+            "clip_id": "2284",
+            "subclip_id": "1479",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 3962645637444,
+            "end": 7798283401893,
+            "inp": 12565312234972,
+            "out": 16400949999421,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "837",
+            "clip_id": "2285",
+            "subclip_id": "1481",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 7798283401893,
+            "end": 8501060299132,
+            "inp": 16553359447015,
+            "out": 17256136344254,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "838",
+            "clip_id": "2286",
+            "subclip_id": "1483",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 8501060299132,
+            "end": 10101359498869,
+            "inp": 19161254439179,
+            "out": 20761553638916,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "839",
+            "clip_id": "2287",
+            "subclip_id": "1485",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 10101359498869,
+            "end": 43800781800209,
+            "inp": 20913963086510,
+            "out": 54613385387850,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "840",
+            "clip_id": "2288",
+            "subclip_id": "1487",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 43800781800209,
+            "end": 44884582316433,
+            "inp": 55409301391952,
+            "out": 56493101908176,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "841",
+            "clip_id": "2289",
+            "subclip_id": "1489",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 44884582316433,
+            "end": 45536556064474,
+            "inp": 57204345996948,
+            "out": 57856319744989,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "842",
+            "clip_id": "2290",
+            "subclip_id": "1491",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 45536556064474,
+            "end": 46129259471784,
+            "inp": 58178073023243,
+            "out": 58770776430553,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "843",
+            "clip_id": "2291",
+            "subclip_id": "1493",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 46129259471784,
+            "end": 46408676792373,
+            "inp": 59575159626188,
+            "out": 59854576946777,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "844",
+            "clip_id": "2292",
+            "subclip_id": "1495",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 46408676792373,
+            "end": 48948834252273,
+            "inp": 60040855160503,
+            "out": 62581012620403,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "845",
+            "clip_id": "2293",
+            "subclip_id": "1497",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 48948834252273,
+            "end": 60989180612199,
+            "inp": 65366718634760,
+            "out": 77407064994686,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "846",
+            "clip_id": "2294",
+            "subclip_id": "1499",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 60989180612199,
+            "end": 71226015175596,
+            "inp": 77542540059214,
+            "out": 87779374622611,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "847",
+            "clip_id": "2295",
+            "subclip_id": "1501",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 71226015175596,
+            "end": 97101752500444,
+            "inp": 87880980921007,
+            "out": 113756718245855,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "848",
+            "clip_id": "2296",
+            "subclip_id": "1503",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 97101752500444,
+            "end": 106254786547617,
+            "inp": 113951463651114,
+            "out": 123104497698287,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null
+          },
+          {
+            "item_id": "849",
+            "clip_id": "2297",
+            "subclip_id": "1505",
+            "name": "00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "start": 106254786547617,
+            "end": 122350917651850,
+            "inp": 123231505571282,
+            "out": 139327636675515,
+            "media": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\00111_Wireless_PRO-esv2-50p-bg-10p-music-10p.wav",
+            "nested_sequence": null
+          }
+        ]
+      },
+      {
+        "type": "AudioTrackGroup",
+        "index": 1,
+        "uid": "c666d3d3-fd55-4324-8b2d-d1d4caabe8e8",
+        "muted": "false",
+        "items": []
+      },
+      {
+        "type": "AudioTrackGroup",
+        "index": 2,
+        "uid": "bfe8d283-0a29-4f32-9854-57af4ac9fd99",
+        "muted": "false",
+        "items": []
+      }
+    ]
+  }
+]

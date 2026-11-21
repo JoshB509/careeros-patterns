@@ -1,0 +1,530 @@
+{
+ "reference": "C:\\Users\\you\\Desktop\\Tariq-Editing-Handover-2026-11-10\\reference-projects\\Data storytelling.prproj",
+ "sequence": "AutoCut-Backup<||>2026-11-02 17-26-15<||>Monday, November 02 2026 18:07:10",
+ "frame": [
+  3840,
+  2160
+ ],
+ "read": "2026-11-10T17:16:57.502999+00:00",
+ "presenter": [
+  {
+   "match": "AE.ADBE Opacity",
+   "name": "Opacity",
+   "params": [
+    {
+     "name": "Opacity",
+     "value": 100
+    },
+    {
+     "name": "Blend Mode",
+     "value": 18
+    },
+    {
+     "name": "Blend Mode",
+     "value": 0
+    }
+   ]
+  },
+  {
+   "match": "AE.ADBE Motion",
+   "name": "Motion",
+   "params": [
+    {
+     "name": "Position",
+     "value": {
+      "value": [
+       0.4609375,
+       0.5282407402992249
+      ]
+     }
+    },
+    {
+     "name": "Scale",
+     "value": 115
+    },
+    {
+     "name": "Scale Width",
+     "value": 100
+    },
+    {
+     "name": " ",
+     "value": true
+    },
+    {
+     "name": "Rotation",
+     "value": 0
+    },
+    {
+     "name": "Anchor Point",
+     "value": {
+      "value": [
+       0.5,
+       0.5
+      ]
+     }
+    },
+    {
+     "name": "Anti-flicker Filter",
+     "value": 0
+    },
+    {
+     "name": "Crop Left",
+     "value": 0
+    },
+    {
+     "name": "Crop Top",
+     "value": 0
+    },
+    {
+     "name": "Crop Right",
+     "value": 0
+    },
+    {
+     "name": "Crop Bottom",
+     "value": 0
+    }
+   ]
+  },
+  {
+   "match": "AE.ADBE Ultra Key",
+   "name": "Ultra Key",
+   "params": [
+    {
+     "name": "Output",
+     "value": 0
+    },
+    {
+     "name": "Setting",
+     "value": 3
+    },
+    {
+     "name": "Key Color",
+     "value": {
+      "color": [
+       0.3294117748737335,
+       0.6117647290229797,
+       0.29411765933036804,
+       1
+      ]
+     }
+    },
+    {
+     "name": "Matte Generation",
+     "value": false
+    },
+    {
+     "name": "Transparency",
+     "value": 45
+    },
+    {
+     "name": "Highlight",
+     "value": 52.04545211791992
+    },
+    {
+     "name": "Shadow",
+     "value": 50.227272033691406
+    },
+    {
+     "name": "Tolerance",
+     "value": 65.45454406738281
+    },
+    {
+     "name": "Pedestal",
+     "value": 100
+    },
+    {
+     "name": "",
+     "value": false
+    },
+    {
+     "name": "Matte Cleanup",
+     "value": false
+    },
+    {
+     "name": "Choke",
+     "value": 7.727272987365723
+    },
+    {
+     "name": "Soften",
+     "value": 0
+    },
+    {
+     "name": "Contrast",
+     "value": 0
+    },
+    {
+     "name": "Mid Point",
+     "value": 50
+    },
+    {
+     "name": "",
+     "value": false
+    },
+    {
+     "name": "Spill Suppression",
+     "value": false
+    },
+    {
+     "name": "Desaturate",
+     "value": 25
+    },
+    {
+     "name": "Range",
+     "value": 50
+    },
+    {
+     "name": "Spill",
+     "value": 50
+    },
+    {
+     "name": "Luma",
+     "value": 50
+    },
+    {
+     "name": "",
+     "value": false
+    },
+    {
+     "name": "Color Correction",
+     "value": false
+    },
+    {
+     "name": "Saturation",
+     "value": 100
+    },
+    {
+     "name": "Hue",
+     "value": 0
+    },
+    {
+     "name": "Luminance",
+     "value": 100
+    },
+    {
+     "name": "",
+     "value": false
+    }
+   ]
+  }
+ ],
+ "shadow": [
+  {
+   "match": "AE.ADBE Opacity",
+   "name": "Opacity",
+   "params": [
+    {
+     "name": "Opacity",
+     "value": 100
+    },
+    {
+     "name": "Blend Mode",
+     "value": 18
+    },
+    {
+     "name": "Blend Mode",
+     "value": 0
+    }
+   ]
+  },
+  {
+   "match": "AE.ADBE Motion",
+   "name": "Motion",
+   "params": [
+    {
+     "name": "Position",
+     "value": {
+      "value": [
+       0.21510416269302368,
+       0.6370370388031006
+      ]
+     }
+    },
+    {
+     "name": "Scale",
+     "value": 100.88888549804688
+    },
+    {
+     "name": "Scale Width",
+     "value": 100
+    },
+    {
+     "name": " ",
+     "value": true
+    },
+    {
+     "name": "Rotation",
+     "value": 0
+    },
+    {
+     "name": "Anchor Point",
+     "value": {
+      "value": [
+       0.5,
+       0.5
+      ]
+     }
+    },
+    {
+     "name": "Anti-flicker Filter",
+     "value": 0
+    },
+    {
+     "name": "Crop Left",
+     "value": 0
+    },
+    {
+     "name": "Crop Top",
+     "value": 0
+    },
+    {
+     "name": "Crop Right",
+     "value": 0
+    },
+    {
+     "name": "Crop Bottom",
+     "value": 0
+    }
+   ]
+  },
+  {
+   "match": "AE.ADBE Drop Shadow",
+   "name": "Drop Shadow",
+   "params": [
+    {
+     "name": "Shadow Color",
+     "value": {
+      "color": [
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    },
+    {
+     "name": "Opacity",
+     "value": 52.70000076293945
+    },
+    {
+     "name": "Direction",
+     "value": 135
+    },
+    {
+     "name": "Distance",
+     "value": 5
+    },
+    {
+     "name": "Softness",
+     "value": 121.1111068725586
+    },
+    {
+     "name": "Shadow Only",
+     "value": true
+    }
+   ]
+  },
+  {
+   "match": "AE.ADBE Ultra Key",
+   "name": "Ultra Key",
+   "params": [
+    {
+     "name": "Output",
+     "value": 0
+    },
+    {
+     "name": "Setting",
+     "value": 3
+    },
+    {
+     "name": "Key Color",
+     "value": {
+      "color": [
+       0.3294117748737335,
+       0.6117647290229797,
+       0.29411765933036804,
+       1
+      ]
+     }
+    },
+    {
+     "name": "Matte Generation",
+     "value": false
+    },
+    {
+     "name": "Transparency",
+     "value": 45
+    },
+    {
+     "name": "Highlight",
+     "value": 52.04545211791992
+    },
+    {
+     "name": "Shadow",
+     "value": 50.227272033691406
+    },
+    {
+     "name": "Tolerance",
+     "value": 65.45454406738281
+    },
+    {
+     "name": "Pedestal",
+     "value": 100
+    },
+    {
+     "name": "",
+     "value": false
+    },
+    {
+     "name": "Matte Cleanup",
+     "value": false
+    },
+    {
+     "name": "Choke",
+     "value": 7.727272987365723
+    },
+    {
+     "name": "Soften",
+     "value": 0
+    },
+    {
+     "name": "Contrast",
+     "value": 0
+    },
+    {
+     "name": "Mid Point",
+     "value": 50
+    },
+    {
+     "name": "",
+     "value": false
+    },
+    {
+     "name": "Spill Suppression",
+     "value": false
+    },
+    {
+     "name": "Desaturate",
+     "value": 25
+    },
+    {
+     "name": "Range",
+     "value": 50
+    },
+    {
+     "name": "Spill",
+     "value": 50
+    },
+    {
+     "name": "Luma",
+     "value": 50
+    },
+    {
+     "name": "",
+     "value": false
+    },
+    {
+     "name": "Color Correction",
+     "value": false
+    },
+    {
+     "name": "Saturation",
+     "value": 100
+    },
+    {
+     "name": "Hue",
+     "value": 0
+    },
+    {
+     "name": "Luminance",
+     "value": 100
+    },
+    {
+     "name": "",
+     "value": false
+    }
+   ]
+  }
+ ],
+ "background": [
+  {
+   "match": "AE.ADBE Opacity",
+   "name": "Opacity",
+   "params": [
+    {
+     "name": "Opacity",
+     "value": 100
+    },
+    {
+     "name": "Blend Mode",
+     "value": 18
+    },
+    {
+     "name": "Blend Mode",
+     "value": 0
+    }
+   ]
+  },
+  {
+   "match": "AE.ADBE Motion",
+   "name": "Motion",
+   "params": [
+    {
+     "name": "Position",
+     "value": {
+      "value": [
+       0.5,
+       0.5
+      ]
+     }
+    },
+    {
+     "name": "Scale",
+     "value": 100
+    },
+    {
+     "name": "Scale Width",
+     "value": 100
+    },
+    {
+     "name": " ",
+     "value": true
+    },
+    {
+     "name": "Rotation",
+     "value": 0
+    },
+    {
+     "name": "Anchor Point",
+     "value": {
+      "value": [
+       0.5,
+       0.5
+      ]
+     }
+    },
+    {
+     "name": "Anti-flicker Filter",
+     "value": 0
+    },
+    {
+     "name": "Crop Left",
+     "value": 0
+    },
+    {
+     "name": "Crop Top",
+     "value": 0
+    },
+    {
+     "name": "Crop Right",
+     "value": 0
+    },
+    {
+     "name": "Crop Bottom",
+     "value": 0
+    }
+   ]
+  }
+ ],
+ "background_path": "E:\\CareerOS\\12_YouTube\\Backgrounds\\Josh-Video-Background-Office-4K.png",
+ "note": "Masks are not copied. Adobe's plugin API cannot make them."
+}

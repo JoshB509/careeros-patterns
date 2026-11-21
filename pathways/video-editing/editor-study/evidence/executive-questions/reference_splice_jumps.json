@@ -1,0 +1,86 @@
+[
+  {
+    "cut": 1,
+    "source_hard_splice_sample_jump_dbfs": -63.46054553985596,
+    "left_sample": -0.000640869140625,
+    "right_sample": 3.0517578125e-05
+  },
+  {
+    "cut": 2,
+    "source_hard_splice_sample_jump_dbfs": -80.76657295227051,
+    "left_sample": 0.00030517578125,
+    "right_sample": 0.000396728515625
+  },
+  {
+    "cut": 3,
+    "source_hard_splice_sample_jump_dbfs": -71.22415065765381,
+    "left_sample": 9.1552734375e-05,
+    "right_sample": -0.00018310546875
+  },
+  {
+    "cut": 4,
+    "source_hard_splice_sample_jump_dbfs": -62.70477294921875,
+    "left_sample": 0.00079345703125,
+    "right_sample": 6.103515625e-05
+  },
+  {
+    "cut": 5,
+    "source_hard_splice_sample_jump_dbfs": -84.28839683532715,
+    "left_sample": -3.0517578125e-05,
+    "right_sample": 3.0517578125e-05
+  },
+  {
+    "cut": 6,
+    "source_hard_splice_sample_jump_dbfs": -74.74597454071045,
+    "left_sample": -6.103515625e-05,
+    "right_sample": -0.000244140625
+  },
+  {
+    "cut": 7,
+    "source_hard_splice_sample_jump_dbfs": -84.28839683532715,
+    "left_sample": -0.000152587890625,
+    "right_sample": -9.1552734375e-05
+  },
+  {
+    "cut": 8,
+    "source_hard_splice_sample_jump_dbfs": -56.86704158782959,
+    "left_sample": -0.001556396484375,
+    "right_sample": -0.0001220703125
+  },
+  {
+    "cut": 9,
+    "source_hard_splice_sample_jump_dbfs": -62.70477294921875,
+    "left_sample": -9.1552734375e-05,
+    "right_sample": -0.000823974609375
+  },
+  {
+    "cut": 10,
+    "source_hard_splice_sample_jump_dbfs": -74.74597454071045,
+    "left_sample": -3.0517578125e-05,
+    "right_sample": 0.000152587890625
+  },
+  {
+    "cut": 11,
+    "source_hard_splice_sample_jump_dbfs": -62.70477294921875,
+    "left_sample": -0.000762939453125,
+    "right_sample": -3.0517578125e-05
+  },
+  {
+    "cut": 12,
+    "source_hard_splice_sample_jump_dbfs": -200.0,
+    "left_sample": -9.1552734375e-05,
+    "right_sample": -9.1552734375e-05
+  },
+  {
+    "cut": 13,
+    "source_hard_splice_sample_jump_dbfs": -49.24743175506592,
+    "left_sample": 3.0517578125e-05,
+    "right_sample": -0.00341796875
+  },
+  {
+    "cut": 14,
+    "source_hard_splice_sample_jump_dbfs": -53.6588191986084,
+    "left_sample": 0.0,
+    "right_sample": -0.0020751953125
+  }
+]

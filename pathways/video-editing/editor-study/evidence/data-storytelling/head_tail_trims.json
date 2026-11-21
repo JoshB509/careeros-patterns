@@ -1,0 +1,13 @@
+{
+  "head_trim_s": 13.399986600316515,
+  "tail_trim_s": 5.913865238355129,
+  "head_asr_overlap": [
+    {
+      "word": "Why",
+      "start": 13.29,
+      "end": 13.739999999999998
+    }
+  ],
+  "tail_asr_overlap": [],
+  "warning": "ASR overlap is a review flag, not proof that a syllable was cut."
+}

@@ -1,0 +1,1514 @@
+[
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\acoustic_replay_ranges.json",
+    "destination": "evidence\\executive-questions\\acoustic_replay_ranges.json",
+    "bytes": 26073,
+    "sha256": "4930bcd931f249fca6087d8c4094ddc699d1fe0e820d2daf3999c407af4900cd",
+    "source_sha256": "4930bcd931f249fca6087d8c4094ddc699d1fe0e820d2daf3999c407af4900cd"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\acoustic_replay_summary.json",
+    "destination": "evidence\\executive-questions\\acoustic_replay_summary.json",
+    "bytes": 6253,
+    "sha256": "56b13f42a71284951366e48454581a1c81b935db9c37bcaef114ab903824dad0",
+    "source_sha256": "56b13f42a71284951366e48454581a1c81b935db9c37bcaef114ab903824dad0"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\analyze_events.py",
+    "destination": "evidence\\executive-questions\\analyze_events.py",
+    "bytes": 5578,
+    "sha256": "c841af85c7f23557453eb0f64e158cf0f0a798c10840b7ba74debb97d3a18182",
+    "source_sha256": "c841af85c7f23557453eb0f64e158cf0f0a798c10840b7ba74debb97d3a18182"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\asr_cut_comparison.json",
+    "destination": "evidence\\executive-questions\\asr_cut_comparison.json",
+    "bytes": 12447,
+    "sha256": "b723587d7968c57fd4a314f21d72e46e29ba5c6ecf06dfe5d28cccc050c91f9f",
+    "source_sha256": "b723587d7968c57fd4a314f21d72e46e29ba5c6ecf06dfe5d28cccc050c91f9f"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\asr_final.json",
+    "destination": "evidence\\executive-questions\\asr_final.json",
+    "bytes": 202316,
+    "sha256": "da01c70544a8475110ade8ffeb47ea704cfce7d6366560d860c752743fb3d871",
+    "source_sha256": "da01c70544a8475110ade8ffeb47ea704cfce7d6366560d860c752743fb3d871"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\asr_final.txt",
+    "destination": "evidence\\executive-questions\\asr_final.txt",
+    "bytes": 9310,
+    "sha256": "0a296a58c69cd27d02c4a219356c99f5a3f40bd344d156399c0abe4d2ad38f1a",
+    "source_sha256": "0a296a58c69cd27d02c4a219356c99f5a3f40bd344d156399c0abe4d2ad38f1a"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\asr_original.json",
+    "destination": "evidence\\executive-questions\\asr_original.json",
+    "bytes": 229590,
+    "sha256": "89f2510c4c0452a6584db33981574eaec0c4402a0715e7e942faff6d9c033135",
+    "source_sha256": "89f2510c4c0452a6584db33981574eaec0c4402a0715e7e942faff6d9c033135"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\asr_original.txt",
+    "destination": "evidence\\executive-questions\\asr_original.txt",
+    "bytes": 10554,
+    "sha256": "c93dac6c29a14e8e4cba7ade456a80cca3f2fba303069ff13637ec774d1879aa",
+    "source_sha256": "c93dac6c29a14e8e4cba7ade456a80cca3f2fba303069ff13637ec774d1879aa"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\build_report.py",
+    "destination": "evidence\\executive-questions\\build_report.py",
+    "bytes": 40580,
+    "sha256": "e7d1e7fed046eb95f739dc2028cd5d38a790f350b1f554e16b9fbb01c1eb9668",
+    "source_sha256": "e7d1e7fed046eb95f739dc2028cd5d38a790f350b1f554e16b9fbb01c1eb9668"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\camera_mic_sync.json",
+    "destination": "evidence\\executive-questions\\camera_mic_sync.json",
+    "bytes": 1450,
+    "sha256": "6a51e1755b407f0a247371d543b61d07f5d7d03613d58b6f37ae345b0172b998",
+    "source_sha256": "6a51e1755b407f0a247371d543b61d07f5d7d03613d58b6f37ae345b0172b998"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\clips.json",
+    "destination": "evidence\\executive-questions\\clips.json",
+    "bytes": 8649,
+    "sha256": "fde490ef5986cbd7cb0e218d91c30b4f669467d6c4012bff6f5f1063b388e485",
+    "source_sha256": "fde490ef5986cbd7cb0e218d91c30b4f669467d6c4012bff6f5f1063b388e485"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\correlation_checks.json",
+    "destination": "evidence\\executive-questions\\correlation_checks.json",
+    "bytes": 8175,
+    "sha256": "2772461d4dbefb61a065beb407a67c9b2b252405c0ecb01d079a8437c3580686",
+    "source_sha256": "2772461d4dbefb61a065beb407a67c9b2b252405c0ecb01d079a8437c3580686"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\cut_01.png",
+    "destination": "evidence\\executive-questions\\cut_01.png",
+    "bytes": 204506,
+    "sha256": "cab3f6adae16281ab50b1ca720715aff8bd9573362f63085730dc9e7f116b47c",
+    "source_sha256": "cab3f6adae16281ab50b1ca720715aff8bd9573362f63085730dc9e7f116b47c"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\cut_02.png",
+    "destination": "evidence\\executive-questions\\cut_02.png",
+    "bytes": 215837,
+    "sha256": "345fa33bd1b945128d1ab13140a52d3de78250f21fc33d034a7e172f6da88a88",
+    "source_sha256": "345fa33bd1b945128d1ab13140a52d3de78250f21fc33d034a7e172f6da88a88"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\cut_03.png",
+    "destination": "evidence\\executive-questions\\cut_03.png",
+    "bytes": 179573,
+    "sha256": "411506fc871d073e417cf12a9516f9950232f05ea33bceb25c6f5694a0624d06",
+    "source_sha256": "411506fc871d073e417cf12a9516f9950232f05ea33bceb25c6f5694a0624d06"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\cut_04.png",
+    "destination": "evidence\\executive-questions\\cut_04.png",
+    "bytes": 228756,
+    "sha256": "a923dff9070b3dcde8ad8a3905ab0bd1fe7ffe0d496bedf1f164a7aca257370f",
+    "source_sha256": "a923dff9070b3dcde8ad8a3905ab0bd1fe7ffe0d496bedf1f164a7aca257370f"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\cut_05.png",
+    "destination": "evidence\\executive-questions\\cut_05.png",
+    "bytes": 181722,
+    "sha256": "f16ac7ab0ab0af00f610694e0f5f4f720f7e5e67a1063cf1ca6785b5844395fd",
+    "source_sha256": "f16ac7ab0ab0af00f610694e0f5f4f720f7e5e67a1063cf1ca6785b5844395fd"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\cut_06.png",
+    "destination": "evidence\\executive-questions\\cut_06.png",
+    "bytes": 185671,
+    "sha256": "f8f71fb0e88afdbec4faafd6881b74092ef98c164d1f8e3bd5758ca2c12975f1",
+    "source_sha256": "f8f71fb0e88afdbec4faafd6881b74092ef98c164d1f8e3bd5758ca2c12975f1"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\cut_07.png",
+    "destination": "evidence\\executive-questions\\cut_07.png",
+    "bytes": 163235,
+    "sha256": "8dbb56663ca2568a53e0c34d819a5dbc0265ed0d9ae526a8d568b01365606008",
+    "source_sha256": "8dbb56663ca2568a53e0c34d819a5dbc0265ed0d9ae526a8d568b01365606008"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\cut_08.png",
+    "destination": "evidence\\executive-questions\\cut_08.png",
+    "bytes": 191523,
+    "sha256": "432514eab9c60c41db021137e0597800bd5b3b5a3610b5f10e922cd4c4cd93a4",
+    "source_sha256": "432514eab9c60c41db021137e0597800bd5b3b5a3610b5f10e922cd4c4cd93a4"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\cut_09.png",
+    "destination": "evidence\\executive-questions\\cut_09.png",
+    "bytes": 188977,
+    "sha256": "3e9504912d7781d0f9979b20622c9a09b9b063587f3de7d8e5816aec7b695012",
+    "source_sha256": "3e9504912d7781d0f9979b20622c9a09b9b063587f3de7d8e5816aec7b695012"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\cut_10.png",
+    "destination": "evidence\\executive-questions\\cut_10.png",
+    "bytes": 195640,
+    "sha256": "a0113b89fbc99dec368c7c5b63d05ada19153e09166ded4f8e82ca409ab53723",
+    "source_sha256": "a0113b89fbc99dec368c7c5b63d05ada19153e09166ded4f8e82ca409ab53723"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\cut_11.png",
+    "destination": "evidence\\executive-questions\\cut_11.png",
+    "bytes": 191158,
+    "sha256": "8013185a8f51a7386bd78e4df3e441aae1b6d4918e16708e7597863864002758",
+    "source_sha256": "8013185a8f51a7386bd78e4df3e441aae1b6d4918e16708e7597863864002758"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\cut_12.png",
+    "destination": "evidence\\executive-questions\\cut_12.png",
+    "bytes": 201305,
+    "sha256": "0db3eeeccac384a5de0f92c5e747be337813184991114e8e0913c194782a98d0",
+    "source_sha256": "0db3eeeccac384a5de0f92c5e747be337813184991114e8e0913c194782a98d0"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\cut_13.png",
+    "destination": "evidence\\executive-questions\\cut_13.png",
+    "bytes": 164790,
+    "sha256": "3472dff981ccd4ceef00bac8a45eeee51fe656a3f7edb1ed66fdc8f1285b500d",
+    "source_sha256": "3472dff981ccd4ceef00bac8a45eeee51fe656a3f7edb1ed66fdc8f1285b500d"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\cut_14.png",
+    "destination": "evidence\\executive-questions\\cut_14.png",
+    "bytes": 205516,
+    "sha256": "a717c75f8c42b490e2a810d93c39f6bf121066fe48fc60036861894aaf0900cb",
+    "source_sha256": "a717c75f8c42b490e2a810d93c39f6bf121066fe48fc60036861894aaf0900cb"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\event_01.png",
+    "destination": "evidence\\executive-questions\\event_01.png",
+    "bytes": 144371,
+    "sha256": "7fabf668395186112119429246afa6c702d462c9ea7d78708dcf36a68b16f748",
+    "source_sha256": "7fabf668395186112119429246afa6c702d462c9ea7d78708dcf36a68b16f748"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\event_02.png",
+    "destination": "evidence\\executive-questions\\event_02.png",
+    "bytes": 166038,
+    "sha256": "655922a221852abfd34e91d7afd9509863a6fd8d1a6ab029df5138973842555d",
+    "source_sha256": "655922a221852abfd34e91d7afd9509863a6fd8d1a6ab029df5138973842555d"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\event_03.png",
+    "destination": "evidence\\executive-questions\\event_03.png",
+    "bytes": 100463,
+    "sha256": "69455631972acdc6dc006bcff9d5c754264338ebd12594e89e616ea6b31e6323",
+    "source_sha256": "69455631972acdc6dc006bcff9d5c754264338ebd12594e89e616ea6b31e6323"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\event_04.png",
+    "destination": "evidence\\executive-questions\\event_04.png",
+    "bytes": 108444,
+    "sha256": "7514c8224b7fcc4477ca4b706132cfaf58287d40ced45b721c50b08959850c0f",
+    "source_sha256": "7514c8224b7fcc4477ca4b706132cfaf58287d40ced45b721c50b08959850c0f"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\event_05.png",
+    "destination": "evidence\\executive-questions\\event_05.png",
+    "bytes": 183264,
+    "sha256": "f338faa71944f2ae712f52d6335f5e5f020912ae661192d576ef555de4f643ef",
+    "source_sha256": "f338faa71944f2ae712f52d6335f5e5f020912ae661192d576ef555de4f643ef"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\event_06.png",
+    "destination": "evidence\\executive-questions\\event_06.png",
+    "bytes": 159447,
+    "sha256": "5fc81766782ee124c671266022191cdce7447e4f873e6cfb693702c78cedb83e",
+    "source_sha256": "5fc81766782ee124c671266022191cdce7447e4f873e6cfb693702c78cedb83e"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\event_07.png",
+    "destination": "evidence\\executive-questions\\event_07.png",
+    "bytes": 161814,
+    "sha256": "f9a978dd0fcad5b41d9b34d50d7d8568f3df014fd44c172ae3c0850e096d79bb",
+    "source_sha256": "f9a978dd0fcad5b41d9b34d50d7d8568f3df014fd44c172ae3c0850e096d79bb"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\event_08.png",
+    "destination": "evidence\\executive-questions\\event_08.png",
+    "bytes": 112771,
+    "sha256": "20bb073beaa7fb1abc5c8e6c6d29a6b424322ef960fb9931a38bfbf62e01a293",
+    "source_sha256": "20bb073beaa7fb1abc5c8e6c6d29a6b424322ef960fb9931a38bfbf62e01a293"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\event_09.png",
+    "destination": "evidence\\executive-questions\\event_09.png",
+    "bytes": 127760,
+    "sha256": "0d89e72dba05b122f260bd0c27ecb8a79350d9c6b0741cad1dc6b072c4cfcf0c",
+    "source_sha256": "0d89e72dba05b122f260bd0c27ecb8a79350d9c6b0741cad1dc6b072c4cfcf0c"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\event_10.png",
+    "destination": "evidence\\executive-questions\\event_10.png",
+    "bytes": 149016,
+    "sha256": "caa938581cb7a3bfd6376ab0a1a736f4af975cf480d1d5bce5cbbd5b71102015",
+    "source_sha256": "caa938581cb7a3bfd6376ab0a1a736f4af975cf480d1d5bce5cbbd5b71102015"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\event_11.png",
+    "destination": "evidence\\executive-questions\\event_11.png",
+    "bytes": 139354,
+    "sha256": "c7219ec241515d1d9deb3de7c423013a7ae06451daea31b936d1d1e131152264",
+    "source_sha256": "c7219ec241515d1d9deb3de7c423013a7ae06451daea31b936d1d1e131152264"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\event_12.png",
+    "destination": "evidence\\executive-questions\\event_12.png",
+    "bytes": 169731,
+    "sha256": "dbec8247814176c66f2d18bc966955d141dc66628e2eb3d199f1bb0d611e09f0",
+    "source_sha256": "dbec8247814176c66f2d18bc966955d141dc66628e2eb3d199f1bb0d611e09f0"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\event_13.png",
+    "destination": "evidence\\executive-questions\\event_13.png",
+    "bytes": 140873,
+    "sha256": "4116147f7b783176e206270c2c716c67da24f572b830c1d7705d5375000937a5",
+    "source_sha256": "4116147f7b783176e206270c2c716c67da24f572b830c1d7705d5375000937a5"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\event_annotation_template.csv",
+    "destination": "evidence\\executive-questions\\event_annotation_template.csv",
+    "bytes": 1320,
+    "sha256": "a6fb4790280bd352e91beacb15cd02e939cfc027fb14460f41d8a22a62c25214",
+    "source_sha256": "a6fb4790280bd352e91beacb15cd02e939cfc027fb14460f41d8a22a62c25214"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\every_cut.csv",
+    "destination": "evidence\\executive-questions\\every_cut.csv",
+    "bytes": 5714,
+    "sha256": "7dad241cb8327b4ea912e36e9a130a371a00a58d77c3a2ce68aac9ef86c244a2",
+    "source_sha256": "7dad241cb8327b4ea912e36e9a130a371a00a58d77c3a2ce68aac9ef86c244a2"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\every_cut.json",
+    "destination": "evidence\\executive-questions\\every_cut.json",
+    "bytes": 13280,
+    "sha256": "df7b23c2881f6170715ee7705405268d7ee51b7c33bb67901a2f3bb5484dfb1f",
+    "source_sha256": "df7b23c2881f6170715ee7705405268d7ee51b7c33bb67901a2f3bb5484dfb1f"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\every_cut_waveforms.pdf",
+    "destination": "evidence\\executive-questions\\every_cut_waveforms.pdf",
+    "bytes": 399815,
+    "sha256": "2f119886032224812642b6170f908395c330644fe16291b10cec5ce1c506fe34",
+    "source_sha256": "2f119886032224812642b6170f908395c330644fe16291b10cec5ce1c506fe34"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\executive_questions_clean_cut_report.html",
+    "destination": "evidence\\executive-questions\\executive_questions_clean_cut_report.html",
+    "bytes": 39037,
+    "sha256": "dc3258236d6c91cff6ec2d012066d59148f44fd971482ac06e422a17bd50f51d",
+    "source_sha256": "dc3258236d6c91cff6ec2d012066d59148f44fd971482ac06e422a17bd50f51d"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\executive_questions_clean_cut_report.pdf",
+    "destination": "evidence\\executive-questions\\executive_questions_clean_cut_report.pdf",
+    "bytes": 409585,
+    "sha256": "9797cc477a6533efccb8345a09b1c0831a0d5bf2df1c986c9bb16787a0ef1f4e",
+    "source_sha256": "9797cc477a6533efccb8345a09b1c0831a0d5bf2df1c986c9bb16787a0ef1f4e"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\executive_questions_clean_cut_report.txt",
+    "destination": "evidence\\executive-questions\\executive_questions_clean_cut_report.txt",
+    "bytes": 36200,
+    "sha256": "8974b56f780964be9aed2f89dd7a48b49aab2cd248715ab91231342a8e87223f",
+    "source_sha256": "8974b56f780964be9aed2f89dd7a48b49aab2cd248715ab91231342a8e87223f"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\head_tail_trims.json",
+    "destination": "evidence\\executive-questions\\head_tail_trims.json",
+    "bytes": 617,
+    "sha256": "3a699695c95aa18922fade0f0b6c6856153b34cddf07e41edd585c925dd34462",
+    "source_sha256": "3a699695c95aa18922fade0f0b6c6856153b34cddf07e41edd585c925dd34462"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\head_tail_waveforms.pdf",
+    "destination": "evidence\\executive-questions\\head_tail_waveforms.pdf",
+    "bytes": 85631,
+    "sha256": "f0c193cb049f91e13ea6c66d5e79e79ce5ab71855dc50f48cd06a8796e5d4bf5",
+    "source_sha256": "f0c193cb049f91e13ea6c66d5e79e79ce5ab71855dc50f48cd06a8796e5d4bf5"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\head_trim.png",
+    "destination": "evidence\\executive-questions\\head_trim.png",
+    "bytes": 104037,
+    "sha256": "86dbb4fc27dbfb7b54b761569236bb77eed6ac392bde0f0001ec251bca144f96",
+    "source_sha256": "86dbb4fc27dbfb7b54b761569236bb77eed6ac392bde0f0001ec251bca144f96"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\make_reference_edl.py",
+    "destination": "evidence\\executive-questions\\make_reference_edl.py",
+    "bytes": 2378,
+    "sha256": "60c2bf761edaf19f87ea03e4a84c60470a9bbaf1bf36095781e11f55f7292a34",
+    "source_sha256": "60c2bf761edaf19f87ea03e4a84c60470a9bbaf1bf36095781e11f55f7292a34"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\mapped_final_transcript.txt",
+    "destination": "evidence\\executive-questions\\mapped_final_transcript.txt",
+    "bytes": 30149,
+    "sha256": "5ecd8e40dfa17f48b6b2c60cc32192ef4c506179436c31f32fca47ca27878b18",
+    "source_sha256": "5ecd8e40dfa17f48b6b2c60cc32192ef4c506179436c31f32fca47ca27878b18"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\mapped_final_words.json",
+    "destination": "evidence\\executive-questions\\mapped_final_words.json",
+    "bytes": 239374,
+    "sha256": "03083dd833e4edd148f8272ab8aa56b66d393253887d2431b0aae9c81ab0dc85",
+    "source_sha256": "03083dd833e4edd148f8272ab8aa56b66d393253887d2431b0aae9c81ab0dc85"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\measure_cuts.py",
+    "destination": "evidence\\executive-questions\\measure_cuts.py",
+    "bytes": 8331,
+    "sha256": "bee700c438b223d2817c23eefe3eeef119e333f086153f3815eb307769cc7f49",
+    "source_sha256": "bee700c438b223d2817c23eefe3eeef119e333f086153f3815eb307769cc7f49"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\measure_head_tail.py",
+    "destination": "evidence\\executive-questions\\measure_head_tail.py",
+    "bytes": 2113,
+    "sha256": "900dd29ead570a94526d2e2fddaaebb9dfe604f3f0bed45267e728526ef0f684",
+    "source_sha256": "900dd29ead570a94526d2e2fddaaebb9dfe604f3f0bed45267e728526ef0f684"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\measurements.json",
+    "destination": "evidence\\executive-questions\\measurements.json",
+    "bytes": 1876,
+    "sha256": "7f67dd31c8c49508502e003251691fa74ff42637c75e41103eae4ac1c5885820",
+    "source_sha256": "7f67dd31c8c49508502e003251691fa74ff42637c75e41103eae4ac1c5885820"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\nonverbal_candidate_spectrograms.pdf",
+    "destination": "evidence\\executive-questions\\nonverbal_candidate_spectrograms.pdf",
+    "bytes": 25247058,
+    "sha256": "acc7558e51867eaa6808ad4ec08744cfaeadfc84d5e2d4da5c25953ae083fc95",
+    "source_sha256": "acc7558e51867eaa6808ad4ec08744cfaeadfc84d5e2d4da5c25953ae083fc95"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\nonverbal_candidates.csv",
+    "destination": "evidence\\executive-questions\\nonverbal_candidates.csv",
+    "bytes": 3045,
+    "sha256": "8043a0771a2790b1a356e080bfd2d4fef7e3bce110a150dcf1b38d7ffe82500e",
+    "source_sha256": "8043a0771a2790b1a356e080bfd2d4fef7e3bce110a150dcf1b38d7ffe82500e"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\nonverbal_candidates.json",
+    "destination": "evidence\\executive-questions\\nonverbal_candidates.json",
+    "bytes": 7852,
+    "sha256": "3361ef93eab726c7b24e04afc271b5047b606df875a147caee466ceda97c13ba",
+    "source_sha256": "3361ef93eab726c7b24e04afc271b5047b606df875a147caee466ceda97c13ba"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\originals_unchanged_check.json",
+    "destination": "evidence\\executive-questions\\originals_unchanged_check.json",
+    "bytes": 284,
+    "sha256": "d521d5ad90f405b01ea09f920c149e4e7a961fa7d4cae3bb3f6d8a3eef47166d",
+    "source_sha256": "d521d5ad90f405b01ea09f920c149e4e7a961fa7d4cae3bb3f6d8a3eef47166d"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\package_manifest.json",
+    "destination": "evidence\\executive-questions\\package_manifest.json",
+    "bytes": 9333,
+    "sha256": "fefaa79318dddf8c34bd9dfdceb038292d97760368a1bdb3b53fa38e1df06bde",
+    "source_sha256": "fefaa79318dddf8c34bd9dfdceb038292d97760368a1bdb3b53fa38e1df06bde"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\premiere_original_transcript.txt",
+    "destination": "evidence\\executive-questions\\premiere_original_transcript.txt",
+    "bytes": 35108,
+    "sha256": "6ae993fd703fc02711991c7d6513d5b7294cadcd90f37c0a82a1c15160635393",
+    "source_sha256": "6ae993fd703fc02711991c7d6513d5b7294cadcd90f37c0a82a1c15160635393"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\premiere_source_words.json",
+    "destination": "evidence\\executive-questions\\premiere_source_words.json",
+    "bytes": 124012,
+    "sha256": "f7fac4ae6140af010b6b48c70fd6b6f0aabf3b8dfb063d3345d225559d6705d5",
+    "source_sha256": "f7fac4ae6140af010b6b48c70fd6b6f0aabf3b8dfb063d3345d225559d6705d5"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\raw_01.png",
+    "destination": "evidence\\executive-questions\\raw_01.png",
+    "bytes": 122333,
+    "sha256": "688d79769b6eff5354fa3d40fc8994e35b49b21ba33ac12efe74184e08572c92",
+    "source_sha256": "688d79769b6eff5354fa3d40fc8994e35b49b21ba33ac12efe74184e08572c92"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\raw_02.png",
+    "destination": "evidence\\executive-questions\\raw_02.png",
+    "bytes": 122150,
+    "sha256": "376b486f0b2d149fa54fb9826dcf75fa498d39a61c2701ece19c5a3f7c72dae1",
+    "source_sha256": "376b486f0b2d149fa54fb9826dcf75fa498d39a61c2701ece19c5a3f7c72dae1"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\raw_03.png",
+    "destination": "evidence\\executive-questions\\raw_03.png",
+    "bytes": 142988,
+    "sha256": "b2b6cff7d6738b4615345509044fd21c005050df7b9f58ddb43e20b1242b7f9d",
+    "source_sha256": "b2b6cff7d6738b4615345509044fd21c005050df7b9f58ddb43e20b1242b7f9d"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\raw_04.png",
+    "destination": "evidence\\executive-questions\\raw_04.png",
+    "bytes": 129126,
+    "sha256": "7843fb8d6740f68a227e4e9d071d594dd68ecc173ed20904df03bd1f97689bf7",
+    "source_sha256": "7843fb8d6740f68a227e4e9d071d594dd68ecc173ed20904df03bd1f97689bf7"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\raw_05.png",
+    "destination": "evidence\\executive-questions\\raw_05.png",
+    "bytes": 121227,
+    "sha256": "04fbd8526cdf49ed28fa22fe87d1d9aaccab29325c3bf4c64352e74dd11cf1da",
+    "source_sha256": "04fbd8526cdf49ed28fa22fe87d1d9aaccab29325c3bf4c64352e74dd11cf1da"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\raw_06.png",
+    "destination": "evidence\\executive-questions\\raw_06.png",
+    "bytes": 126382,
+    "sha256": "4f966f1f0ffaa41f20eb76fbb4cc54cac0becde6b9ff4f3eb839bec251ed4e46",
+    "source_sha256": "4f966f1f0ffaa41f20eb76fbb4cc54cac0becde6b9ff4f3eb839bec251ed4e46"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\raw_07.png",
+    "destination": "evidence\\executive-questions\\raw_07.png",
+    "bytes": 114824,
+    "sha256": "ae85ae52282d28ef841cb684ea625f49d71abe0f38ea2845eab5ab1e3e60673b",
+    "source_sha256": "ae85ae52282d28ef841cb684ea625f49d71abe0f38ea2845eab5ab1e3e60673b"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\raw_08.png",
+    "destination": "evidence\\executive-questions\\raw_08.png",
+    "bytes": 140308,
+    "sha256": "ed398b0cf875e920f282a15d548a40f0a14feea9dc838496ccff6b13ba554f19",
+    "source_sha256": "ed398b0cf875e920f282a15d548a40f0a14feea9dc838496ccff6b13ba554f19"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\raw_09.png",
+    "destination": "evidence\\executive-questions\\raw_09.png",
+    "bytes": 130792,
+    "sha256": "76bed42399032b717cfe9928567808717365403ca25fb8eb1ebc2d8ea271446b",
+    "source_sha256": "76bed42399032b717cfe9928567808717365403ca25fb8eb1ebc2d8ea271446b"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\raw_10.png",
+    "destination": "evidence\\executive-questions\\raw_10.png",
+    "bytes": 125259,
+    "sha256": "a73b89b902fca7de2812042d917c1bfbcded535d97985169e19dfbb49e57d245",
+    "source_sha256": "a73b89b902fca7de2812042d917c1bfbcded535d97985169e19dfbb49e57d245"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\raw_11.png",
+    "destination": "evidence\\executive-questions\\raw_11.png",
+    "bytes": 125522,
+    "sha256": "ee7b44ed280f28f405334b99326cb00be1e079b8a755cc7da4f6b7be10affb01",
+    "source_sha256": "ee7b44ed280f28f405334b99326cb00be1e079b8a755cc7da4f6b7be10affb01"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\raw_12.png",
+    "destination": "evidence\\executive-questions\\raw_12.png",
+    "bytes": 129714,
+    "sha256": "8587fc29f44ca3df11cff86114d2ba6240f9a98f77121a1091a8cb3bef79ff69",
+    "source_sha256": "8587fc29f44ca3df11cff86114d2ba6240f9a98f77121a1091a8cb3bef79ff69"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\raw_13.png",
+    "destination": "evidence\\executive-questions\\raw_13.png",
+    "bytes": 116477,
+    "sha256": "0618c9081bf23f2c6c1ba925a77541979014f6d5b324ec34b16e3db28ee78d57",
+    "source_sha256": "0618c9081bf23f2c6c1ba925a77541979014f6d5b324ec34b16e3db28ee78d57"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\raw_14.png",
+    "destination": "evidence\\executive-questions\\raw_14.png",
+    "bytes": 121542,
+    "sha256": "250efff432c4bc4afaca57bff18468639400da60c7889f3fb5a7aadbe6705185",
+    "source_sha256": "250efff432c4bc4afaca57bff18468639400da60c7889f3fb5a7aadbe6705185"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\raw_waveform_boundaries.pdf",
+    "destination": "evidence\\executive-questions\\raw_waveform_boundaries.pdf",
+    "bytes": 708366,
+    "sha256": "64f87c3b1a071b1dd007f155d2af793fe94ae227edfe2aa1e29facf07971f6bd",
+    "source_sha256": "64f87c3b1a071b1dd007f155d2af793fe94ae227edfe2aa1e29facf07971f6bd"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\README.txt",
+    "destination": "evidence\\executive-questions\\README.txt",
+    "bytes": 4233,
+    "sha256": "b583355b43c51dc86b788c8584fb58155030c686bd6873cdc8b8d3e8bb294b12",
+    "source_sha256": "b583355b43c51dc86b788c8584fb58155030c686bd6873cdc8b8d3e8bb294b12"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\reference_edl.json",
+    "destination": "evidence\\executive-questions\\reference_edl.json",
+    "bytes": 11077,
+    "sha256": "da4c1252aa7b738cd9591d92f5d32b423e3ebf7f07258c685adbc4119fe85a66",
+    "source_sha256": "da4c1252aa7b738cd9591d92f5d32b423e3ebf7f07258c685adbc4119fe85a66"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\reference_splice_jumps.json",
+    "destination": "evidence\\executive-questions\\reference_splice_jumps.json",
+    "bytes": 2322,
+    "sha256": "729fd7a0226d921fc6bf6fd027f82a42afe50e5e336af331dd4f6b37046aeaba",
+    "source_sha256": "729fd7a0226d921fc6bf6fd027f82a42afe50e5e336af331dd4f6b37046aeaba"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\atlases\\every_cut_waveforms-01.png",
+    "destination": "evidence\\executive-questions\\report_qa\\atlases\\every_cut_waveforms-01.png",
+    "bytes": 56444,
+    "sha256": "104db9648108ca46afef64ac1a65b2d75fd5180937060d880277fd4b9b5533e5",
+    "source_sha256": "104db9648108ca46afef64ac1a65b2d75fd5180937060d880277fd4b9b5533e5"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\atlases\\every_cut_waveforms-15.png",
+    "destination": "evidence\\executive-questions\\report_qa\\atlases\\every_cut_waveforms-15.png",
+    "bytes": 100952,
+    "sha256": "20b4292c35d64a5c7e75743d00b2603a78e823c8d0583afcfdb2ea19e024b233",
+    "source_sha256": "20b4292c35d64a5c7e75743d00b2603a78e823c8d0583afcfdb2ea19e024b233"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\atlases\\head_tail_waveforms-1.png",
+    "destination": "evidence\\executive-questions\\report_qa\\atlases\\head_tail_waveforms-1.png",
+    "bytes": 56037,
+    "sha256": "6b1dad2b5a31a2934b92e76f42363b2dda29f01eefe93ebfc613909d4364397d",
+    "source_sha256": "6b1dad2b5a31a2934b92e76f42363b2dda29f01eefe93ebfc613909d4364397d"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\atlases\\head_tail_waveforms-2.png",
+    "destination": "evidence\\executive-questions\\report_qa\\atlases\\head_tail_waveforms-2.png",
+    "bytes": 55700,
+    "sha256": "8d96996a46ffa0321de04ac4f8395e5a77edd30ee23bd47a8f6fea0a8e4dcb2f",
+    "source_sha256": "8d96996a46ffa0321de04ac4f8395e5a77edd30ee23bd47a8f6fea0a8e4dcb2f"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\atlases\\nonverbal_candidate_spectrograms-01.png",
+    "destination": "evidence\\executive-questions\\report_qa\\atlases\\nonverbal_candidate_spectrograms-01.png",
+    "bytes": 238070,
+    "sha256": "78b2cf8e80d53cf5975a5de4736b596fa178ffb55289f59ed4ce773ebd387044",
+    "source_sha256": "78b2cf8e80d53cf5975a5de4736b596fa178ffb55289f59ed4ce773ebd387044"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\atlases\\nonverbal_candidate_spectrograms-13.png",
+    "destination": "evidence\\executive-questions\\report_qa\\atlases\\nonverbal_candidate_spectrograms-13.png",
+    "bytes": 224898,
+    "sha256": "29a2fb0229f604fb295cf4b0cf5fa691b8eb17a5f814d67dca30f5cf4d8b97a6",
+    "source_sha256": "29a2fb0229f604fb295cf4b0cf5fa691b8eb17a5f814d67dca30f5cf4d8b97a6"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\atlases\\raw_waveform_boundaries-01.png",
+    "destination": "evidence\\executive-questions\\report_qa\\atlases\\raw_waveform_boundaries-01.png",
+    "bytes": 71001,
+    "sha256": "fae2d360d797fba71ec25f614f9b2a4d0cc9e8fa56df2f769dd773a279cc66ef",
+    "source_sha256": "fae2d360d797fba71ec25f614f9b2a4d0cc9e8fa56df2f769dd773a279cc66ef"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\atlases\\raw_waveform_boundaries-14.png",
+    "destination": "evidence\\executive-questions\\report_qa\\atlases\\raw_waveform_boundaries-14.png",
+    "bytes": 72883,
+    "sha256": "69a60dda71a0d8e71177944d2bf212754626e8f4daed7e3cd88fc381145aba9b",
+    "source_sha256": "69a60dda71a0d8e71177944d2bf212754626e8f4daed7e3cd88fc381145aba9b"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\before_final_replay_page_text.json",
+    "destination": "evidence\\executive-questions\\report_qa\\before_final_replay_page_text.json",
+    "bytes": 34492,
+    "sha256": "995a4583d2fa6fe7d026015a9aa8024cf0189ea63e16cce99bd5a92882d2ff05",
+    "source_sha256": "995a4583d2fa6fe7d026015a9aa8024cf0189ea63e16cce99bd5a92882d2ff05"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\page-01.png",
+    "destination": "evidence\\executive-questions\\report_qa\\page-01.png",
+    "bytes": 159307,
+    "sha256": "a0461a6cb06b726bd1e8c52c0f45982fbf78aab375de212273435c78691fca27",
+    "source_sha256": "a0461a6cb06b726bd1e8c52c0f45982fbf78aab375de212273435c78691fca27"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\page-02.png",
+    "destination": "evidence\\executive-questions\\report_qa\\page-02.png",
+    "bytes": 203794,
+    "sha256": "f63614c1965d3999a07279e8221d4b40ca568970986021553189decf3aec45cf",
+    "source_sha256": "f63614c1965d3999a07279e8221d4b40ca568970986021553189decf3aec45cf"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\page-03.png",
+    "destination": "evidence\\executive-questions\\report_qa\\page-03.png",
+    "bytes": 123431,
+    "sha256": "b49504b79c016a2e84e8a574728b6d1bde3740d2c358d4b2daa99b9cda151763",
+    "source_sha256": "b49504b79c016a2e84e8a574728b6d1bde3740d2c358d4b2daa99b9cda151763"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\page-04.png",
+    "destination": "evidence\\executive-questions\\report_qa\\page-04.png",
+    "bytes": 246406,
+    "sha256": "004bae6b3d5a4b6eb2575c878f5e402f41556cc49a8c91a8886b099763aed1f4",
+    "source_sha256": "004bae6b3d5a4b6eb2575c878f5e402f41556cc49a8c91a8886b099763aed1f4"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\page-05.png",
+    "destination": "evidence\\executive-questions\\report_qa\\page-05.png",
+    "bytes": 94767,
+    "sha256": "0e35be3a400f15c68498dc7db39306065f02e2c9a178cfa7de44f939da2c00e8",
+    "source_sha256": "0e35be3a400f15c68498dc7db39306065f02e2c9a178cfa7de44f939da2c00e8"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\page-06.png",
+    "destination": "evidence\\executive-questions\\report_qa\\page-06.png",
+    "bytes": 247912,
+    "sha256": "0d81ce4993ee66fef7e89e3c5d0ace63fb5c2956318e578359eecf2971336430",
+    "source_sha256": "0d81ce4993ee66fef7e89e3c5d0ace63fb5c2956318e578359eecf2971336430"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\page-07.png",
+    "destination": "evidence\\executive-questions\\report_qa\\page-07.png",
+    "bytes": 265123,
+    "sha256": "d59867eaadac50d0e8ab59b5949885969ee54a086ec8c4613eff40ab93022923",
+    "source_sha256": "d59867eaadac50d0e8ab59b5949885969ee54a086ec8c4613eff40ab93022923"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\page-08.png",
+    "destination": "evidence\\executive-questions\\report_qa\\page-08.png",
+    "bytes": 248961,
+    "sha256": "d41f5f8dd4e219c02c172b10f22f4b0909018126eed848c87789506c1ffbd358",
+    "source_sha256": "d41f5f8dd4e219c02c172b10f22f4b0909018126eed848c87789506c1ffbd358"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\page-09.png",
+    "destination": "evidence\\executive-questions\\report_qa\\page-09.png",
+    "bytes": 124889,
+    "sha256": "9b654d64933502d303c917ac24ef4e435618b336a9336226581433a45906ab07",
+    "source_sha256": "9b654d64933502d303c917ac24ef4e435618b336a9336226581433a45906ab07"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\page-10.png",
+    "destination": "evidence\\executive-questions\\report_qa\\page-10.png",
+    "bytes": 201972,
+    "sha256": "96d9503be453ce2f281c1bb3628295b63ccff2ee07c4a8624332a52f9a271b50",
+    "source_sha256": "96d9503be453ce2f281c1bb3628295b63ccff2ee07c4a8624332a52f9a271b50"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\page-11.png",
+    "destination": "evidence\\executive-questions\\report_qa\\page-11.png",
+    "bytes": 184107,
+    "sha256": "2e9c14539b2fb9d81ecdc43a5e91631322de00fc200b9192d6ef7e304f167b9e",
+    "source_sha256": "2e9c14539b2fb9d81ecdc43a5e91631322de00fc200b9192d6ef7e304f167b9e"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\page-12.png",
+    "destination": "evidence\\executive-questions\\report_qa\\page-12.png",
+    "bytes": 193771,
+    "sha256": "7ebdbeeaa0887f0d3c896f043e62f83f0e3b8ecc5ac9453146fa22c3d3d4b969",
+    "source_sha256": "7ebdbeeaa0887f0d3c896f043e62f83f0e3b8ecc5ac9453146fa22c3d3d4b969"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\page-13.png",
+    "destination": "evidence\\executive-questions\\report_qa\\page-13.png",
+    "bytes": 231561,
+    "sha256": "b4918d69adc7bced82ca78ea0c560fa8cd896bf2b5843dd1a3958e65da47ca1e",
+    "source_sha256": "b4918d69adc7bced82ca78ea0c560fa8cd896bf2b5843dd1a3958e65da47ca1e"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\page-14.png",
+    "destination": "evidence\\executive-questions\\report_qa\\page-14.png",
+    "bytes": 182239,
+    "sha256": "0ec8367ff6907e405f65d4f8a2381ce9fbacea2a76f35a813daa3c3580fb62ce",
+    "source_sha256": "0ec8367ff6907e405f65d4f8a2381ce9fbacea2a76f35a813daa3c3580fb62ce"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\report_qa\\page-15.png",
+    "destination": "evidence\\executive-questions\\report_qa\\page-15.png",
+    "bytes": 161798,
+    "sha256": "9e5124f1bbf0e0ec8d4b9b8c7bdf8056d1984fee1634406cbef6c1ffa0c48bdb",
+    "source_sha256": "9e5124f1bbf0e0ec8d4b9b8c7bdf8056d1984fee1634406cbef6c1ffa0c48bdb"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\retained_pause_summary.json",
+    "destination": "evidence\\executive-questions\\retained_pause_summary.json",
+    "bytes": 3715,
+    "sha256": "c9cff4b1cabe310bc6062ad41be6133ab8f872c09e6289d58de8e9a537e3c064",
+    "source_sha256": "c9cff4b1cabe310bc6062ad41be6133ab8f872c09e6289d58de8e9a537e3c064"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\retained_pauses.json",
+    "destination": "evidence\\executive-questions\\retained_pauses.json",
+    "bytes": 20305,
+    "sha256": "5e6d14d147a2c9c2cfcd60f087cbe696e4788530bb690127a9e3afcd0fcae92d",
+    "source_sha256": "5e6d14d147a2c9c2cfcd60f087cbe696e4788530bb690127a9e3afcd0fcae92d"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\review_audio\\event_01_removed_29.99s.wav",
+    "destination": "evidence\\executive-questions\\review_audio\\event_01_removed_29.99s.wav",
+    "bytes": 177644,
+    "sha256": "07b2d9a98c31d0a78fbe8b16803e3343384eaa18ec71c58109935a869068db6f",
+    "source_sha256": "07b2d9a98c31d0a78fbe8b16803e3343384eaa18ec71c58109935a869068db6f"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\review_audio\\event_02_kept_200.89s.wav",
+    "destination": "evidence\\executive-questions\\review_audio\\event_02_kept_200.89s.wav",
+    "bytes": 143084,
+    "sha256": "78a9b3c02f80e3581385a621f44d42355b6dd43f9385b2747cdb97d862323c6e",
+    "source_sha256": "78a9b3c02f80e3581385a621f44d42355b6dd43f9385b2747cdb97d862323c6e"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\review_audio\\event_03_removed_234.86s.wav",
+    "destination": "evidence\\executive-questions\\review_audio\\event_03_removed_234.86s.wav",
+    "bytes": 176684,
+    "sha256": "67a08cf2e44a0aef2775c6695977c6b48c6da2f3734cad9b13a910f83bc53fca",
+    "source_sha256": "67a08cf2e44a0aef2775c6695977c6b48c6da2f3734cad9b13a910f83bc53fca"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\review_audio\\event_04_removed_257.70s.wav",
+    "destination": "evidence\\executive-questions\\review_audio\\event_04_removed_257.70s.wav",
+    "bytes": 162284,
+    "sha256": "d1d35bfcecc724488070d1a6524cb243602127d0b96816ffc7a4d74351a028b9",
+    "source_sha256": "d1d35bfcecc724488070d1a6524cb243602127d0b96816ffc7a4d74351a028b9"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\review_audio\\event_05_kept_267.09s.wav",
+    "destination": "evidence\\executive-questions\\review_audio\\event_05_kept_267.09s.wav",
+    "bytes": 167084,
+    "sha256": "554ed1db6454179811c44976d19540d0248fe2ab78ad80d2fc762cfe3817790a",
+    "source_sha256": "554ed1db6454179811c44976d19540d0248fe2ab78ad80d2fc762cfe3817790a"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\review_audio\\event_06_kept_284.43s.wav",
+    "destination": "evidence\\executive-questions\\review_audio\\event_06_kept_284.43s.wav",
+    "bytes": 142124,
+    "sha256": "4c66801a60bd0c34f848229d64f66c399cb76680a3f435680e349230c49b1285",
+    "source_sha256": "4c66801a60bd0c34f848229d64f66c399cb76680a3f435680e349230c49b1285"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\review_audio\\event_07_kept_284.60s.wav",
+    "destination": "evidence\\executive-questions\\review_audio\\event_07_kept_284.60s.wav",
+    "bytes": 143084,
+    "sha256": "c11cc59ed0da1a79a79201648b769d2c67b3bb19cd1222269519feb3b098338a",
+    "source_sha256": "c11cc59ed0da1a79a79201648b769d2c67b3bb19cd1222269519feb3b098338a"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\review_audio\\event_08_removed_305.58s.wav",
+    "destination": "evidence\\executive-questions\\review_audio\\event_08_removed_305.58s.wav",
+    "bytes": 147884,
+    "sha256": "749848abd188594883f02f031e4ac82b2d39bb354d38c25b1f10c46594dd21ca",
+    "source_sha256": "749848abd188594883f02f031e4ac82b2d39bb354d38c25b1f10c46594dd21ca"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\review_audio\\event_09_removed_307.22s.wav",
+    "destination": "evidence\\executive-questions\\review_audio\\event_09_removed_307.22s.wav",
+    "bytes": 142124,
+    "sha256": "9a12a9509e4acd17ac05076c4d2f49a2f4ce88c36ef2ab6c0b005b1f3efef771",
+    "source_sha256": "9a12a9509e4acd17ac05076c4d2f49a2f4ce88c36ef2ab6c0b005b1f3efef771"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\review_audio\\event_10_removed_376.16s.wav",
+    "destination": "evidence\\executive-questions\\review_audio\\event_10_removed_376.16s.wav",
+    "bytes": 157484,
+    "sha256": "d24815669d8a201b7790c89b0de95b3a033421e2ee701ccd06045ebc918268ae",
+    "source_sha256": "d24815669d8a201b7790c89b0de95b3a033421e2ee701ccd06045ebc918268ae"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\review_audio\\event_11_removed_485.59s.wav",
+    "destination": "evidence\\executive-questions\\review_audio\\event_11_removed_485.59s.wav",
+    "bytes": 146924,
+    "sha256": "779053865c607dec2c6be0b45ce1be22234d179e5bc8064ea03b3aabc8eb7d9f",
+    "source_sha256": "779053865c607dec2c6be0b45ce1be22234d179e5bc8064ea03b3aabc8eb7d9f"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\review_audio\\event_12_kept_493.77s.wav",
+    "destination": "evidence\\executive-questions\\review_audio\\event_12_kept_493.77s.wav",
+    "bytes": 143084,
+    "sha256": "6d4ad2d95263b1db5fb875e7c2bd647277a1debd95b0f9999762b443028541c6",
+    "source_sha256": "6d4ad2d95263b1db5fb875e7c2bd647277a1debd95b0f9999762b443028541c6"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\review_audio\\event_13_removed_529.75s.wav",
+    "destination": "evidence\\executive-questions\\review_audio\\event_13_removed_529.75s.wav",
+    "bytes": 151724,
+    "sha256": "b915742cd22ec377bc701d530ef7d5f25d48bddc5dc2de6ef68e2bbaa47956eb",
+    "source_sha256": "b915742cd22ec377bc701d530ef7d5f25d48bddc5dc2de6ef68e2bbaa47956eb"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\source_overview.png",
+    "destination": "evidence\\executive-questions\\source_overview.png",
+    "bytes": 214641,
+    "sha256": "7e246b185bcbeb4b48846851ada2eb4e39bd050d63bffd2feb923854a74ef780",
+    "source_sha256": "7e246b185bcbeb4b48846851ada2eb4e39bd050d63bffd2feb923854a74ef780"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\tail_trim.png",
+    "destination": "evidence\\executive-questions\\tail_trim.png",
+    "bytes": 105376,
+    "sha256": "1b7e3aefae3ed5828ac4768fc86d110882888efd29131c97a70bf097f7f0695c",
+    "source_sha256": "1b7e3aefae3ed5828ac4768fc86d110882888efd29131c97a70bf097f7f0695c"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\timeline_all_sequences.json",
+    "destination": "evidence\\executive-questions\\timeline_all_sequences.json",
+    "bytes": 80503,
+    "sha256": "06b3811186e768110f6959e1381fecdb8ce4b0d517cd890b6792b74b1f2319b1",
+    "source_sha256": "06b3811186e768110f6959e1381fecdb8ce4b0d517cd890b6792b74b1f2319b1"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\verify_camera_sync.py",
+    "destination": "evidence\\executive-questions\\verify_camera_sync.py",
+    "bytes": 1825,
+    "sha256": "8827915256b6408537977c070950bd77ecdeee908858ec8ac4c195774c4147f7",
+    "source_sha256": "8827915256b6408537977c070950bd77ecdeee908858ec8ac4c195774c4147f7"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\exec-cut-analysis\\video_asset_hashes.json",
+    "destination": "evidence\\executive-questions\\video_asset_hashes.json",
+    "bytes": 466,
+    "sha256": "af5bd0d1afa7a1b4a3b574f6cf0c1da61ac8d8dc2d3c47491054c34bc97e15ad",
+    "source_sha256": "af5bd0d1afa7a1b4a3b574f6cf0c1da61ac8d8dc2d3c47491054c34bc97e15ad"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\base_all_sequences.json",
+    "destination": "evidence\\data-storytelling\\base_all_sequences.json",
+    "bytes": 146967,
+    "sha256": "0f9a239fd1e49f5189bf9f388fa8c4eabf83db628384cca5c3f30735d1538865",
+    "source_sha256": "0f9a239fd1e49f5189bf9f388fa8c4eabf83db628384cca5c3f30735d1538865"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\base_clips.json",
+    "destination": "evidence\\data-storytelling\\base_clips.json",
+    "bytes": 24070,
+    "sha256": "51431e56343dfcdecaca036026375bb2328674441115d4855d72842db10b5859",
+    "source_sha256": "51431e56343dfcdecaca036026375bb2328674441115d4855d72842db10b5859"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\base_every_cut.csv",
+    "destination": "evidence\\data-storytelling\\base_every_cut.csv",
+    "bytes": 12775,
+    "sha256": "0f16ba03dc050e20548ddbda0c434cf9b4af430fec6c8196563571fe49a515f1",
+    "source_sha256": "0f16ba03dc050e20548ddbda0c434cf9b4af430fec6c8196563571fe49a515f1"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\base_every_cut.json",
+    "destination": "evidence\\data-storytelling\\base_every_cut.json",
+    "bytes": 30445,
+    "sha256": "666cef682c99f4678d989670eeb9180aacb3fc4fdef4713fac6db07d5c19cfa1",
+    "source_sha256": "666cef682c99f4678d989670eeb9180aacb3fc4fdef4713fac6db07d5c19cfa1"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\base_to_final_changes.json",
+    "destination": "evidence\\data-storytelling\\base_to_final_changes.json",
+    "bytes": 9515,
+    "sha256": "6af9fab04db10ea648e8f2866848f7b7c75aca2b6263e104b78cf94700a31601",
+    "source_sha256": "6af9fab04db10ea648e8f2866848f7b7c75aca2b6263e104b78cf94700a31601"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\boundary_review_flags.json",
+    "destination": "evidence\\data-storytelling\\boundary_review_flags.json",
+    "bytes": 8199,
+    "sha256": "7a800254ef4373f6e2554b18d6293815e36b15734912c43743a25c42393fe5c4",
+    "source_sha256": "7a800254ef4373f6e2554b18d6293815e36b15734912c43743a25c42393fe5c4"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\camera_mic_sync.json",
+    "destination": "evidence\\data-storytelling\\camera_mic_sync.json",
+    "bytes": 1381,
+    "sha256": "76d827e605db22817ac1b1a8cf8a3434182faaeb21f97a0444977e84bc791603",
+    "source_sha256": "76d827e605db22817ac1b1a8cf8a3434182faaeb21f97a0444977e84bc791603"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\correlation_checks.json",
+    "destination": "evidence\\data-storytelling\\correlation_checks.json",
+    "bytes": 23970,
+    "sha256": "166111e4ce6fbcbabc3da0dce34512e3820ac2fa0ff09ddf103f5eab1df09407",
+    "source_sha256": "166111e4ce6fbcbabc3da0dce34512e3820ac2fa0ff09ddf103f5eab1df09407"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\event_annotation_template.csv",
+    "destination": "evidence\\data-storytelling\\event_annotation_template.csv",
+    "bytes": 991,
+    "sha256": "5ca9b0aec4a86661947150b9ee4c3488b276119db56d3bb80f4aa79c7ca581df",
+    "source_sha256": "5ca9b0aec4a86661947150b9ee4c3488b276119db56d3bb80f4aa79c7ca581df"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\every_final_cut_waveforms.pdf",
+    "destination": "evidence\\data-storytelling\\every_final_cut_waveforms.pdf",
+    "bytes": 696767,
+    "sha256": "0844d4c094d4f60c893c04df0c606e88a74c853ea575cf291b36f5eb8aa4af14",
+    "source_sha256": "0844d4c094d4f60c893c04df0c606e88a74c853ea575cf291b36f5eb8aa4af14"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\final_all_sequences.json",
+    "destination": "evidence\\data-storytelling\\final_all_sequences.json",
+    "bytes": 329874,
+    "sha256": "cb10e318e321473315ed2e797682fb9d638e072f5e5e7a1bb05d59e005f67f72",
+    "source_sha256": "cb10e318e321473315ed2e797682fb9d638e072f5e5e7a1bb05d59e005f67f72"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\final_clips.json",
+    "destination": "evidence\\data-storytelling\\final_clips.json",
+    "bytes": 30873,
+    "sha256": "4c3320debaf29476db83026c1fecc75b5954f3bf62ad8cc31a801922c5c612a1",
+    "source_sha256": "4c3320debaf29476db83026c1fecc75b5954f3bf62ad8cc31a801922c5c612a1"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\final_every_cut.csv",
+    "destination": "evidence\\data-storytelling\\final_every_cut.csv",
+    "bytes": 13414,
+    "sha256": "6be47e3b8b2c3ae3dee3504286d0df099f0750edd46033fe4527259513444a80",
+    "source_sha256": "6be47e3b8b2c3ae3dee3504286d0df099f0750edd46033fe4527259513444a80"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\final_every_cut.json",
+    "destination": "evidence\\data-storytelling\\final_every_cut.json",
+    "bytes": 31072,
+    "sha256": "b616f0d7ae266b8808cc4c0c66a758933712c30b1dbf3074a40cec2d4116b6ab",
+    "source_sha256": "b616f0d7ae266b8808cc4c0c66a758933712c30b1dbf3074a40cec2d4116b6ab"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\final_nonremoval_seams.json",
+    "destination": "evidence\\data-storytelling\\final_nonremoval_seams.json",
+    "bytes": 559,
+    "sha256": "765f9b978b77fba8ca4e34e532ccc60d6e6a5ba374a6e65206a8f2d7a4fa8840",
+    "source_sha256": "765f9b978b77fba8ca4e34e532ccc60d6e6a5ba374a6e65206a8f2d7a4fa8840"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\head_tail_trims.json",
+    "destination": "evidence\\data-storytelling\\head_tail_trims.json",
+    "bytes": 310,
+    "sha256": "e65b28f9b57c62be10500397fea260c57ecdefad46ff7c28041497f8b6bf4758",
+    "source_sha256": "e65b28f9b57c62be10500397fea260c57ecdefad46ff7c28041497f8b6bf4758"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\key-evidence\\capture_key_evidence.py",
+    "destination": "evidence\\data-storytelling\\key-evidence\\capture_key_evidence.py",
+    "bytes": 4350,
+    "sha256": "bb9c5643c280dae6bf8a48089c41a0fa8c3467a3ce53143a801ac1a1c57c4e39",
+    "source_sha256": "bb9c5643c280dae6bf8a48089c41a0fa8c3467a3ce53143a801ac1a1c57c4e39"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\key-evidence\\data-export-8.1s.png",
+    "destination": "evidence\\data-storytelling\\key-evidence\\data-export-8.1s.png",
+    "bytes": 781670,
+    "sha256": "adbcd63ee59b3b9e8c3f09fbc9931a27e19bfdc75c8f7af64dfb46bb724aca70",
+    "source_sha256": "adbcd63ee59b3b9e8c3f09fbc9931a27e19bfdc75c8f7af64dfb46bb724aca70"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\key-evidence\\data-export-8.2s.png",
+    "destination": "evidence\\data-storytelling\\key-evidence\\data-export-8.2s.png",
+    "bytes": 785309,
+    "sha256": "c4628efbc9e0a5e406e5e9f9185e24462ed1b837e8b2ecb72773cb7f331b1d5e",
+    "source_sha256": "c4628efbc9e0a5e406e5e9f9185e24462ed1b837e8b2ecb72773cb7f331b1d5e"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\key-evidence\\data-export-910.0s.png",
+    "destination": "evidence\\data-storytelling\\key-evidence\\data-export-910.0s.png",
+    "bytes": 818561,
+    "sha256": "d89b1c698d7c090d6482f2e5a7f79ac449874071af208a5dd021f291fe6aa086",
+    "source_sha256": "d89b1c698d7c090d6482f2e5a7f79ac449874071af208a5dd021f291fe6aa086"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\key-evidence\\data-export-full.png",
+    "destination": "evidence\\data-storytelling\\key-evidence\\data-export-full.png",
+    "bytes": 776937,
+    "sha256": "f46891dc216d856dd6bf278ac0474aa864719df06840e0d660b6fb9d74623795",
+    "source_sha256": "f46891dc216d856dd6bf278ac0474aa864719df06840e0d660b6fb9d74623795"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\key-evidence\\data-export-hair.png",
+    "destination": "evidence\\data-storytelling\\key-evidence\\data-export-hair.png",
+    "bytes": 109795,
+    "sha256": "c93d3ca532ede78b42fe0fb4c1c08787db0fc82115fb700324bb1a87bb0a543c",
+    "source_sha256": "c93d3ca532ede78b42fe0fb4c1c08787db0fc82115fb700324bb1a87bb0a543c"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\key-evidence\\data-source-full.png",
+    "destination": "evidence\\data-storytelling\\key-evidence\\data-source-full.png",
+    "bytes": 803680,
+    "sha256": "b8111ad97f2984a8ee647447f641ae04c12a0f9185833d224473500e7d445e85",
+    "source_sha256": "b8111ad97f2984a8ee647447f641ae04c12a0f9185833d224473500e7d445e85"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\key-evidence\\data-source-hair.png",
+    "destination": "evidence\\data-storytelling\\key-evidence\\data-source-hair.png",
+    "bytes": 148118,
+    "sha256": "218b7f1721fbd07661043cb6ba4171bafed406f0a6f1e6668f128a9a579fcdbd",
+    "source_sha256": "218b7f1721fbd07661043cb6ba4171bafed406f0a6f1e6668f128a9a579fcdbd"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\key-evidence\\exec-export-full.png",
+    "destination": "evidence\\data-storytelling\\key-evidence\\exec-export-full.png",
+    "bytes": 797804,
+    "sha256": "26e6b617f52902049540c67d7ce02df35cd11b2d9edfd8316d34cc0cea2bfc2d",
+    "source_sha256": "26e6b617f52902049540c67d7ce02df35cd11b2d9edfd8316d34cc0cea2bfc2d"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\key-evidence\\exec-export-hair.png",
+    "destination": "evidence\\data-storytelling\\key-evidence\\exec-export-hair.png",
+    "bytes": 110020,
+    "sha256": "220b1a23f16f91a16356ce86799852c4b20457b9860aa15ef8564b2f31dc7bd1",
+    "source_sha256": "220b1a23f16f91a16356ce86799852c4b20457b9860aa15ef8564b2f31dc7bd1"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\key-evidence\\exec-source-full.png",
+    "destination": "evidence\\data-storytelling\\key-evidence\\exec-source-full.png",
+    "bytes": 801754,
+    "sha256": "8ef542d072435b887cd14607d585ae026ff5e3c4a7579bdbcb4e9cc05600b66a",
+    "source_sha256": "8ef542d072435b887cd14607d585ae026ff5e3c4a7579bdbcb4e9cc05600b66a"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\key-evidence\\exec-source-hair.png",
+    "destination": "evidence\\data-storytelling\\key-evidence\\exec-source-hair.png",
+    "bytes": 146673,
+    "sha256": "26ae59f4134ecaad12bffef97bc462cc1cff5891af626308ba9e74ca17ea4603",
+    "source_sha256": "26ae59f4134ecaad12bffef97bc462cc1cff5891af626308ba9e74ca17ea4603"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\key-evidence\\frame-provenance.json",
+    "destination": "evidence\\data-storytelling\\key-evidence\\frame-provenance.json",
+    "bytes": 3466,
+    "sha256": "45c68606929c637986958a2b7aa87b8ebdfacc622fccea90684c1a7f3f44d054",
+    "source_sha256": "45c68606929c637986958a2b7aa87b8ebdfacc622fccea90684c1a7f3f44d054"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\key-evidence\\hair-source-versus-export.png",
+    "destination": "evidence\\data-storytelling\\key-evidence\\hair-source-versus-export.png",
+    "bytes": 524446,
+    "sha256": "91b7643a1fa8ee191dccc59fb55739707400ea30a4fc6c9496206513b936f5a0",
+    "source_sha256": "91b7643a1fa8ee191dccc59fb55739707400ea30a4fc6c9496206513b936f5a0"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\key-evidence\\KEY-STUDY.txt",
+    "destination": "evidence\\data-storytelling\\key-evidence\\KEY-STUDY.txt",
+    "bytes": 5217,
+    "sha256": "6119b1b6943f6945c57b7bf53eb80840f71a72173aa78fa929914286eab39fc4",
+    "source_sha256": "6119b1b6943f6945c57b7bf53eb80840f71a72173aa78fa929914286eab39fc4"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\key-evidence\\native_effects_readback.json",
+    "destination": "evidence\\data-storytelling\\key-evidence\\native_effects_readback.json",
+    "bytes": 58482,
+    "sha256": "99db1577774b15fcfcab061a4894780f08e46b52f529db6e965162d822451c01",
+    "source_sha256": "99db1577774b15fcfcab061a4894780f08e46b52f529db6e965162d822451c01"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\mapped_final_transcript.txt",
+    "destination": "evidence\\data-storytelling\\mapped_final_transcript.txt",
+    "bytes": 68762,
+    "sha256": "3d5575584fa649909bb2d17cd1ffde764e7f43470ea1ef09dc2703e709710ed4",
+    "source_sha256": "3d5575584fa649909bb2d17cd1ffde764e7f43470ea1ef09dc2703e709710ed4"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\mapped_final_words.json",
+    "destination": "evidence\\data-storytelling\\mapped_final_words.json",
+    "bytes": 541181,
+    "sha256": "f8b16d4da8be9e06ac2f2bacbb72014d19881f6e83be6249ac2e0c5788092177",
+    "source_sha256": "f8b16d4da8be9e06ac2f2bacbb72014d19881f6e83be6249ac2e0c5788092177"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\measure_storytelling.py",
+    "destination": "evidence\\data-storytelling\\measure_storytelling.py",
+    "bytes": 13558,
+    "sha256": "a0221431fa9ff5f92ec0f342e751c0cd7163a7ed80199cf196efa718c8f8a3d3",
+    "source_sha256": "a0221431fa9ff5f92ec0f342e751c0cd7163a7ed80199cf196efa718c8f8a3d3"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\measurements.json",
+    "destination": "evidence\\data-storytelling\\measurements.json",
+    "bytes": 6065,
+    "sha256": "26d257363f6fbc88aeb9d587ae0f94d03263936275cc0f6bcc6891858871cb26",
+    "source_sha256": "26d257363f6fbc88aeb9d587ae0f94d03263936275cc0f6bcc6891858871cb26"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\nonverbal_candidate_spectrograms.pdf",
+    "destination": "evidence\\data-storytelling\\nonverbal_candidate_spectrograms.pdf",
+    "bytes": 24940459,
+    "sha256": "064eec2979ff33d4d4a537f3e25aa1acf70f6acf192265a6da0b0f86698b0c53",
+    "source_sha256": "064eec2979ff33d4d4a537f3e25aa1acf70f6acf192265a6da0b0f86698b0c53"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\nonverbal_candidates.csv",
+    "destination": "evidence\\data-storytelling\\nonverbal_candidates.csv",
+    "bytes": 3508,
+    "sha256": "e09f2f85c02703e9f293964dbf99590db696ccd01f7180ce2aacadea3e031a5f",
+    "source_sha256": "e09f2f85c02703e9f293964dbf99590db696ccd01f7180ce2aacadea3e031a5f"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\nonverbal_candidates.json",
+    "destination": "evidence\\data-storytelling\\nonverbal_candidates.json",
+    "bytes": 7936,
+    "sha256": "b649be17c99c7c057cda2c21d80f52e7a07ddfd50857fc77c0c323905ee990e8",
+    "source_sha256": "b649be17c99c7c057cda2c21d80f52e7a07ddfd50857fc77c0c323905ee990e8"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\plot_qa\\cuts_first.png",
+    "destination": "evidence\\data-storytelling\\plot_qa\\cuts_first.png",
+    "bytes": 40021,
+    "sha256": "386077d456fd2dfbaa53eb3edbe9ae1fa829ef5df688e4d1bd29ecc41b607a19",
+    "source_sha256": "386077d456fd2dfbaa53eb3edbe9ae1fa829ef5df688e4d1bd29ecc41b607a19"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\plot_qa\\cuts_last.png",
+    "destination": "evidence\\data-storytelling\\plot_qa\\cuts_last.png",
+    "bytes": 62260,
+    "sha256": "77ae763a4ac11b51bc424b00b98a2aec3b75b571f45fde6ee756f858c692544b",
+    "source_sha256": "77ae763a4ac11b51bc424b00b98a2aec3b75b571f45fde6ee756f858c692544b"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\plot_qa\\events_first.png",
+    "destination": "evidence\\data-storytelling\\plot_qa\\events_first.png",
+    "bytes": 199459,
+    "sha256": "1f2b0700b926c8a7209fecd4176e34348b7177305c8ed286de7b3bb0ddb6b34c",
+    "source_sha256": "1f2b0700b926c8a7209fecd4176e34348b7177305c8ed286de7b3bb0ddb6b34c"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\plot_qa\\events_last.png",
+    "destination": "evidence\\data-storytelling\\plot_qa\\events_last.png",
+    "bytes": 270444,
+    "sha256": "63e4f743058b9ca3e30869764337fbefc4b485bd1276aa389350c1358abd996a",
+    "source_sha256": "63e4f743058b9ca3e30869764337fbefc4b485bd1276aa389350c1358abd996a"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\plot_qa\\qa_receipt.json",
+    "destination": "evidence\\data-storytelling\\plot_qa\\qa_receipt.json",
+    "bytes": 335,
+    "sha256": "d3556e68e0d63e7caab0218bc347d1685aa838de5c95012b5231e835716814bc",
+    "source_sha256": "d3556e68e0d63e7caab0218bc347d1685aa838de5c95012b5231e835716814bc"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\premiere_original_transcript.txt",
+    "destination": "evidence\\data-storytelling\\premiere_original_transcript.txt",
+    "bytes": 80796,
+    "sha256": "08e49d351dd230d24675f3d946a0f334c91c5f7e6aabc3569216d9952c152493",
+    "source_sha256": "08e49d351dd230d24675f3d946a0f334c91c5f7e6aabc3569216d9952c152493"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\premiere_source_words.json",
+    "destination": "evidence\\data-storytelling\\premiere_source_words.json",
+    "bytes": 282072,
+    "sha256": "b7eafcbd10721e73013ac22ef7d5fafcb137b712195477e8842a6db053cc69f2",
+    "source_sha256": "b7eafcbd10721e73013ac22ef7d5fafcb137b712195477e8842a6db053cc69f2"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\README.txt",
+    "destination": "evidence\\data-storytelling\\README.txt",
+    "bytes": 2546,
+    "sha256": "44f53d3aa8e96feffdf2ed261f28cd9cfcd7b6b1b6a5b9597ad59a966d0505f2",
+    "source_sha256": "44f53d3aa8e96feffdf2ed261f28cd9cfcd7b6b1b6a5b9597ad59a966d0505f2"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\retained_pauses.csv",
+    "destination": "evidence\\data-storytelling\\retained_pauses.csv",
+    "bytes": 30958,
+    "sha256": "48f88073bd429244cb6b994bfd4fcfdfe288587ca0d5db59e519422ee26227dc",
+    "source_sha256": "48f88073bd429244cb6b994bfd4fcfdfe288587ca0d5db59e519422ee26227dc"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\retained_pauses.json",
+    "destination": "evidence\\data-storytelling\\retained_pauses.json",
+    "bytes": 65647,
+    "sha256": "adc67b4518435506e3b48c653d140597d0eaefe7be7aad87bd4cca55e460de7a",
+    "source_sha256": "adc67b4518435506e3b48c653d140597d0eaefe7be7aad87bd4cca55e460de7a"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\boundary_06_final_context.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\boundary_06_final_context.wav",
+    "bytes": 384044,
+    "sha256": "3a905431691a25a6568e38d93ba90fbb3c850a12a65dc1dacc62c5bf4f852594",
+    "source_sha256": "3a905431691a25a6568e38d93ba90fbb3c850a12a65dc1dacc62c5bf4f852594"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\boundary_06_source_lead.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\boundary_06_source_lead.wav",
+    "bytes": 288044,
+    "sha256": "7ce5a9278394c19bbedde7f55e60c97b9ad858e398561e73e92e769fde785c3f",
+    "source_sha256": "7ce5a9278394c19bbedde7f55e60c97b9ad858e398561e73e92e769fde785c3f"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\boundary_21_final_context.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\boundary_21_final_context.wav",
+    "bytes": 384044,
+    "sha256": "3cde35a05f3e18703ae63db21c85d0470c9bb3e8372d7879a04ddef59d9fbba1",
+    "source_sha256": "3cde35a05f3e18703ae63db21c85d0470c9bb3e8372d7879a04ddef59d9fbba1"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\boundary_21_source_lead.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\boundary_21_source_lead.wav",
+    "bytes": 288044,
+    "sha256": "157a4070439d6af11b65a54efbf30add7409222fca80c3e2c1701e14293bc1b5",
+    "source_sha256": "157a4070439d6af11b65a54efbf30add7409222fca80c3e2c1701e14293bc1b5"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\boundary_31_final_context.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\boundary_31_final_context.wav",
+    "bytes": 384044,
+    "sha256": "1980ffff93a92665675645ed874c26cbdf567f9ee9c48a57c7754ea3454339ce",
+    "source_sha256": "1980ffff93a92665675645ed874c26cbdf567f9ee9c48a57c7754ea3454339ce"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\boundary_31_source_lead.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\boundary_31_source_lead.wav",
+    "bytes": 288044,
+    "sha256": "e0d9c37241d73cd596a58d778622741118c884b240f8e6c4a400d4967fd2c660",
+    "source_sha256": "e0d9c37241d73cd596a58d778622741118c884b240f8e6c4a400d4967fd2c660"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\boundary_32_final_context.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\boundary_32_final_context.wav",
+    "bytes": 384044,
+    "sha256": "71a642f483ef18aea7a9c379bcbf69d409132feb154ef127e2a39f0ecb3848d1",
+    "source_sha256": "71a642f483ef18aea7a9c379bcbf69d409132feb154ef127e2a39f0ecb3848d1"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\boundary_32_source_lead.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\boundary_32_source_lead.wav",
+    "bytes": 288044,
+    "sha256": "1ebf84ee9cf545898468f621e83153f9680c713603efe13b28d529fe0ebb2eeb",
+    "source_sha256": "1ebf84ee9cf545898468f621e83153f9680c713603efe13b28d529fe0ebb2eeb"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\event_01_kept_61.00s.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\event_01_kept_61.00s.wav",
+    "bytes": 142124,
+    "sha256": "b311badb8d25919330e50ea4afc94d752c392b030bbdf8fb2aeba4bb75b39bd1",
+    "source_sha256": "b311badb8d25919330e50ea4afc94d752c392b030bbdf8fb2aeba4bb75b39bd1"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\event_02_removed_352.02s.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\event_02_removed_352.02s.wav",
+    "bytes": 174764,
+    "sha256": "2961d17a651df7baf7dd12466467b1f50e2cf423895d75499c14c5e2cb4d3e31",
+    "source_sha256": "2961d17a651df7baf7dd12466467b1f50e2cf423895d75499c14c5e2cb4d3e31"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\event_03_removed_394.24s.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\event_03_removed_394.24s.wav",
+    "bytes": 147884,
+    "sha256": "5351b99c21c3c51896880689779ca2273a78b609ee0a7ac1ee2a06940f8583d0",
+    "source_sha256": "5351b99c21c3c51896880689779ca2273a78b609ee0a7ac1ee2a06940f8583d0"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\event_04_kept_405.18s.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\event_04_kept_405.18s.wav",
+    "bytes": 142124,
+    "sha256": "a4ba112f0cd5ce906884ee3fabeb801c9066acc2bf6a8a4f9495be7801672e90",
+    "source_sha256": "a4ba112f0cd5ce906884ee3fabeb801c9066acc2bf6a8a4f9495be7801672e90"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\event_05_kept_415.66s.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\event_05_kept_415.66s.wav",
+    "bytes": 167084,
+    "sha256": "febb33e333f16a7219478cb8a330d7456d98c04a1fd4fce9690fe4b7b7c0582f",
+    "source_sha256": "febb33e333f16a7219478cb8a330d7456d98c04a1fd4fce9690fe4b7b7c0582f"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\event_06_removed_451.53s.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\event_06_removed_451.53s.wav",
+    "bytes": 167084,
+    "sha256": "bb748dbcf9010a7a3e52422bfa810a2b357cfb81e05715a622b39b3f4dbee6d9",
+    "source_sha256": "bb748dbcf9010a7a3e52422bfa810a2b357cfb81e05715a622b39b3f4dbee6d9"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\event_07_removed_454.57s.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\event_07_removed_454.57s.wav",
+    "bytes": 148844,
+    "sha256": "dcd93a34de0358c318d831f7e7fcbe5c695aef594d59415f68526f982491c5b9",
+    "source_sha256": "dcd93a34de0358c318d831f7e7fcbe5c695aef594d59415f68526f982491c5b9"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\event_08_kept_493.48s.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\event_08_kept_493.48s.wav",
+    "bytes": 146924,
+    "sha256": "219df3349c556d7503664cc7dbdddf1c05c8ac8185d8fdf23f1091e1482a99f1",
+    "source_sha256": "219df3349c556d7503664cc7dbdddf1c05c8ac8185d8fdf23f1091e1482a99f1"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\event_09_removed_700.66s.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\event_09_removed_700.66s.wav",
+    "bytes": 150764,
+    "sha256": "0aece6b4b49f7624b6e618736206b068cc8ca482d0301cf57f8b84ec2b076b14",
+    "source_sha256": "0aece6b4b49f7624b6e618736206b068cc8ca482d0301cf57f8b84ec2b076b14"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\event_10_kept_750.07s.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\event_10_kept_750.07s.wav",
+    "bytes": 150764,
+    "sha256": "50819ab413656145f9011793b44b0594cab1f95fa3a34cda1cc9911b174a4c7a",
+    "source_sha256": "50819ab413656145f9011793b44b0594cab1f95fa3a34cda1cc9911b174a4c7a"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\event_11_removed_957.76s.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\event_11_removed_957.76s.wav",
+    "bytes": 142124,
+    "sha256": "efac1f0d198d337766fb1a58f5bba54a184259bd999187d2d21256028ed3ade4",
+    "source_sha256": "efac1f0d198d337766fb1a58f5bba54a184259bd999187d2d21256028ed3ade4"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\event_12_kept_978.84s.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\event_12_kept_978.84s.wav",
+    "bytes": 144044,
+    "sha256": "7a4bb6a4ba18f13835ef29e0001110641805e7d2adbe83b1070ed94e001a2b98",
+    "source_sha256": "7a4bb6a4ba18f13835ef29e0001110641805e7d2adbe83b1070ed94e001a2b98"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\event_13_kept_1061.47s.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\event_13_kept_1061.47s.wav",
+    "bytes": 182444,
+    "sha256": "248a92a04401d93eeefbea1d349b650ed279952a35de659c0adb733c04629e83",
+    "source_sha256": "248a92a04401d93eeefbea1d349b650ed279952a35de659c0adb733c04629e83"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\pause_01_309.35s_source.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\pause_01_309.35s_source.wav",
+    "bytes": 461804,
+    "sha256": "1aff1f535a6b516419720cf691b355077677bf1bcd2525b45a8cc5297ed7ab02",
+    "source_sha256": "1aff1f535a6b516419720cf691b355077677bf1bcd2525b45a8cc5297ed7ab02"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\pause_02_937.81s_source.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\pause_02_937.81s_source.wav",
+    "bytes": 458924,
+    "sha256": "df3152fce9676929ac6d81857442fcf847b38ba6a2ec57e7b3429da94cad307c",
+    "source_sha256": "df3152fce9676929ac6d81857442fcf847b38ba6a2ec57e7b3429da94cad307c"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\pause_03_475.69s_source.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\pause_03_475.69s_source.wav",
+    "bytes": 457004,
+    "sha256": "3c6a50ea820a0f25199dbbbb72faf463d0bd8ec07e7f180b011ce7060bb196cc",
+    "source_sha256": "3c6a50ea820a0f25199dbbbb72faf463d0bd8ec07e7f180b011ce7060bb196cc"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\pause_04_540.14s_source.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\pause_04_540.14s_source.wav",
+    "bytes": 449324,
+    "sha256": "0ab30151552d655a514724b23d208e0a9b8d660d7cec9aca618ba2ad338967cf",
+    "source_sha256": "0ab30151552d655a514724b23d208e0a9b8d660d7cec9aca618ba2ad338967cf"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\pause_05_631.45s_source.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\pause_05_631.45s_source.wav",
+    "bytes": 448364,
+    "sha256": "8772641be4f7b51b89d124d5ff080918c480312a791669e65fd4566b72e78c98",
+    "source_sha256": "8772641be4f7b51b89d124d5ff080918c480312a791669e65fd4566b72e78c98"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\pause_06_445.58s_source.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\pause_06_445.58s_source.wav",
+    "bytes": 446444,
+    "sha256": "56f83b1be86b23c12d3a0b419e5d432def939f3ad68e796ed7fe5fea2346be9c",
+    "source_sha256": "56f83b1be86b23c12d3a0b419e5d432def939f3ad68e796ed7fe5fea2346be9c"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\pause_07_427.36s_source.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\pause_07_427.36s_source.wav",
+    "bytes": 445484,
+    "sha256": "d11ff01d7d1d441c1803a5a2123ca402d002c8acc4930a76a1b56e372b682a70",
+    "source_sha256": "d11ff01d7d1d441c1803a5a2123ca402d002c8acc4930a76a1b56e372b682a70"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\pause_08_202.00s_source.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\pause_08_202.00s_source.wav",
+    "bytes": 444524,
+    "sha256": "45604023a125eb94a2553ed0d657b905126314ad13d22efd4b4fa5e3652f3dc6",
+    "source_sha256": "45604023a125eb94a2553ed0d657b905126314ad13d22efd4b4fa5e3652f3dc6"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\pause_09_428.62s_source.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\pause_09_428.62s_source.wav",
+    "bytes": 444524,
+    "sha256": "2ea8d4c99829ee80d5f6fbbe50e706163a29ddaad09ef5113f47e7a340be7c80",
+    "source_sha256": "2ea8d4c99829ee80d5f6fbbe50e706163a29ddaad09ef5113f47e7a340be7c80"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\pause_10_1065.04s_source.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\pause_10_1065.04s_source.wav",
+    "bytes": 444524,
+    "sha256": "c6682b255a3c9e6345b73e2811064b18b24615e7bf980c87ca4b847335483a1d",
+    "source_sha256": "c6682b255a3c9e6345b73e2811064b18b24615e7bf980c87ca4b847335483a1d"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\pause_11_266.19s_source.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\pause_11_266.19s_source.wav",
+    "bytes": 443564,
+    "sha256": "5906152417ee3a3d869f9002d0c6baa2a7c295d7f6627ec1be531cd77f65bab7",
+    "source_sha256": "5906152417ee3a3d869f9002d0c6baa2a7c295d7f6627ec1be531cd77f65bab7"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\review_audio\\pause_12_814.25s_source.wav",
+    "destination": "evidence\\data-storytelling\\review_audio\\pause_12_814.25s_source.wav",
+    "bytes": 443564,
+    "sha256": "ed967aef758fabcf896050af0a67a951bab2de767b3f065b2657be53a674658a",
+    "source_sha256": "ed967aef758fabcf896050af0a67a951bab2de767b3f065b2657be53a674658a"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\shortened_quiet_gaps.json",
+    "destination": "evidence\\data-storytelling\\shortened_quiet_gaps.json",
+    "bytes": 2192,
+    "sha256": "0a11d47fab684fa940cb1821ffc7ccb1433e0384af4a21736920440644cc87b8",
+    "source_sha256": "0a11d47fab684fa940cb1821ffc7ccb1433e0384af4a21736920440644cc87b8"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\source_integrity_hashes.json",
+    "destination": "evidence\\data-storytelling\\source_integrity_hashes.json",
+    "bytes": 715,
+    "sha256": "22bbbb39ef78756317a75b80ddb6c29cdaf4d84c06e5dd162a35ffd74634a5d8",
+    "source_sha256": "22bbbb39ef78756317a75b80ddb6c29cdaf4d84c06e5dd162a35ffd74634a5d8"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\source_overview.png",
+    "destination": "evidence\\data-storytelling\\source_overview.png",
+    "bytes": 114431,
+    "sha256": "d33f52ae4d02d536716b58b6313d07f98368ffc7dc2102f102b4a16344052030",
+    "source_sha256": "d33f52ae4d02d536716b58b6313d07f98368ffc7dc2102f102b4a16344052030"
+  },
+  {
+    "source": "C:\\Users\\you\\Documents\\Codex\\2026-11-10\\storytelling-cut-analysis\\supplement_measurements.py",
+    "destination": "evidence\\data-storytelling\\supplement_measurements.py",
+    "bytes": 4339,
+    "sha256": "f2d525ca0e020eade5d844e76dbdf6b3ea24e1b325b88df2d8fdfa6630e15f4b",
+    "source_sha256": "f2d525ca0e020eade5d844e76dbdf6b3ea24e1b325b88df2d8fdfa6630e15f4b"
+  },
+  {
+    "source": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\video\\Data storytelling.prproj",
+    "destination": "reference-projects\\Data storytelling.prproj",
+    "bytes": 271563,
+    "sha256": "1ed57025a71ac5dd6fb864061c6badff7bdd341bef7fe57635a1b361451f4972",
+    "source_sha256": "1ed57025a71ac5dd6fb864061c6badff7bdd341bef7fe57635a1b361451f4972"
+  },
+  {
+    "source": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\video\\Animation-Edit-v01-20261102\\Data-Storytelling-Animation-Edit-v01.prproj",
+    "destination": "reference-projects\\Data-Storytelling-Animation-Edit-v01.prproj",
+    "bytes": 451956,
+    "sha256": "0fee91c274a3782279b62bae9415b09e430a21ab9e86b40e4aa20ed09b3708fb",
+    "source_sha256": "0fee91c274a3782279b62bae9415b09e430a21ab9e86b40e4aa20ed09b3708fb"
+  },
+  {
+    "source": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Exec questions.prproj",
+    "destination": "reference-projects\\Exec questions.prproj",
+    "bytes": 106749,
+    "sha256": "3f23d2e6ad89fb73d505c632ec26d7ca6fdf8dc6398794df1083c647aa60f6cc",
+    "source_sha256": "3f23d2e6ad89fb73d505c632ec26d7ca6fdf8dc6398794df1083c647aa60f6cc"
+  },
+  {
+    "source": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\Answering-Exec-Questions-Animation-Edit-v03.prproj",
+    "destination": "reference-projects\\Answering-Exec-Questions-Animation-Edit-v03.prproj",
+    "bytes": 151319,
+    "sha256": "5c54cc4df2477d12c6697c9133689c06deb6cb7e0b7e5d3c36503f110ba39dda",
+    "source_sha256": "5c54cc4df2477d12c6697c9133689c06deb6cb7e0b7e5d3c36503f110ba39dda"
+  },
+  {
+    "source": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\Animation-Edit-v01-20261105\\reproducibility\\inspect_project.py",
+    "destination": "evidence\\executive-questions\\dependencies\\inspect_project.py",
+    "bytes": 3968,
+    "sha256": "15ca08ca90e01a85b1f1c62e2f5dcac0479afa7b2776741105cff16657ec4f5f",
+    "source_sha256": "15ca08ca90e01a85b1f1c62e2f5dcac0479afa7b2776741105cff16657ec4f5f"
+  },
+  {
+    "source": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\video\\Animation-Edit-v01-20261102\\reproducibility\\inspect_project.py",
+    "destination": "evidence\\data-storytelling\\dependencies\\inspect_project.py",
+    "bytes": 3968,
+    "sha256": "15ca08ca90e01a85b1f1c62e2f5dcac0479afa7b2776741105cff16657ec4f5f",
+    "source_sha256": "15ca08ca90e01a85b1f1c62e2f5dcac0479afa7b2776741105cff16657ec4f5f"
+  }
+]

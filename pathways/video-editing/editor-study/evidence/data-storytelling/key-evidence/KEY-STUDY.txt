@@ -1,0 +1,43 @@
+DATA STORYTELLING + EXECUTIVE QUESTIONS: GREEN-SCREEN EVIDENCE
+10 November 2026. Research observations, not agreed editing instructions.
+
+Sources
+Data base: E:\CareerOS\12_YouTube\show-data-like-this\video\Data storytelling.prproj
+Data current: E:\CareerOS\12_YouTube\show-data-like-this\video\Animation-Edit-v01-20261102\Data-Storytelling-Animation-Edit-v01.prproj
+Data actual export: E:\CareerOS\12_YouTube\show-data-like-this\video\Data Storytelling - Animation Edit v01.mp4
+Executive base: E:\CareerOS\12_YouTube\answering-exec-questions\video\Exec questions.prproj
+Executive current: E:\CareerOS\12_YouTube\answering-exec-questions\video\Animation-Edit-v01-20261105\Answering-Exec-Questions-Animation-Edit-v03.prproj
+Executive actual export: E:\CareerOS\12_YouTube\answering-exec-questions\video\export.mp4
+
+Ultra Key comparison (numbers read from native saved parameters)
+                                    Data Storytelling       Executive Questions
+Transparency                        45                      45
+Highlight                           52.04545                 5.28302
+Shadow                              50.22727                46.79245
+Tolerance                           65.45454                52.45283
+Pedestal                           100                      61.50944
+Choke                                7.72727                 0
+Soften                               0                       0
+Contrast                             0                       0
+Mid Point                           50                      50
+Desaturate                          25                      25
+Spill Range/Spill/Luma               50/50/50                50/50/50
+Saturation/Hue/Luminance            100/0/100               100/0/100
+Serialized Key Color               0xff0054009c004b00      0xff002b0061002600
+
+The two shots use substantially different key thresholds and cleanup, so neither is a universal preset. Data's 39 source pieces have one identical parameter signature. Executive's 14 source pieces have one identical signature. Their current final talking-head nests retain the same effect parameter values as their respective base projects. Raw serialized data and SHA-256 project identities are in native_effects_readback.json. Boolean group headings are recorded as found, not interpreted as effect bypass toggles.
+
+Composition
+Data has V1 office background, V2 a duplicate camera layer with Drop Shadow set to Shadow Only, and V3 the keyed presenter. Both camera layers retain a matching 17-node garbage mask. Native 3840x2160 presenter Motion Position=(1770,1141), Scale=115%. Shadow duplicate Position=(826,1376), Scale=100.8888855%. Drop Shadow: Opacity=52.7, Direction=135, Distance=5, Softness=121.1111, Shadow Only=true. Thus the large leftward displacement comes mainly from the duplicate's Motion Position, not the Drop Shadow Distance setting. The observed serialized effect chain is retained in the JSON; no reconstruction/render-equivalence claim is made.
+
+Executive full-head reference has background plus one keyed presenter, Position=(1920,1143), Scale=116%. No separate wall-shadow duplicate is present in its base or final full-head nest. The final PiP box has a Drop Shadow, which is a separate visual purpose and must not be confused with a subject wall shadow.
+
+The standard Motion Crop Bottom values are zero in both references. The unwanted desk is outside the reframed output, with garbage masks excluding the surrounding room. There is no verified universal bottom-crop percentage to copy. At scale115%, Data's output bottom maps to roughly y983 of a 1080-height source equivalent, cutting away about the lowest97 source-equivalent pixels through framing. This is explanatory geometry, not a recommended crop value.
+
+Actual-pixel inspection
+The saved samples are decoded from existing original recordings and actual exported videos, not approximated with FFmpeg chromakey. Data source15.399993s matches export8s; Executive source12.733322s matches export1s through the Premiere source mapping. Hair-source-versus-export.png compares the same poses, with explicit resampling filters in frame-provenance.json. Full original frames show the desk/green-screen edges that are absent from the composite.
+
+Observed in these samples: both retain the bulk of the hair without obvious transparent holes; Executive retains a visible stray hair above the head. Data's hair outline is somewhat tighter/smoother. The samples do not establish that any difference is caused only by Choke, since sources and export/resampling differ. Moving-hand and full-frame samples at Data8.0,8.1,8.2 and910 seconds do not show an obvious large unkeyed green hole. The rendered look places a broad subtle shadow to the left. No complete temporal playback, matte-only checkerboard render, black/white matte stress test, or new Ultra Key parameter iteration has been performed. A still-frame sample is not proof of flicker-free hair throughout.
+
+Scope and integrity
+Only separate study files were written. No production project, source media, plugin settings, Discord post, Frame.io upload or edit was changed. This is the evidence stage; final workflow instructions await Josh's agreement.

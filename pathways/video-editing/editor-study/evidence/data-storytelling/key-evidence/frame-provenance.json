@@ -1,0 +1,79 @@
+[
+  {
+    "file": "data-source-hair.png",
+    "source": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\Recorded\\Input\\2026-11-02 17-26-15.mp4",
+    "seconds": 15.399993,
+    "filter": "scale=1920:1080,crop=348:348:851:149,scale=400:400",
+    "scope": "Actual source or existing export. No key recreation, no native project edit."
+  },
+  {
+    "file": "data-export-hair.png",
+    "source": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\video\\Data Storytelling - Animation Edit v01.mp4",
+    "seconds": 8,
+    "filter": "crop=400:400:760:120",
+    "scope": "Actual source or existing export. No key recreation, no native project edit."
+  },
+  {
+    "file": "exec-source-hair.png",
+    "source": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+    "seconds": 12.733322,
+    "filter": "scale=1920:1080,crop=345:345:788:151,scale=400:400",
+    "scope": "Actual source or existing export. No key recreation, no native project edit."
+  },
+  {
+    "file": "exec-export-hair.png",
+    "source": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\export.mp4",
+    "seconds": 1,
+    "filter": "scale=1920:1080,crop=400:400:760:120",
+    "scope": "Actual source or existing export. No key recreation, no native project edit."
+  },
+  {
+    "file": "data-source-full.png",
+    "source": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\Recorded\\Input\\2026-11-02 17-26-15.mp4",
+    "seconds": 15.399993,
+    "filter": "scale=1280:720",
+    "scope": "Actual source or existing export. No key recreation, no native project edit."
+  },
+  {
+    "file": "data-export-full.png",
+    "source": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\video\\Data Storytelling - Animation Edit v01.mp4",
+    "seconds": 8,
+    "filter": "scale=1280:720",
+    "scope": "Actual source or existing export. No key recreation, no native project edit."
+  },
+  {
+    "file": "exec-source-full.png",
+    "source": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\Recorded\\Input\\2026-11-05_answering-exec-questions_recording_v02.mp4",
+    "seconds": 12.733322,
+    "filter": "scale=1280:720",
+    "scope": "Actual source or existing export. No key recreation, no native project edit."
+  },
+  {
+    "file": "exec-export-full.png",
+    "source": "E:\\CareerOS\\12_YouTube\\answering-exec-questions\\video\\export.mp4",
+    "seconds": 1,
+    "filter": "scale=1280:720",
+    "scope": "Actual source or existing export. No key recreation, no native project edit."
+  },
+  {
+    "file": "data-export-8.1s.png",
+    "source": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\video\\Data Storytelling - Animation Edit v01.mp4",
+    "seconds": 8.1,
+    "filter": "scale=1280:720",
+    "scope": "Actual existing export sample; no temporal playback judgment."
+  },
+  {
+    "file": "data-export-8.2s.png",
+    "source": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\video\\Data Storytelling - Animation Edit v01.mp4",
+    "seconds": 8.2,
+    "filter": "scale=1280:720",
+    "scope": "Actual existing export sample; no temporal playback judgment."
+  },
+  {
+    "file": "data-export-910.0s.png",
+    "source": "E:\\CareerOS\\12_YouTube\\show-data-like-this\\video\\Data Storytelling - Animation Edit v01.mp4",
+    "seconds": 910,
+    "filter": "scale=1280:720",
+    "scope": "Actual existing export sample; no temporal playback judgment."
+  }
+]

@@ -10,7 +10,7 @@ Josh films the script as talking head (A-roll). This skill takes the finished sc
 1. **The animation deck.** One self-contained HTML file. He opens it in a browser, presses space through it and screen-records it as one pass, then cuts each animation into the edit where the shot list says.
 2. **The shot list.** The full script in a two-column table. Column A is the script segment. Column B is the shot, either "Talking head" or "Insert Animation N" with a short description and the words each press lands on.
 
-The reference build is `E:\CareerOS\10_Sales\VSL\2026-10_executive-communication-program_vsl_slides_v01.html` with its shot list beside it. Copy its head, CSS, beat engine and components rather than starting from nothing.
+The reference build is `E:\CareerOS\10_Sales\VSL\2026-10_executive-communication-program_vsl_slides_v01.html` with its shot list beside it. (Public copies: the deck is in Josh OS at `reference_sources/animation-prep-20261015/`, https://github.com/JoshB509/josh-os/tree/main/reference_sources/animation-prep-20261015, and the shot list is in this repository at `pathways/video-editing/examples/`.) Copy its head, CSS, beat engine and components rather than starting from nothing.
 
 ## 1. Get the script
 

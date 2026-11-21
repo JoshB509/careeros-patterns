@@ -1,0 +1,116 @@
+{
+  "threshold_dbfs": -50,
+  "rms_bin_ms": 10,
+  "minimum_run_s": 0.3,
+  "retained_pause_count": 82,
+  "duration_quantiles_s": {
+    "min": 0.3,
+    "p25": 0.33,
+    "median": 0.37,
+    "p75": 0.445,
+    "p90": 0.5090000000000001,
+    "max": 0.68
+  },
+  "count_ge_450ms": 21,
+  "count_ge_500ms": 11,
+  "total_s": 32.32,
+  "largest": [
+    {
+      "source_start_s": 334.40000000000003,
+      "source_end_s": 335.08,
+      "duration_s": 0.68,
+      "threshold_dbfs": -50,
+      "left_words": "just ask, what are you hoping to see from it?",
+      "right_words": "And now they get to explain"
+    },
+    {
+      "source_start_s": 259.31,
+      "source_end_s": 259.95,
+      "duration_s": 0.64,
+      "threshold_dbfs": -50,
+      "left_words": "And then it's like,",
+      "right_words": "oh because  you've only got the"
+    },
+    {
+      "source_start_s": 163.36,
+      "source_end_s": 163.96,
+      "duration_s": 0.6,
+      "threshold_dbfs": -50,
+      "left_words": "you assume that you've got nothing to add.",
+      "right_words": "Which I think is wrong because  you"
+    },
+    {
+      "source_start_s": 185.58,
+      "source_end_s": 186.15,
+      "duration_s": 0.5700000000000001,
+      "threshold_dbfs": -50,
+      "left_words": "specific type of question, because",
+      "right_words": "if you just fire any question back"
+    },
+    {
+      "source_start_s": 328.71,
+      "source_end_s": 329.28000000000003,
+      "duration_s": 0.5700000000000001,
+      "threshold_dbfs": -50,
+      "left_words": "conversation where you can add value again.",
+      "right_words": "You say  to make sure that I bring you"
+    },
+    {
+      "source_start_s": 19.330000000000002,
+      "source_end_s": 19.89,
+      "duration_s": 0.56,
+      "threshold_dbfs": -50,
+      "left_words": "question and you don't have the answer,",
+      "right_words": "it's a make or break moment. And I see"
+    },
+    {
+      "source_start_s": 311.94,
+      "source_end_s": 312.49,
+      "duration_s": 0.55,
+      "threshold_dbfs": -50,
+      "left_words": "question they asked you.  So you say",
+      "right_words": "don't have it split by sight in front of me."
+    },
+    {
+      "source_start_s": 437.33,
+      "source_end_s": 437.86,
+      "duration_s": 0.53,
+      "threshold_dbfs": -50,
+      "left_words": "I really hope someone has that number today.",
+      "right_words": "They're asking for the number for a"
+    },
+    {
+      "source_start_s": 269.77,
+      "source_end_s": 270.28000000000003,
+      "duration_s": 0.51,
+      "threshold_dbfs": -50,
+      "left_words": "actually have that but I'll look it up for you.",
+      "right_words": "Then what do most people do in that situation."
+    },
+    {
+      "source_start_s": 239.43,
+      "source_end_s": 239.93,
+      "duration_s": 0.5,
+      "threshold_dbfs": -50,
+      "left_words": "on slide three and the CEO asks,",
+      "right_words": "hey,  could you just tell me what's"
+    },
+    {
+      "source_start_s": 240.1,
+      "source_end_s": 240.6,
+      "duration_s": 0.5,
+      "threshold_dbfs": -50,
+      "left_words": "and the CEO asks,  hey,",
+      "right_words": "could you just tell me what's the 90 day"
+    },
+    {
+      "source_start_s": 54.82,
+      "source_end_s": 55.300000000000004,
+      "duration_s": 0.48,
+      "threshold_dbfs": -50,
+      "left_words": "doubt everything else that they say.",
+      "right_words": "get more critical of their work, and"
+    }
+  ],
+  "warning": "Level-defined acoustic quiet intervals within retained spans. They are not manually validated semantic pauses; low-energy consonants may contribute."
+}
