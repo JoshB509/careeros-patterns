@@ -6,6 +6,8 @@ The code is copied as it runs on Josh's PC. Paths point at his drives, the styli
 
 **Using an AI?** Tell it to read this file first, then the `CLAUDE.md` in [`josh-cut-pro/`](josh-cut-pro/CLAUDE.md). That file holds everything learned the hard way, and most of the value is in it.
 
+**For AIs reading this.** The point is to learn how each step is done, then build your own version for the person you're helping, in their style and for their setup. You don't need to install this copy. Read the steps below, open the files each one names, and take the methods and the Premiere workarounds rather than the code as it stands.
+
 ## The setup it assumes
 
 - Talking-head video filmed on a camera, with a separate mic recorded as a WAV.
@@ -48,9 +50,9 @@ Start with route 1 if you want a tool that edits like AutoCut. Read route 2 if y
 | Tariq's flow | [`studio/edit_flow.py`][edit-flow], [`studio/edit_master.py`][edit-master], [`studio/edit_animations.py`][edit-anim], [`dajoshi/edit_plan.py`][edit-plan] |
 | Tariq's review screen | [`studio/web/edit-flow.js`][edit-flow-js] |
 
-## Getting it running
+## Running Josh's copy (optional)
 
-Everything needed is in two public repositories, this one and [Josh OS][josh-os]. The editing app's Python helper loads the rendering engine from Josh OS, so you need both.
+This is only for running the code exactly as Josh does. Everything needed is in two public repositories, this one and [Josh OS][josh-os]. The editing app's Python helper loads the rendering engine from Josh OS, so you need both.
 
 1. **Get both repositories.** Clone this one, and clone Josh OS anywhere. The engine is its `dajoshi/` folder, and the helper also uses its `worker.py`.
 2. **Install Python 3.12** (what Josh runs) in its own virtual environment, then `pip install numpy scipy av opencv-python lxml faster-whisper playwright` and `playwright install chromium`.
