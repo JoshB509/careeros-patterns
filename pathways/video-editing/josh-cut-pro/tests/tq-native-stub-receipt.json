@@ -1,0 +1,306 @@
+{
+ "scope": "MOCK ONLY, Premiere stub in Chrome",
+ "checks": {
+  "probe_ok": true,
+  "presenter_track": 2,
+  "shadow_track": 1,
+  "readback_problems": [],
+  "pieces_are_master_nests": true,
+  "mic_pieces": 3,
+  "planned": 3,
+  "no_camera_audio": true,
+  "second_build_refused": true,
+  "key_change_reached_every_piece": true,
+  "picture_at_right_source_time": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "shadow_key_untouched": true,
+  "saved": true,
+  "export_started": true,
+  "overlaps_during_build": 0
+ },
+ "results": {
+  "probe": {
+   "when": "2026-11-10T13:29:07.899Z",
+   "premiere": "26.0-stub",
+   "ok": true,
+   "notes": [],
+   "master": "GREEN_MASTER",
+   "api": {
+    "exporter": true,
+    "filter_factory": true,
+    "save": true,
+    "overwrite": true
+   },
+   "key_effects": [],
+   "project": "E:\\test\\Tariq test copy.prproj",
+   "frame_ticks": "8467200000",
+   "frame": [
+    1920,
+    1080
+   ],
+   "tracks": [
+    {
+     "track": 0,
+     "clips": 1,
+     "key": 0,
+     "shadow": 0,
+     "paths": [
+      "E:\\Videos\\DaJoshiCut\\tests\\office-bg.png"
+     ]
+    },
+    {
+     "track": 1,
+     "clips": 1,
+     "key": 1,
+     "shadow": 1,
+     "paths": [
+      "E:\\Videos\\DaJoshiCut\\tests\\sample-5min.mp4"
+     ]
+    },
+    {
+     "track": 2,
+     "clips": 1,
+     "key": 1,
+     "shadow": 0,
+     "paths": [
+      "E:\\Videos\\DaJoshiCut\\tests\\sample-5min.mp4"
+     ]
+    }
+   ],
+   "presenter_track": 2,
+   "shadow_track": 1,
+   "master_audio_clips": 0
+  },
+  "key_before": {
+   "master": "GREEN_MASTER",
+   "effects": [
+    {
+     "role": "presenter",
+     "track": 2,
+     "start": "0",
+     "effect": "AE.ADBE Motion",
+     "params": [
+      {
+       "index": 0,
+       "name": "Position",
+       "value": [
+        1770,
+        1141
+       ]
+      },
+      {
+       "index": 1,
+       "name": "Scale",
+       "value": 115
+      }
+     ]
+    },
+    {
+     "role": "presenter",
+     "track": 2,
+     "start": "0",
+     "effect": "AE.ADBE Ultra Key",
+     "params": [
+      {
+       "index": 0,
+       "name": "Transparency",
+       "value": 45
+      },
+      {
+       "index": 1,
+       "name": "Highlight",
+       "value": 52.04545
+      },
+      {
+       "index": 2,
+       "name": "Shadow",
+       "value": 50.22727
+      },
+      {
+       "index": 3,
+       "name": "Tolerance",
+       "value": 65.45454
+      },
+      {
+       "index": 4,
+       "name": "Pedestal",
+       "value": 100
+      },
+      {
+       "index": 5,
+       "name": "Choke",
+       "value": 7.72727
+      },
+      {
+       "index": 6,
+       "name": "Soften",
+       "value": 0
+      }
+     ]
+    },
+    {
+     "role": "shadow",
+     "track": 1,
+     "start": "0",
+     "effect": "AE.ADBE Motion",
+     "params": [
+      {
+       "index": 0,
+       "name": "Position",
+       "value": [
+        826,
+        1376
+       ]
+      },
+      {
+       "index": 1,
+       "name": "Scale",
+       "value": 100.89
+      }
+     ]
+    },
+    {
+     "role": "shadow",
+     "track": 1,
+     "start": "0",
+     "effect": "AE.ADBE Ultra Key",
+     "params": [
+      {
+       "index": 0,
+       "name": "Transparency",
+       "value": 45
+      },
+      {
+       "index": 1,
+       "name": "Highlight",
+       "value": 20
+      },
+      {
+       "index": 2,
+       "name": "Choke",
+       "value": 0
+      }
+     ]
+    },
+    {
+     "role": "shadow",
+     "track": 1,
+     "start": "0",
+     "effect": "AE.ADBE Drop Shadow",
+     "params": [
+      {
+       "index": 0,
+       "name": "Opacity",
+       "value": 52.7
+      },
+      {
+       "index": 1,
+       "name": "Direction",
+       "value": 135
+      },
+      {
+       "index": 2,
+       "name": "Distance",
+       "value": 5
+      },
+      {
+       "index": 3,
+       "name": "Softness",
+       "value": 121.1111
+      },
+      {
+       "index": 4,
+       "name": "Shadow Only",
+       "value": true
+      }
+     ]
+    }
+   ]
+  },
+  "build": {
+   "sequence": "CLEAN_CUT_r01",
+   "frame_ticks": "8467200000",
+   "video": [
+    {
+     "track": 0,
+     "start": "0",
+     "end": "4318272000000",
+     "inp": "254016000000",
+     "name": "GREEN_MASTER"
+    },
+    {
+     "track": 0,
+     "start": "4318272000000",
+     "end": "12116563200000",
+     "inp": "7239456000000",
+     "name": "GREEN_MASTER"
+    },
+    {
+     "track": 0,
+     "start": "12116563200000",
+     "end": "19737043200000",
+     "inp": "24893568000000",
+     "name": "GREEN_MASTER"
+    }
+   ],
+   "audio": [
+    {
+     "track": 0,
+     "start": "0",
+     "end": "4318272000000",
+     "inp": "762048000000",
+     "role": "mic"
+    },
+    {
+     "track": 0,
+     "start": "4318272000000",
+     "end": "12116563200000",
+     "inp": "7747488000000",
+     "role": "mic"
+    },
+    {
+     "track": 0,
+     "start": "12116563200000",
+     "end": "19737043200000",
+     "inp": "25401600000000",
+     "role": "mic"
+    }
+   ],
+   "gaps": [],
+   "overlaps": [],
+   "nest": true,
+   "master": "GREEN_MASTER",
+   "saved": false
+  },
+  "second_build_refused": true,
+  "set": {
+   "master": "GREEN_MASTER",
+   "param": "Choke",
+   "changed": [
+    {
+     "start": "0",
+     "before": 7.72727,
+     "after": 3
+    }
+   ]
+  },
+  "save": {
+   "saved": true,
+   "project": "E:\\test\\Tariq test copy.prproj"
+  },
+  "assemble": {
+   "sequence": "FINAL_ASSEMBLY_r01",
+   "existed": false
+  },
+  "export": {
+   "sequence": "FINAL_ASSEMBLY_r01",
+   "output": "E:/test/out.mp4",
+   "started": true,
+   "ame_installed": true
+  },
+  "overlaps_during_build": []
+ }
+}

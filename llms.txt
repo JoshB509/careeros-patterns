@@ -7,3 +7,11 @@ Start with AGENTS.md, then catalog.json.
 ## Recipes
 
 - [YouTube homepage preview](recipes/youtube-homepage-preview/README.md): a thumbnail as a home-feed card, and in a full home-feed preview among other videos. Steps for an AI: [ADAPT.md](recipes/youtube-homepage-preview/ADAPT.md)
+
+## Pathways
+
+- [Video editing](pathways/video-editing/README.md): the whole Premiere Pro editing workflow, from script to export. Then read [josh-cut-pro/CLAUDE.md](pathways/video-editing/josh-cut-pro/CLAUDE.md).
+
+## Skills
+
+- [Video editing prep](skills/video-editing-prep/SKILL.md): script to animation deck and shot list.

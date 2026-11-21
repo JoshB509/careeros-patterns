@@ -1,0 +1,8 @@
+/* Floaty: slow drifts with a slight scale, 600 to 800ms, ease in and out */
+[data-b]{transition:opacity .7s cubic-bezier(.45,0,.25,1),transform .8s cubic-bezier(.45,0,.25,1),filter .7s ease;transition-delay:calc(var(--i,0)*.16s)}
+[data-b]:not(.on){opacity:0!important;transform:translateY(26px) scale(.97)!important;filter:blur(3px)}
+.gone{opacity:0!important;transform:translateY(-14px) scale(.98)!important;filter:blur(3px)!important;transition:opacity .6s ease,transform .7s ease!important}
+@keyframes pop{0%{transform:scale(.9) translateY(10px);opacity:0}100%{transform:none;opacity:1}}
+.rw.on,.card.on,.mb.on,.lr.on{animation:k-float 6s ease-in-out 1s infinite}
+@keyframes k-float{0%,100%{translate:0 0}50%{translate:0 -6px}}
+.scene.half.on .k-panel{animation-duration:.9s;animation-timing-function:cubic-bezier(.45,0,.25,1)}

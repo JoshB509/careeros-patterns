@@ -1,0 +1,13 @@
+html, body { margin: 0; padding: 0; background-color: #131418; color: #eeebe4; font-family: "Segoe UI", sans-serif; font-size: 12px; }
+.wrap { padding: 10px 12px; }
+.top { display: flex; flex-direction: row; align-items: center; }
+.logo { width: 20px; height: 20px; border-radius: 5px; background-color: #f5c21b; color: #15171c; font-weight: 800; font-size: 12px; text-align: center; line-height: 20px; margin-right: 7px; }
+.name { flex: 1; font-size: 13px; font-weight: 700; }
+.name b { color: #f5c21b; }
+.link { display: flex; flex-direction: row; align-items: center; font-size: 11px; color: #85827a; }
+.link .dot { width: 7px; height: 7px; border-radius: 4px; background-color: #e2584c; margin-right: 5px; }
+.link.on { color: #b9b5ab; }
+.link.on .dot { background-color: #43b37a; }
+.seq { margin: 8px 0 8px; color: #b9b5ab; font-size: 11px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.open { width: 100%; padding: 7px 0; border-radius: 7px; border: 1px solid #f5c21b; background-color: #f5c21b; color: #15171c; font-size: 12px; font-weight: 700; }
+.activity { margin-top: 6px; font-size: 11px; color: #85827a; min-height: 14px; }

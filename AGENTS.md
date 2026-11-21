@@ -8,7 +8,8 @@ This repository is a library of self-contained recipes taken from CareerOS. A pe
 2. Open that recipe's `README.md` for what it does, then its `ADAPT.md` for the steps. Follow `ADAPT.md` over your own assumptions.
 3. Copy only that recipe's `src/` files. Recipes don't depend on each other or on anything else in this repository.
 4. Run the recipe's `demo.html` or its test if you need to see the intended behaviour.
-5. Keep the rules listed in `ADAPT.md`. They are there because the original app relied on them, for example never presenting invented numbers as real.
+5. For a pathway (a whole workflow under `pathways/`), read its `README.md` and then the `CLAUDE.md` it points to. Pathway code is copied as it runs on one PC, so treat paths, branding and tuned numbers as examples to replace with the person's own.
+6. Keep the rules listed in `ADAPT.md`. They are there because the original app relied on them, for example never presenting invented numbers as real.
 
 ## What not to do
 

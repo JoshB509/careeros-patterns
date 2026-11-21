@@ -7,13 +7,60 @@
       "title": "YouTube homepage preview",
       "folder": "recipes/youtube-homepage-preview",
       "summary": "Shows a thumbnail as a YouTube-style home-feed card, and in a full home-feed preview among other videos, so a creator can judge how it stands out.",
-      "entry": ["src/youtube-preview.js", "src/youtube-preview.css"],
+      "entry": [
+        "src/youtube-preview.js",
+        "src/youtube-preview.css"
+      ],
       "demo": "demo.html",
       "adapt": "ADAPT.md",
-      "needs_from_host": ["one to three candidate thumbnail image URLs", "the video title and channel name", "optional list of other videos: image, title, channel, views, published date"],
+      "needs_from_host": [
+        "one to three candidate thumbnail image URLs",
+        "the video title and channel name",
+        "optional list of other videos: image, title, channel, views, published date"
+      ],
       "dependencies": [],
       "network": "none",
-      "tags": ["youtube", "thumbnail", "preview", "ui", "creator-tools"]
+      "tags": [
+        "youtube",
+        "thumbnail",
+        "preview",
+        "ui",
+        "creator-tools"
+      ]
+    }
+  ],
+  "pathways": [
+    {
+      "id": "video-editing",
+      "title": "Video editing pathway",
+      "folder": "pathways/video-editing",
+      "summary": "The whole route from a finished script to an exported talking-head video in Premiere Pro: animation deck, transcription, acoustic clean cut, flub cuts, cutting the sequence in place through UXP, rendering animations with alpha and placing them on the timeline.",
+      "start": "README.md",
+      "then": "josh-cut-pro/CLAUDE.md",
+      "as_is": true,
+      "note": "Copied as it runs on one PC. Paths, brand and settings are the author's own. Read it to learn how it works and rebuild it for your setup.",
+      "needs": [
+        "Adobe Premiere Pro 25.6 with a UXP panel",
+        "Python with faster-whisper and FFmpeg",
+        "a Claude API key"
+      ],
+      "tags": [
+        "video",
+        "premiere",
+        "uxp",
+        "editing",
+        "whisper",
+        "animation",
+        "claude"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": "video-editing-prep",
+      "title": "Video editing prep",
+      "folder": "skills/video-editing-prep",
+      "summary": "A Claude skill that turns a finished script into an HTML animation deck and a two-column script and shot list."
     }
   ]
 }

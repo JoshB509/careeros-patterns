@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Josh Cut Pro</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="fonts.css">
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <div id="app">
+    <header id="bar">
+      <button class="iconBtn hidden" id="back" title="Back">
+        <svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg>
+      </button>
+      <div class="brand" id="brand">
+        <span class="logo"><svg viewBox="0 0 24 24"><path d="M15 4v10.5a4.5 4.5 0 0 1-9 0"/></svg></span>
+        <span class="wordmark">Josh Cut <b>Pro</b></span>
+      </div>
+      <div class="toolTitle hidden" id="toolTitle"></div>
+      <div class="grow"></div>
+      <div class="conn" id="conn"><span class="dot"></span><span id="connText">Connecting</span></div>
+      <button class="iconBtn" id="gear" title="Settings">
+        <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg>
+      </button>
+    </header>
+
+    <main id="view"></main>
+
+    <div id="toast" class="hidden">
+      <div class="toastRow">
+        <span class="ring" id="ring"></span>
+        <span id="toastMsg"></span>
+        <span id="toastTime"></span>
+        <button class="textBtn" id="toastLog">Log</button>
+        <button class="textBtn" id="toastCancel">Cancel</button>
+        <button class="textBtn" id="toastClose">Close</button>
+      </div>
+      <pre id="log" class="hidden"></pre>
+    </div>
+
+    <footer id="foot" class="hidden">
+      <div id="footInfo"></div>
+      <button class="primary" id="main">Start</button>
+    </footer>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

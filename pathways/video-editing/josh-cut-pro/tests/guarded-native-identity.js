@@ -1,0 +1,37 @@
+'use strict';
+// MOCK ONLY. No Premiere, browser, helper server, or installed plugin is loaded.
+const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const vm = require('node:vm');
+const path = require('node:path');
+const source = fs.readFileSync(path.join(__dirname, '../panel/index.js'), 'utf8');
+const block = source.split('// BEGIN GUARDED NATIVE IDENTITY')[1].split('// END GUARDED NATIVE IDENTITY')[0];
+const code = block.slice(block.indexOf('\n'));
+let active, builds = 0, saves = 0, probeOK = true;
+const master = {name:'GREEN_MASTER', guid:'master-guid'};
+const state = {name:'GREEN_MASTER',frame_ticks:'100',items:[]};
+const project = {path:'E:/video/Tariq/video.prproj', sequences:[master], getSequences:async function(){return this.sequences;}, save:async()=>{saves++;return true;}};
+const other = {path:'E:/other/Tariq/other.prproj',save:async()=>{throw Error('Wrong project saved');}};
+const context = {ppro:{Project:{getActiveProject:async()=>active}},opInfo:async(p,s)=>s===master?state:{name:s.name,items:[]},api:async()=>({probe:{ok:probeOK,premiere:'26',strategy:{recipe:'shrink-slide'}}}),require:n=>({host:{version:'26'}}),tqBuildCut:async(args,p,m,strategy)=>{assert.equal(p,project);assert.equal(m,master);assert.equal(strategy.recipe,'shrink-slide');builds++;p.sequences.push({name:args.plan.sequence_name,guid:'built-guid'});active=other;return {sequence:args.plan.sequence_name};}};
+vm.createContext(context);vm.runInContext(code+'\nthis.guard={guardedPath,guardedGuid,guardedSequence,tqGuardedReadSequence,tqGuardedBuildCut};',context);
+const g=context.guard;
+const args=()=>({expected_project:project.path,expected_master_guid:'master-guid',expected_master_state:state,plan:{master:'GREEN_MASTER',sequence_name:'NEW'}});
+(async()=>{
+ active=project;
+ assert.equal(g.guardedPath('E:\\video\\Tariq\\video.prproj'),'e:/video/tariq/video.prproj');
+ assert.equal(g.guardedPath('\\\\?\\E:\\video\\Tariq\\video.prproj'),'e:/video/tariq/video.prproj');
+ for(const p of ['../Tariq/a.prproj','E:/video/../Tariq/a.prproj','E:/video/a.prproj','//server/Tariq/a.prproj'])assert.throws(()=>g.guardedPath(p));
+ assert.throws(()=>g.guardedGuid({name:'no guid'}));
+ const read=await g.tqGuardedReadSequence({expected_project:project.path,sequence:'GREEN_MASTER',expected_sequence_guid:'master-guid'});assert.equal(read.sequence_guid,'master-guid');assert.equal(builds,0);
+ await assert.rejects(()=>g.tqGuardedReadSequence({expected_project:project.path,sequence:'GREEN_MASTER',expected_sequence_guid:'wrong'}));
+ project.sequences.push({name:'GREEN_MASTER',guid:'duplicate'});await assert.rejects(()=>g.guardedSequence(project,'GREEN_MASTER','master-guid'));project.sequences.pop();
+ active=other;await assert.rejects(()=>g.tqGuardedBuildCut(args()));assert.equal(builds,0);active=project;
+ await assert.rejects(()=>g.tqGuardedBuildCut({...args(),expected_master_state:{changed:true}}));assert.equal(builds,0);
+ probeOK=false;await assert.rejects(()=>g.tqGuardedBuildCut(args()));assert.equal(builds,0);probeOK=true;
+ const result=await g.tqGuardedBuildCut(args());assert.equal(result.sequence_guid,'built-guid');assert.equal(result.saved,true);assert.equal(saves,1);assert.equal(builds,1);
+ assert(source.includes('const proj = boundProject || await ppro.Project.getActiveProject();'));
+ assert(source.includes('const master = boundMaster || await findSequence(proj, plan.master);'));
+ assert(source.includes('const strategy = boundStrategy || await strategyFor();'));
+ assert(source.includes('Date.now() >= call.expires_at_ms'));
+ console.log('PASS: 11 guarded identity scenarios; MOCK ONLY, no native readiness claim.');
+})().catch(e=>{console.error(e);process.exitCode=1;});

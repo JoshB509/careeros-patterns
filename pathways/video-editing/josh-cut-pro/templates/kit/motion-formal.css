@@ -1,0 +1,8 @@
+/* Formal: short fades and small slides, about 300ms, ease out */
+[data-b]{transition:opacity .3s cubic-bezier(.2,.7,.3,1),transform .32s cubic-bezier(.2,.7,.3,1),filter .3s ease;transition-delay:calc(var(--i,0)*.08s)}
+[data-b]:not(.on){opacity:0!important;transform:translateY(14px)!important;filter:none}
+.gone{opacity:0!important;transform:none!important;filter:none!important;transition:opacity .25s ease!important}
+@keyframes pop{0%{transform:scale(.85);opacity:0}100%{transform:scale(1);opacity:1}}
+@keyframes drift{to{transform:translate(-40px,30px)}}
+.scene.half.on .k-panel{animation-duration:.4s}
+.qcard.on,.card.gold.on,.thumbs.on .thumb{animation:none}

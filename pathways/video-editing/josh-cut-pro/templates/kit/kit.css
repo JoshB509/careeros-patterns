@@ -1,0 +1,56 @@
+/* Josh Cut Pro style kit. Loads after the deck template, so it wins.
+   Colours and fonts come from the style's :root variables. Scenes use the
+   classes below and the template's components, never raw colours or fonts. */
+
+html,body,#stage,.scene{background:var(--bg)}
+body{color:var(--text)}
+
+/* the camera placeholder for previews. Renders hide anything with .camera. */
+#camfill{position:absolute;inset:0;display:none;background:var(--grey-2);align-items:center;justify-content:center;font:700 26px var(--font-body);letter-spacing:.24em;color:var(--faint)}
+body.half #camfill,body.kw #camfill,body.lt #camfill{display:flex}
+
+/* picture in picture: a frame around a hole the V4 camera shows through */
+#pip,#pipframe{left:var(--pip-x);top:var(--pip-y);width:var(--pip-w);height:var(--pip-h);border-radius:var(--pip-r)}
+#pipframe{border-color:var(--gold);background:var(--grey-2)}
+body.alpha #pipframe{background:transparent}
+body.alpha.pip #stage{-webkit-mask:var(--pip-mask) 0 0/1920px 1080px no-repeat;mask:var(--pip-mask) 0 0/1920px 1080px no-repeat}
+.scene.pip>*{translate:var(--pip-shift) 0}
+.scene.pip::before{translate:var(--pip-shift) 0}
+
+/* half and half: a panel slides in from one side, the camera fills the other half */
+.scene.half{background:transparent}
+.scene.half::before{display:none}
+.scene.half>*{translate:var(--half-shift) 0}
+.k-panel{position:absolute;left:0;top:0;width:960px;height:1080px;background:var(--surface);box-shadow:0 0 60px rgba(var(--shadow-rgb),.18)}
+.scene.half.on .k-panel{animation:k-panel-in .7s cubic-bezier(.2,.8,.2,1) both}
+@keyframes k-panel-in{from{transform:translateX(var(--panel-from,-100%))}to{transform:none}}
+.k-panel::after{content:"";position:absolute;top:0;bottom:0;width:10px;background:var(--gold);right:var(--panel-edge-r,0);left:var(--panel-edge-l,auto)}
+
+/* key word pop and lower third sit over the camera with nothing behind them */
+.scene.kw,.scene.lt{background:transparent}
+.scene.kw::before,.scene.lt::before{display:none}
+.k-pop{display:inline-block;font-family:var(--font-head);font-weight:800;font-size:150px;line-height:1;letter-spacing:-.02em;padding:.12em .32em;background:var(--gold);color:var(--on-gold);white-space:nowrap;box-shadow:0 24px 60px rgba(0,0,0,.28)}
+.k-pop.sm{font-size:96px}
+.k-lower{display:flex;flex-direction:column;gap:6px;padding:26px 40px 28px 34px;background:var(--surface);border-left:12px solid var(--gold);box-shadow:0 18px 50px rgba(0,0,0,.25);white-space:nowrap}
+.k-lower .k-lt-title{font-family:var(--font-head);font-weight:700;font-size:52px;line-height:1.1;color:var(--ink)}
+.k-lower .k-lt-sub{font-family:var(--font-body);font-weight:700;font-size:26px;letter-spacing:.14em;text-transform:uppercase;color:var(--gold-deep)}
+
+/* title card */
+.k-title{font-family:var(--font-head);font-weight:800;font-size:124px;line-height:1.02;letter-spacing:-.02em;color:var(--ink);text-align:center;text-wrap:balance}
+.k-kicker{font-family:var(--font-body);font-weight:700;font-size:28px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold-deep);text-align:center}
+.k-rule{height:10px;width:160px;border-radius:5px;background:var(--gold)}
+
+/* watch next end screen: empty frames where the YouTube end screen elements go */
+.k-endvideo{position:absolute;left:1010px;top:300px;width:800px;height:450px;border:6px solid var(--gold);border-radius:18px;background:var(--grey)}
+.k-endsub{position:absolute;left:250px;top:600px;width:240px;height:240px;border-radius:50%;border:6px solid var(--gold);background:var(--grey)}
+.k-endvideo::after,.k-endsub::after{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font:700 22px var(--font-body);letter-spacing:.2em;text-transform:uppercase;color:var(--faint)}
+.k-endvideo::after{content:"Next video"}
+.k-endsub::after{content:"Subscribe"}
+
+/* emphasis and drawing. Each look restyles these. */
+.k-em{position:relative;display:inline}
+.k-under{position:relative;display:inline-block}
+.k-under::after{content:"";position:absolute;left:0;right:0;bottom:-.08em;height:.12em;border-radius:.06em;background:var(--gold);transform:scaleX(0);transform-origin:left center;transition:transform .7s cubic-bezier(.6,0,.3,1) .35s}
+.on .k-under::after,.k-under.on::after{transform:scaleX(1)}
+.k-box{position:relative}
+.k-accent{color:var(--accent-deep)}

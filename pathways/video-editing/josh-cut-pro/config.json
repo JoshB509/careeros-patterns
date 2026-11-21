@@ -1,0 +1,23 @@
+{
+  "engine": "E:\\Videos\\DaJoshiResolve",
+  "projects": "E:\\Videos\\DaJoshiCut\\Projects",
+  "port": 47820,
+  "models": {
+    "clean": "claude-sonnet-5-5",
+    "shotlist": "claude-opus-5-5",
+    "deck": "claude-opus-5-5"
+  },
+  "clean": {
+    "max_pause": 0.45,
+    "pad_before": 0.08,
+    "pad_after": 0.10,
+    "min_cut": 0.15
+  },
+  "pip": {
+    "box": [1322, 202, 518, 674],
+    "border": 6,
+    "zoom": 1.0,
+    "shift": 0.0
+  },
+  "parallel_builds": 4
+}
