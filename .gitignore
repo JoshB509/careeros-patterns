@@ -1,0 +1,6 @@
+# never published
+tools/private-terms.txt
+__pycache__/
+*.pyc
+.env
+.env.*

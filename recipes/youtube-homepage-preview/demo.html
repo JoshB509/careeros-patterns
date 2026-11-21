@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>YouTube homepage preview demo</title>
+<link rel="stylesheet" href="src/youtube-preview.css">
+<style>
+  /* Only the demo page's own frame. The recipe's look is all in src/youtube-preview.css. */
+  body{margin:0;background:#fafafa;font-family:system-ui,sans-serif;color:#15171c}
+  main{max-width:1100px;margin:0 auto;padding:32px 16px 64px}
+  h1{font-size:28px;margin:0 0 4px}
+  p.lead{margin:0 0 28px;color:#5f626a}
+  .three{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+  .three b{display:block;margin-bottom:8px;font-size:13px;color:#5f626a}
+  .go{margin-top:28px;min-height:40px;padding:0 18px;border:0;border-radius:10px;background:#15171c;color:#fff;font:600 15px system-ui,sans-serif;cursor:pointer}
+  @media (max-width:760px){.three{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<main>
+  <h1>Your three thumbnails</h1>
+  <p class="lead">Each one as a viewer meets it. Open the homepage to see it among other videos.</p>
+  <div class="three" id="three"></div>
+  <button class="go" id="go">View on homepage</button>
+</main>
+<script src="src/youtube-preview.js"></script>
+<script>
+  // Made-up data. Thumbnails are drawn here as SVG, so the demo has no real creator's images.
+  function thumb(text, a, b, ink) {
+    const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${a}"/><stop offset="1" stop-color="${b}"/></linearGradient></defs>
+      <rect width="1280" height="720" fill="url(#g)"/><circle cx="1000" cy="380" r="210" fill="rgba(255,255,255,.18)"/>
+      <text x="80" y="420" font-family="Arial Black,Arial,sans-serif" font-size="120" font-weight="900" fill="${ink || '#fff'}">${text}</text></svg>`;
+    return 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(svg);
+  }
+  const mine = [
+    { label: 'A', image: thumb('ONE TALK', '#1d3557', '#457b9d'), title: 'One Conversation That Changed My Career', channel: 'Demo Creator', stats: '123K views • 3 days ago', duration: '12:38' },
+    { label: 'B', image: thumb('IT TAKES ONE', '#14213d', '#fca311'), title: 'One Conversation That Changed My Career', channel: 'Demo Creator', stats: '123K views • 3 days ago', duration: '12:38' },
+    { label: 'C', image: thumb('SAY THIS', '#2b2d42', '#ef233c'), title: 'One Conversation That Changed My Career', channel: 'Demo Creator', stats: '123K views • 3 days ago', duration: '12:38' },
+  ];
+  const colours = [['#264653', '#2a9d8f'], ['#3d405b', '#e07a5f'], ['#003049', '#d62828'], ['#5f0f40', '#9a031e'], ['#0b132b', '#5bc0be'], ['#22223b', '#9a8c98'],
+                   ['#283618', '#bc6c25'], ['#03045e', '#00b4d8'], ['#370617', '#f48c06'], ['#1b4332', '#95d5b2'], ['#3c096c', '#ff6d00']];
+  const words = ['LEAD WITHOUT AUTHORITY', 'THE 1% HABIT', 'STOP DOING THIS', 'ASK FOR MORE', 'BOSS MODE', 'THE QUIET WIN', 'READ THE ROOM', 'NO MORE MEETINGS', 'PITCH IT', 'FIX YOUR DECK', 'SPEAK FIRST'];
+  const refs = words.map((w, i) => ({
+    image: thumb(w.length > 12 ? w.split(' ').slice(0, 2).join(' ') : w, ...colours[i]),
+    title: `Example video ${i + 1}: ${w.toLowerCase().replace(/(^|\s)\S/g, s => s.toUpperCase())}`,
+    channel: `Example Channel ${String.fromCharCode(65 + i)}`,
+    views: i % 3 === 2 ? null : Math.round(4000 + i * 91000),
+    published: i % 4 === 3 ? null : new Date(Date.now() - (i + 2) * 9 * 864e5).toISOString().slice(0, 10),
+  }));
+  document.getElementById('three').innerHTML = mine.map((c, i) => `<div><b>${['Main', 'B', 'C'][i]}</b>${YouTubePreview.card(Object.assign({ mine: true }, c))}</div>`).join('');
+  document.getElementById('go').onclick = () => YouTubePreview.openHomepage({ candidates: mine, references: refs, viewer: 'Demo Creator' });
+</script>
+</body>
+</html>

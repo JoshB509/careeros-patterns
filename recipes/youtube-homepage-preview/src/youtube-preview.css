@@ -1,0 +1,51 @@
+/* YouTube-style card and homepage preview. A recipe from careeros-patterns.
+   The card follows the home-feed card: a rounded 16:9 thumbnail with a duration badge, then the channel avatar beside
+   a bold two-line title, the channel name and a views line. The preview uses the light home-feed colours and a
+   Roboto/Arial stack so a thumbnail is judged as a viewer meets it. Everything is scoped to .yc and .yh classes. */
+
+/* the card */
+.yc{font-family:Roboto,Arial,sans-serif;color:#0f0f0f;min-width:0}
+.yc-thumb{position:relative;aspect-ratio:16/9;border-radius:12px;overflow:hidden;background:#e5e5e5}
+.yc-thumb img{display:block;width:100%;height:100%;object-fit:cover}
+.yc-dur{position:absolute;right:8px;bottom:8px;padding:1px 4px;border-radius:4px;background:rgba(0,0,0,.6);color:#fff;font-size:12px;font-weight:500;line-height:18px}
+.yc-meta{display:flex;gap:12px;padding-top:12px}
+.yc-av{flex:none;display:grid;place-items:center;width:36px;height:36px;border-radius:50%;background:#e5e5e5;color:#606060;font:500 15px/1 Roboto,Arial,sans-serif;object-fit:cover}
+.yc-av.mine{background:#15171c;color:#fff}
+.yc-text{min-width:0}
+.yc-title{margin:0 0 4px;font-family:inherit;font-size:16px;font-weight:600;line-height:22px;color:#0f0f0f;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;letter-spacing:0}
+.yc-line{margin:0;font-size:14px;line-height:20px;color:#606060;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+
+/* the homepage preview, full screen */
+dialog.yh{position:fixed;inset:0;width:100vw;max-width:none;height:100dvh;max-height:none;margin:0;padding:0;border:0;border-radius:0;background:#fff;color:#0f0f0f;font-family:Roboto,Arial,sans-serif;overflow:auto}
+dialog.yh::backdrop{background:#fff}
+.yh-top{position:sticky;top:0;z-index:2;display:flex;align-items:center;gap:16px;height:56px;padding:0 16px;background:#fff}
+.yh-ico{display:grid;place-items:center;width:40px;height:40px;flex:none}
+.yh-ico svg,.yh-side svg{width:24px;height:24px;fill:none;stroke:#0f0f0f;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.yh-logo{display:flex;align-items:center;gap:6px;font-size:18px;font-weight:500;letter-spacing:-.02em;margin-right:auto}
+.yh-logo i{width:28px;height:20px;border-radius:6px;background:#ff0033;position:relative}
+.yh-logo i::after{content:"";position:absolute;left:11px;top:6px;border-left:8px solid #fff;border-top:4px solid transparent;border-bottom:4px solid transparent}
+.yh-search{display:flex;align-items:center;width:min(560px,40vw);height:40px;border:1px solid #ccc;border-radius:40px;overflow:hidden;margin-right:auto}
+.yh-search input{flex:1;height:100%;border:0;padding:0 16px;font:16px Roboto,Arial,sans-serif;background:#fff;box-shadow:none;outline:none}
+.yh-search .yh-ico{width:64px;height:100%;background:#f8f8f8;border-left:1px solid #d3d3d3}
+.yh-body{display:flex}
+.yh-side{position:sticky;top:56px;align-self:flex-start;display:flex;flex-direction:column;width:72px;padding:4px}
+.yh-side span{display:flex;flex-direction:column;align-items:center;gap:6px;padding:16px 0 14px;border-radius:10px}
+.yh-side span.on{background:#f2f2f2}
+.yh-side small{font-size:10px;color:#0f0f0f}
+.yh-main{flex:1;min-width:0;padding:0 24px 120px}
+.yh-chips{position:sticky;top:56px;z-index:1;display:flex;gap:12px;padding:12px 0;background:#fff;overflow:hidden;white-space:nowrap}
+.yh-chips span{padding:0 12px;height:32px;line-height:32px;border-radius:8px;background:rgba(0,0,0,.05);font-size:14px;font-weight:500}
+.yh-chips span.on{background:#0f0f0f;color:#fff}
+.yh-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:40px 16px;padding-top:12px}
+
+/* the floating controls: which thumbnail, shuffle, close */
+.yh-bar{position:fixed;left:50%;bottom:20px;transform:translateX(-50%);z-index:3;display:flex;align-items:center;gap:8px;padding:6px;border-radius:999px;background:#15171c;box-shadow:0 2px 6px rgba(0,0,0,.2),0 12px 32px rgba(0,0,0,.25);font-family:system-ui,sans-serif}
+.yh-bar button{min-height:34px;padding:0 14px;border:0;border-radius:999px;background:transparent;color:#fff;font:600 14px system-ui,sans-serif;cursor:pointer}
+.yh-bar button:hover{background:rgba(255,255,255,.12)}
+.yh-bar button:focus-visible{outline:2px solid #f5c21b;outline-offset:1px}
+.yh-pick{display:flex;gap:2px;padding-right:6px;margin-right:2px;border-right:1px solid rgba(255,255,255,.2)}
+.yh-pick button.on{background:#fff;color:#15171c}
+
+@media (max-width:1100px){.yh-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:760px){.yh-side,.yh-search{display:none}.yh-main{padding:0 0 110px}.yh-chips{padding:12px}
+  .yh-grid{grid-template-columns:1fr;gap:24px}.yh-card .yc-thumb{border-radius:0}.yh-card .yc-meta{padding:12px 12px 0}}
